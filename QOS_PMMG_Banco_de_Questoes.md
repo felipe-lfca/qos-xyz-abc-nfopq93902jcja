@@ -8,7 +8,7 @@ Gabarito oficial, anotações, comentários e as tabelas de respostas consolidad
 
 Os blocos recolhíveis funcionam em qualquer visualizador de Markdown que aceite HTML — GitHub, Obsidian, VS Code (pré-visualização), Typora. Se você abrir o arquivo em modo de texto puro (ou colar no Google Docs), o conteúdo aparece todo expandido, com as linhas `<details>` e `<summary>` visíveis.
 
-No GitHub e no VS Code, use o índice/estrutura do documento (no VS Code, `Ctrl+Shift+O`) para navegar por ano, matéria e questão.
+Para chegar direto a uma questão, use o [sumário por ano e questão](#sumário-por-ano-e-questão): ele lista as 208 questões agrupadas por prova e por matéria, com link para cada uma. No GitHub e no VS Code também dá para navegar pelo índice/estrutura do documento (no VS Code, `Ctrl+Shift+O`).
 
 ## **Sistema de marcação para busca (Ctrl+F)**
 
@@ -40,6 +40,89 @@ Cada questão traz uma linha de STATUS logo abaixo do título. Edite-a à mão c
 *Composição de cada prova: Língua Portuguesa, Direitos Humanos e Conhecimentos Específicos (Farmácia). Todos os quatro gabaritos aqui são os OFICIAIS, já pós-recurso.*
 
 **Questões anuladas: na prova de 2023 o CRS anulou as questões 06 (Português), 22 e 29 (Conhecimentos Específicos). Elas continuam no documento, marcadas como ANULADA, porque o enunciado ainda mostra o que a banca quis cobrar — só não vale como resposta. Nas provas de 2013, 2017 e 2024 não houve anulação.**
+
+# **Sumário por ano e questão**
+
+Índice de acesso rápido: clique no código da questão para ir direto a ela. Os gabaritos seguem recolhidos, então abrir uma questão pelo sumário não revela a resposta.
+
+| Prova | Total | Português | Dir. Humanos | Específicas | Gabarito consolidado |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| [2013 — QOS/2013 – Farmacêutico](#prova-2013--qos2013--farmacêutico) | 40 | 9 | 4 | 27 | [ver](#gabarito-consolidado--2013) |
+| [2017 — QOS/2017 – Farmácia](#prova-2017--qos2017--farmácia) | 40 | 9 | 4 | 27 | [ver](#gabarito-consolidado--2017) |
+| [2023 — QOS-PM/2023 – Farmácia](#prova-2023--qos-pm2023--farmácia) | 50 | 10 | 5 | 35 | [ver](#gabarito-consolidado--2023) |
+| [2024 — QOS/2024 – Farmacêutico Hospitalar](#prova-2024--qos2024--farmacêutico-hospitalar) | 50 | 10 | 5 | 35 | [ver](#gabarito-consolidado--2024) |
+| [2022 — QOS/2022 – Psiquiatria (aproveitamento: Português e Direitos Humanos)](#prova-2022--qos2022--psiquiatria-aproveitamento-português-e-direitos-humanos) | 13 | 9 | 4 | — | [ver](#gabarito-consolidado--2022-preliminar) |
+| [2026 — CCOS/2026 – Psicologia (aproveitamento: Português e Direitos Humanos)](#prova-2026--ccos2026--psicologia-aproveitamento-português-e-direitos-humanos) | 15 | 10 | 5 | — | [ver](#gabarito-consolidado--2026-preliminar) |
+| **Total** | **208** | **57** | **27** | **124** | |
+
+## **2013 — QOS/2013 – Farmacêutico**
+
+[Abrir a prova completa](#prova-2013--qos2013--farmacêutico)
+
+**Língua Portuguesa** (9) — [Q01](#2013--q01--língua-portuguesa) · [Q02](#2013--q02--língua-portuguesa) · [Q03](#2013--q03--língua-portuguesa) · [Q04](#2013--q04--língua-portuguesa) · [Q05](#2013--q05--língua-portuguesa) · [Q06](#2013--q06--língua-portuguesa) · [Q07](#2013--q07--língua-portuguesa) · [Q08](#2013--q08--língua-portuguesa) · [Q09](#2013--q09--língua-portuguesa)
+
+**Direitos Humanos** (4) — [Q10](#2013--q10--direitos-humanos) · [Q11](#2013--q11--direitos-humanos) · [Q12](#2013--q12--direitos-humanos) · [Q13](#2013--q13--direitos-humanos)
+
+**Conhecimentos Específicos** (27) — [Q14](#2013--q14--conhecimentos-específicos) · [Q15](#2013--q15--conhecimentos-específicos) · [Q16](#2013--q16--conhecimentos-específicos) · [Q17](#2013--q17--conhecimentos-específicos) · [Q18](#2013--q18--conhecimentos-específicos) · [Q19](#2013--q19--conhecimentos-específicos) · [Q20](#2013--q20--conhecimentos-específicos) · [Q21](#2013--q21--conhecimentos-específicos) · [Q22](#2013--q22--conhecimentos-específicos) · [Q23](#2013--q23--conhecimentos-específicos) · [Q24](#2013--q24--conhecimentos-específicos) · [Q25](#2013--q25--conhecimentos-específicos) · [Q26](#2013--q26--conhecimentos-específicos) · [Q27](#2013--q27--conhecimentos-específicos) · [Q28](#2013--q28--conhecimentos-específicos) · [Q29](#2013--q29--conhecimentos-específicos) · [Q30](#2013--q30--conhecimentos-específicos) · [Q31](#2013--q31--conhecimentos-específicos) · [Q32](#2013--q32--conhecimentos-específicos) · [Q33](#2013--q33--conhecimentos-específicos) · [Q34](#2013--q34--conhecimentos-específicos) · [Q35](#2013--q35--conhecimentos-específicos) · [Q36](#2013--q36--conhecimentos-específicos) · [Q37](#2013--q37--conhecimentos-específicos) · [Q38](#2013--q38--conhecimentos-específicos) · [Q39](#2013--q39--conhecimentos-específicos) · [Q40](#2013--q40--conhecimentos-específicos)
+
+## **2017 — QOS/2017 – Farmácia**
+
+[Abrir a prova completa](#prova-2017--qos2017--farmácia)
+
+**Língua Portuguesa** (9) — [Q01](#2017--q01--língua-portuguesa) · [Q02](#2017--q02--língua-portuguesa) · [Q03](#2017--q03--língua-portuguesa) · [Q04](#2017--q04--língua-portuguesa) · [Q05](#2017--q05--língua-portuguesa) · [Q06](#2017--q06--língua-portuguesa) · [Q07](#2017--q07--língua-portuguesa) · [Q08](#2017--q08--língua-portuguesa) · [Q09](#2017--q09--língua-portuguesa)
+
+**Direitos Humanos** (4) — [Q10](#2017--q10--direitos-humanos) · [Q11](#2017--q11--direitos-humanos) · [Q12](#2017--q12--direitos-humanos) · [Q13](#2017--q13--direitos-humanos)
+
+**Conhecimentos Específicos** (27) — [Q14](#2017--q14--conhecimentos-específicos) · [Q15](#2017--q15--conhecimentos-específicos) · [Q16](#2017--q16--conhecimentos-específicos) · [Q17](#2017--q17--conhecimentos-específicos) · [Q18](#2017--q18--conhecimentos-específicos) · [Q19](#2017--q19--conhecimentos-específicos) · [Q20](#2017--q20--conhecimentos-específicos) · [Q21](#2017--q21--conhecimentos-específicos) · [Q22](#2017--q22--conhecimentos-específicos) · [Q23](#2017--q23--conhecimentos-específicos) · [Q24](#2017--q24--conhecimentos-específicos) · [Q25](#2017--q25--conhecimentos-específicos) · [Q26](#2017--q26--conhecimentos-específicos) · [Q27](#2017--q27--conhecimentos-específicos) · [Q28](#2017--q28--conhecimentos-específicos) · [Q29](#2017--q29--conhecimentos-específicos) · [Q30](#2017--q30--conhecimentos-específicos) · [Q31](#2017--q31--conhecimentos-específicos) · [Q32](#2017--q32--conhecimentos-específicos) · [Q33](#2017--q33--conhecimentos-específicos) · [Q34](#2017--q34--conhecimentos-específicos) · [Q35](#2017--q35--conhecimentos-específicos) · [Q36](#2017--q36--conhecimentos-específicos) · [Q37](#2017--q37--conhecimentos-específicos) · [Q38](#2017--q38--conhecimentos-específicos) · [Q39](#2017--q39--conhecimentos-específicos) · [Q40](#2017--q40--conhecimentos-específicos)
+
+## **2023 — QOS-PM/2023 – Farmácia**
+
+[Abrir a prova completa](#prova-2023--qos-pm2023--farmácia)
+
+**Língua Portuguesa** (10) — [Q01](#2023--q01--língua-portuguesa) · [Q02](#2023--q02--língua-portuguesa) · [Q03](#2023--q03--língua-portuguesa) · [Q04](#2023--q04--língua-portuguesa) · [Q05](#2023--q05--língua-portuguesa) · [Q06](#2023--q06--língua-portuguesa----anulada) *(anulada)* · [Q07](#2023--q07--língua-portuguesa) · [Q08](#2023--q08--língua-portuguesa) · [Q09](#2023--q09--língua-portuguesa) · [Q10](#2023--q10--língua-portuguesa)
+
+**Direitos Humanos** (5) — [Q11](#2023--q11--direitos-humanos) · [Q12](#2023--q12--direitos-humanos) · [Q13](#2023--q13--direitos-humanos) · [Q14](#2023--q14--direitos-humanos) · [Q15](#2023--q15--direitos-humanos)
+
+**Conhecimentos Específicos** (35) — [Q16](#2023--q16--conhecimentos-específicos) · [Q17](#2023--q17--conhecimentos-específicos) · [Q18](#2023--q18--conhecimentos-específicos) · [Q19](#2023--q19--conhecimentos-específicos) · [Q20](#2023--q20--conhecimentos-específicos) · [Q21](#2023--q21--conhecimentos-específicos) · [Q22](#2023--q22--conhecimentos-específicos----anulada) *(anulada)* · [Q23](#2023--q23--conhecimentos-específicos) · [Q24](#2023--q24--conhecimentos-específicos) · [Q25](#2023--q25--conhecimentos-específicos) · [Q26](#2023--q26--conhecimentos-específicos) · [Q27](#2023--q27--conhecimentos-específicos) · [Q28](#2023--q28--conhecimentos-específicos) · [Q29](#2023--q29--conhecimentos-específicos----anulada) *(anulada)* · [Q30](#2023--q30--conhecimentos-específicos) · [Q31](#2023--q31--conhecimentos-específicos) · [Q32](#2023--q32--conhecimentos-específicos) · [Q33](#2023--q33--conhecimentos-específicos) · [Q34](#2023--q34--conhecimentos-específicos) · [Q35](#2023--q35--conhecimentos-específicos) · [Q36](#2023--q36--conhecimentos-específicos) · [Q37](#2023--q37--conhecimentos-específicos) · [Q38](#2023--q38--conhecimentos-específicos) · [Q39](#2023--q39--conhecimentos-específicos) · [Q40](#2023--q40--conhecimentos-específicos) · [Q41](#2023--q41--conhecimentos-específicos) · [Q42](#2023--q42--conhecimentos-específicos) · [Q43](#2023--q43--conhecimentos-específicos) · [Q44](#2023--q44--conhecimentos-específicos) · [Q45](#2023--q45--conhecimentos-específicos) · [Q46](#2023--q46--conhecimentos-específicos) · [Q47](#2023--q47--conhecimentos-específicos) · [Q48](#2023--q48--conhecimentos-específicos) · [Q49](#2023--q49--conhecimentos-específicos) · [Q50](#2023--q50--conhecimentos-específicos)
+
+## **2024 — QOS/2024 – Farmacêutico Hospitalar**
+
+[Abrir a prova completa](#prova-2024--qos2024--farmacêutico-hospitalar)
+
+**Língua Portuguesa** (10) — [Q01](#2024--q01--língua-portuguesa) · [Q02](#2024--q02--língua-portuguesa) · [Q03](#2024--q03--língua-portuguesa) · [Q04](#2024--q04--língua-portuguesa) · [Q05](#2024--q05--língua-portuguesa) · [Q06](#2024--q06--língua-portuguesa) · [Q07](#2024--q07--língua-portuguesa) · [Q08](#2024--q08--língua-portuguesa) · [Q09](#2024--q09--língua-portuguesa) · [Q10](#2024--q10--língua-portuguesa)
+
+**Direitos Humanos** (5) — [Q11](#2024--q11--direitos-humanos) · [Q12](#2024--q12--direitos-humanos) · [Q13](#2024--q13--direitos-humanos) · [Q14](#2024--q14--direitos-humanos) · [Q15](#2024--q15--direitos-humanos)
+
+**Conhecimentos Específicos** (35) — [Q16](#2024--q16--conhecimentos-específicos) · [Q17](#2024--q17--conhecimentos-específicos) · [Q18](#2024--q18--conhecimentos-específicos) · [Q19](#2024--q19--conhecimentos-específicos) · [Q20](#2024--q20--conhecimentos-específicos) · [Q21](#2024--q21--conhecimentos-específicos) · [Q22](#2024--q22--conhecimentos-específicos) · [Q23](#2024--q23--conhecimentos-específicos) · [Q24](#2024--q24--conhecimentos-específicos) · [Q25](#2024--q25--conhecimentos-específicos) · [Q26](#2024--q26--conhecimentos-específicos) · [Q27](#2024--q27--conhecimentos-específicos) · [Q28](#2024--q28--conhecimentos-específicos) · [Q29](#2024--q29--conhecimentos-específicos) · [Q30](#2024--q30--conhecimentos-específicos) · [Q31](#2024--q31--conhecimentos-específicos) · [Q32](#2024--q32--conhecimentos-específicos) · [Q33](#2024--q33--conhecimentos-específicos) · [Q34](#2024--q34--conhecimentos-específicos) · [Q35](#2024--q35--conhecimentos-específicos) · [Q36](#2024--q36--conhecimentos-específicos) · [Q37](#2024--q37--conhecimentos-específicos) · [Q38](#2024--q38--conhecimentos-específicos) · [Q39](#2024--q39--conhecimentos-específicos) · [Q40](#2024--q40--conhecimentos-específicos) · [Q41](#2024--q41--conhecimentos-específicos) · [Q42](#2024--q42--conhecimentos-específicos) · [Q43](#2024--q43--conhecimentos-específicos) · [Q44](#2024--q44--conhecimentos-específicos) · [Q45](#2024--q45--conhecimentos-específicos) · [Q46](#2024--q46--conhecimentos-específicos) · [Q47](#2024--q47--conhecimentos-específicos) · [Q48](#2024--q48--conhecimentos-específicos) · [Q49](#2024--q49--conhecimentos-específicos) · [Q50](#2024--q50--conhecimentos-específicos)
+
+## **2022 — QOS/2022 – Psiquiatria (aproveitamento: Português e Direitos Humanos)**
+
+[Abrir a prova completa](#prova-2022--qos2022--psiquiatria-aproveitamento-português-e-direitos-humanos)
+
+**Língua Portuguesa** (9) — [Q01](#2022--q01--língua-portuguesa) · [Q02](#2022--q02--língua-portuguesa) · [Q03](#2022--q03--língua-portuguesa) · [Q04](#2022--q04--língua-portuguesa) · [Q05](#2022--q05--língua-portuguesa) · [Q06](#2022--q06--língua-portuguesa) · [Q07](#2022--q07--língua-portuguesa) · [Q08](#2022--q08--língua-portuguesa) · [Q09](#2022--q09--língua-portuguesa)
+
+**Direitos Humanos** (4) — [Q10](#2022--q10--direitos-humanos) · [Q11](#2022--q11--direitos-humanos) · [Q12](#2022--q12--direitos-humanos) · [Q13](#2022--q13--direitos-humanos)
+
+## **2026 — CCOS/2026 – Psicologia (aproveitamento: Português e Direitos Humanos)**
+
+[Abrir a prova completa](#prova-2026--ccos2026--psicologia-aproveitamento-português-e-direitos-humanos)
+
+**Língua Portuguesa** (10) — [Q01](#2026--q01--língua-portuguesa) · [Q02](#2026--q02--língua-portuguesa) · [Q03](#2026--q03--língua-portuguesa) · [Q04](#2026--q04--língua-portuguesa) · [Q05](#2026--q05--língua-portuguesa) · [Q06](#2026--q06--língua-portuguesa) · [Q07](#2026--q07--língua-portuguesa) · [Q08](#2026--q08--língua-portuguesa) · [Q09](#2026--q09--língua-portuguesa) · [Q10](#2026--q10--língua-portuguesa)
+
+**Direitos Humanos** (5) — [Q11](#2026--q11--direitos-humanos) · [Q12](#2026--q12--direitos-humanos) · [Q13](#2026--q13--direitos-humanos) · [Q14](#2026--q14--direitos-humanos) · [Q15](#2026--q15--direitos-humanos)
+
+## **Outros conteúdos**
+
+Revisões e materiais avulsos que acompanham algumas questões, além do bloco de questões geradas por IA. As revisões ficam dentro do bloco recolhível *Anotações, comentários e revisão* da questão correspondente — ou seja, trazem a resposta:
+
+- [Terapia Antirretroviral (TARV) — Recém-Nascidos e PVHA](#terapia-antirretroviral-tarv--recém-nascidos-e-pvha)
+- [Antiarrítmicos — Aspectos Farmacocinéticos (Questão Completa)](#antiarrítmicos--aspectos-farmacocinéticos-questão-completa)
+- [Sistemas de Distribuição de Medicamentos — Farmácia Hospitalar](#sistemas-de-distribuição-de-medicamentos--farmácia-hospitalar)
+- [Warfarina, Ponte com HBPM e RNI — Revisão Extensa](#warfarina-ponte-com-hbpm-e-rni--revisão-extensa)
+- [Fármacos Oncológicos — Vias de Administração e Orientações ao Paciente](#fármacos-oncológicos--vias-de-administração-e-orientações-ao-paciente)
+- [Análise da Questão — PRM em Paciente Cirrótico com Abstinência Alcoólica](#análise-da-questão--prm-em-paciente-cirrótico-com-abstinência-alcoólica)
+- [Direitos dos Presos e Pena de Morte — Artigos 3, 4 e 5 da Convenção](#direitos-dos-presos-e-pena-de-morte--artigos-3-4-e-5-da-convenção)
+- [Questões geradas por IA](#questões-geradas-por-ia)
 
 # **PROVA 2013 — QOS/2013 – Farmacêutico**
 
