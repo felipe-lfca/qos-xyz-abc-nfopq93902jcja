@@ -4,9 +4,11 @@ Banco de questões comentado · Provas 2013 · 2017 · 2023 · 2024
 
 # **Como usar este documento**
 
-Abra no Google Docs e ative Exibir › Modo sem páginas. Depois abra o painel Exibir › Mostrar estrutura do documento (Ctrl+Alt+A, Ctrl+Alt+H) para navegar por ano, matéria e questão.
+Gabarito oficial, anotações, comentários e as tabelas de respostas consolidadas de cada ano estão dentro de blocos recolhíveis. Eles aparecem fechados, com o rótulo `Gabarito oficial — clique para revelar`: você lê o enunciado, decide a resposta e só então clica para abrir. Isso vale para as 208 questões, para os comentários/revisões colados em “Anotações” e para os gabaritos consolidados por prova.
 
-Cada título tem um triângulo à esquerda que recolhe o conteúdo. O tópico “Gabarito oficial” de cada questão pode ficar recolhido enquanto você responde — expanda só depois de decidir a resposta.
+Os blocos recolhíveis funcionam em qualquer visualizador de Markdown que aceite HTML — GitHub, Obsidian, VS Code (pré-visualização), Typora. Se você abrir o arquivo em modo de texto puro (ou colar no Google Docs), o conteúdo aparece todo expandido, com as linhas `<details>` e `<summary>` visíveis.
+
+No GitHub e no VS Code, use o índice/estrutura do documento (no VS Code, `Ctrl+Shift+O`) para navegar por ano, matéria e questão.
 
 ## **Sistema de marcação para busca (Ctrl+F)**
 
@@ -69,13 +71,19 @@ De acordo com o texto é CORRETO afirmar que:
 
 **D)**  O narrador da história é onisciente.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q02 — Língua Portuguesa**
 
@@ -91,13 +99,19 @@ Marque a alternativa CORRETA quanto ao perfil psicológico da galinha antes do i
 
 **D)**  Agitada e extrovertida.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q03 — Língua Portuguesa**
 
@@ -113,13 +127,19 @@ Marque a alternativa CORRETA que corresponda ao sentido dado à palavra apatia, 
 
 **D)**  Processo de identificação em que o indivíduo se coloca no lugar do outro.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q04 — Língua Portuguesa**
 
@@ -135,13 +155,19 @@ Marque a alternativa CORRETA com relação ao que propiciou o desfecho da histó
 
 **D)**  A capacidade da galinha de sobressaltar.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **Texto de apoio — 2013 · Língua Portuguesa**
 
@@ -161,13 +187,19 @@ Marque a alternativa CORRETA com relação à formação de palavras por deriva�
 
 **D)**  Emudecer.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q06 — Língua Portuguesa**
 
@@ -183,13 +215,19 @@ Marque a alternativa CORRETA cujo pronome exerce a função sintática de objeto
 
 **D)**  Ela só pensa em si.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q07 — Língua Portuguesa**
 
@@ -205,13 +243,19 @@ Marque a alternativa CORRETA cuja concordância nominal se encontra de acordo co
 
 **D)**  Os alunos ficaram alertas porque a porta da sala estava meia aberta.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q08 — Língua Portuguesa**
 
@@ -227,13 +271,19 @@ Nos períodos compostos por subordinação, marque a alternativa CORRETA cujo te
 
 **D)**  Minha vontade era que todos comparecessem.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q09 — Língua Portuguesa**
 
@@ -249,13 +299,19 @@ Marque a alternativa CORRETA que se relaciona ao emprego adequado da estrutura c
 
 **D)**  O funcionário após discutir com o chefe bateu na porta da sala e saiu em direção ao refeitório (ato de fúria / fechar a porta com força).
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ## **2013 · Direitos Humanos**
 
@@ -273,13 +329,19 @@ De acordo com os Direitos e Deveres Individuais e Coletivos existentes na Consti
 
 **D)**  É livre a expressão da atividade artística, observados, no entanto, a censura e a licença.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q11 — Direitos Humanos**
 
@@ -303,13 +365,19 @@ Sobre o tema “discriminação contra pessoa em razão de sua orientação sexu
 
 **D)**  V, F, V, F.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q12 — Direitos Humanos**
 
@@ -325,13 +393,19 @@ De acordo com a Declaração Universal dos Direitos Humanos (DUDH), proclamada p
 
 **D)**  Uma das finalidades de se proclamar a DUDH é a de que todos os indivíduos se esforcem, pelo ensino e pela educação, por desenvolver o respeito desses direitos e liberdades.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q13 — Direitos Humanos**
 
@@ -357,13 +431,19 @@ Estão CORRETAS as assertivas:
 
 **D)**  Todas estão corretas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ## **2013 · Conhecimentos Específicos**
 
@@ -381,13 +461,19 @@ Considerando a implantação do Sistema Nacional de Controle de Medicamentos, pr
 
 **D)**  Os medicamentos que se apresentam em embalagens múltiplas, hospitalares e fracionáveis estão dispensados dos mecanismos de identificação e segurança que possibilitem o rastreamento do produto.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q15 — Conhecimentos Específicos**
 
@@ -403,13 +489,19 @@ A assistência terapêutica integral consiste na dispensação de medicamentos e
 
 **D)**  Os medicamentos ou procedimentos para saúde serão avaliados quanto à sua eficácia e custo-benefício para as diferentes fases evolutivas da doença ou do agravo à saúde de que trata o protocolo.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q16 — Conhecimentos Específicos**
 
@@ -425,13 +517,19 @@ A partir do regulamento técnico sobre as substâncias e medicamentos sujeitos a
 
 **D)**  Todos os medicamentos, pertencentes a esta portaria, poderão ser aviados/dispensados, também, a partir das prescrições de cirurgiões dentistas e médicos veterinários.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q17 — Conhecimentos Específicos**
 
@@ -447,13 +545,19 @@ A Resolução da Diretoria Colegiada nº 59, de 27 de junho de 2000, foi criada 
 
 **D)**  Cada fabricante deverá manter, obrigatoriamente, registros históricos de produtos, classe I e II (baixo risco e médio risco baixo), visto que são críticos para o paciente. Esses registros têm por finalidade prover dados estatísticos de consumo para os órgãos de fiscalização sanitária.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q18 — Conhecimentos Específicos**
 
@@ -469,13 +573,19 @@ A Política Nacional de Assistência Farmacêutica (PNAF) foi estabelecida pelo 
 
 **D)**  A centralização das ações, em um único gestor de saúde do município, visa a superação da fragmentação em programas desarticulados e constitui, também, um dos eixos estratégicos da PNAF.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q19 — Conhecimentos Específicos**
 
@@ -491,13 +601,19 @@ O Conselho Federal de Farmácia, buscando regulamentar as diversas atribuições
 
 **D)**  Atuar como membro efetivo da Comissão de Farmácia e Terapêutica, propondo a inclusão e exclusão, dos produtos médicos, no processo de seleção e padronização.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q20 — Conhecimentos Específicos**
 
@@ -513,13 +629,19 @@ A Lei nº 8.666, de 21 de junho de 1993, foi criada para regulamentar o artigo 3
 
 **D)**  É inexigível a licitação quando, para aquisição de materiais ou equipamentos, o fornecimento só possa ser feito por um fabricante exclusivo, a partir de declaração expedida por ele, que comprove essa exclusividade.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q21 — Conhecimentos Específicos**
 
@@ -535,13 +657,19 @@ As infecções hospitalares constituem risco significativo à saúde dos usuári
 
 **D)**  As cirurgias infectadas são aquelas realizadas em tecidos colonizados por flora microbiana pouco numerosa ou em tecidos de difícil descontaminação.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q22 — Conhecimentos Específicos**
 
@@ -557,13 +685,19 @@ Considerando as recomendações da Agência Nacional de Vigilância Sanitária (
 
 **D)**  O farmacêutico responsável técnico pode delegar algumas das atribuições para outro farmacêutico, com exceção das relacionadas à supervisão e responsabilidade pela assistência técnica do estabelecimento.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q23 — Conhecimentos Específicos**
 
@@ -579,13 +713,19 @@ A partir da Política Nacional de Medicamentos instituída pelo Ministério da S
 
 **D)**  Nos serviços privados de saúde, a prescrição ficará a critério do profissional responsável, porém, ele deverá adotar, obrigatoriamente, a Denominação Comum Brasileira (DCB) ou, na sua falta, o nome comercial do medicamento.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q24 — Conhecimentos Específicos**
 
@@ -601,13 +741,19 @@ Uma das grandes preocupações, com relação aos Resíduos de Serviços de Saú
 
 **D)**  O Plano de Gerenciamento dos Resíduos de Serviços de Saúde (PGRSS) é o documento que aponta e descreve as ações relativas ao manejo de resíduos infectantes, que corresponde às etapas de: prevenção contra a infecção, coleta e disposição final.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q25 — Conhecimentos Específicos**
 
@@ -623,13 +769,19 @@ A Diretoria Colegiada da Agência Nacional de Vigilância Sanitária (ANVISA), c
 
 **D)**  A determinação do prazo de validade da Terapia Antineoplásica (TA) deve ser baseada em informações da estabilidade físico-química das drogas, independente das questões de esterilidade.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q26 — Conhecimentos Específicos**
 
@@ -645,13 +797,19 @@ Considerando as práticas de armazenamento, contidas no Guia de Boas Práticas e
 
 **D)**  Dentre os objetivos da Central de Abastecimento Farmcêutico (CAF), está o de exigir que a indústria assegure a qualidade dos produtos em estoque, durante a sua permanência na CAF, a fim de que cheguem em condições ótimas para uso e possam exercer a ação esperada.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q27 — Conhecimentos Específicos**
 
@@ -667,13 +825,19 @@ Quando estimulado no nível de atenção básica à saúde, o uso racional de me
 
 **D)**  A não adesão ao tratamento medicamentoso prescrito não é um PRM, considerando que sua causa está ligada diretamente à vontade do paciente, não sendo possível a intervenção do farmacêutico.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q28 — Conhecimentos Específicos**
 
@@ -689,13 +853,19 @@ As boas práticas na farmacotécnica hospitalar estabelecem as orientações ger
 
 **D)**  Os ensaios utilizados nas preparações magistrais, do tipo líquidas não- estéreis, são: descrição, aspecto, caracteres organolépticos, pH, peso ou volume antes do envase.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q29 — Conhecimentos Específicos**
 
@@ -711,13 +881,19 @@ Os sistemas de distribuição de medicamentos (SDM) têm por objetivo suprir o p
 
 **D)**  Dentre as inúmeras desvantagens do Sistema de Distribuição de Medicamentos Coletivo (SDMC), está o aumento da necessidade de recursos humanos na farmácia.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q30 — Conhecimentos Específicos**
 
@@ -733,13 +909,19 @@ Considerando as informações sobre os sistemas de distribuição de medicamento
 
 **D)**  No SDM descentralizado, as doses são preparadas em um único local e, posteriormente, distribuídas para unidades assistenciais.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q31 — Conhecimentos Específicos**
 
@@ -755,13 +937,19 @@ As preparações magistrais são produzidas para administração imediata ou ap�
 
 **D)**  As formas farmacêuticas sólidas ou líquidas, que não contenham água na sua composição, apresentam menor estabilidade, quando comparadas com aquelas que contenham água. Isso é decorrente da maior capacidade que têm de sofrerem a degradação física por hidrólise.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q32 — Conhecimentos Específicos**
 
@@ -777,13 +965,19 @@ Considerando os aspectos de biossegurança, no que tange o preparo e a administr
 
 **D)**  Devem existir normas e rotinas escritas, revisadas anualmente, para a utilização da Cabine de Segurança Biológica (CSB) e dos Equipamentos de Proteção Individual (EPI).
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q33 — Conhecimentos Específicos**
 
@@ -799,11 +993,15 @@ Com base nas informações contidas no Manual de Boas Práticas para Unidades Di
 
 **D)**  A terapia ARV em crianças deve ser individualizada e cuidadosamente planejada, em conjunto com os responsáveis pelo paciente (cuidadores) e, quando possível, também com a própria criança. Tal procedimento tem como objetivo maximizar a adesão aos esquemas terapêuticos indicados, fator fundamental para o sucesso do tratamento.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 # **Terapia Antirretroviral (TARV) — Recém-Nascidos e PVHA**
 
@@ -862,6 +1060,8 @@ Não há erro nessa alternativa. Ela reflete o mesmo princípio de C, aplicado �
 | C | Correta | Adesão insuficiente gera resistência viral; educação prévia previne dano maior que o pequeno atraso no início |
 | D | Correta | Mesma lógica de C, aplicada ao contexto pediátrico |
 
+</details>
+
 ### **2013 · Q34 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2013-34 \#FARMA
@@ -876,13 +1076,19 @@ Considerando o Código de Ética da Profissão Farmacêutica, aprovado pela Reso
 
 **D)**  Os farmacêuticos respondem pelos atos que praticarem ou pelos que autorizarem no exercício da profissão.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q35 — Conhecimentos Específicos**
 
@@ -898,13 +1104,19 @@ Assim como a programação, a aquisição também é uma etapa crítica no proce
 
 **D)**  A avaliação de fornecedores e elaboração de um Cadastro de Fornecedores, que contemple aspectos técnicos, administrativos e comerciais, é um princípio básico do processo de aquisição.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q36 — Conhecimentos Específicos**
 
@@ -920,13 +1132,19 @@ Os fármacos anticoagulantes possuem mecanismos de ação muito diferentes, mas 
 
 **D)**  O Ácido Acetilsalicílico (AAS), a Ticlopidina e o Clopidogrel são agentes antiplaquetários.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q37 — Conhecimentos Específicos**
 
@@ -942,13 +1160,19 @@ Com relação à Insulina e Agentes Hipoglicemiantes Orais, marque a alternativa
 
 **D)**  A Metformina possui ação anti-hiperglicêmica e hipoglicemiante, sendo esta última devido à promoção da liberação de insulina pelo pâncreas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q38 — Conhecimentos Específicos**
 
@@ -964,11 +1188,15 @@ O uso simultâneo de dois ou mais agentes antimicrobianos é recomendado em situ
 
 **D)**  Terapia da febre de origem indeterminada.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Excelente, encontrei a seção exata. Vamos ver o contexto completo.
 
@@ -1038,6 +1266,8 @@ Isso contrasta diretamente com o cenário da alternativa B: lá, a palavra-chave
 
 \*\*Regra prática para prova:\*\* as três justificativas de combinação (ampliar espectro empírico em infecção grave, sinergismo bactericida, prevenir resistência) sempre envolvem \*\*incerteza diagnóstica com risco alto\*\* ou \*\*necessidade de potencializar morte bacteriana/evitar seleção de resistência\*\* — nenhuma dessas condições está presente quando o patógeno já é conhecido e sensível (caso C) ou quando a situação clínica permite tempo para investigação antes de tratar (caso D).
 
+</details>
+
 ### **2013 · Q39 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2013-39 \#FARMA
@@ -1060,13 +1290,19 @@ No que se refere às características e comparação dos analgésicos não ester
 
 **D)**  5, 4, 1, 2, 3\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2013 · Q40 — Conhecimentos Específicos**
 
@@ -1091,15 +1327,24 @@ De acordo com a classificação dos agentes anti-hipertensivos, com base no seu 
 
 **D)**  1, 3, 5, 6, 4, 2\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
 
+</details>
+
 ## **Gabarito consolidado — 2013**
+
+<details>
+<summary><strong>Tabela de respostas</strong> — clique para revelar</summary>
 
 | Q | Resp. | Q | Resp. | Q | Resp. | Q | Resp. | Q | Resp. |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -1111,6 +1356,8 @@ Resposta correta: **D**     (Gabarito Oficial — QOS/2013 – Farmacêutico)
 | 6 | **B** | 14 | **A** | 22 | **D** | 30 | **B** | 38 | **B** |
 | 7 | **A** | 15 | **B** | 23 | **B** | 31 | **C** | 39 | **A** |
 | 8 | **C** | 16 | **A** | 24 | **A** | 32 | **D** | 40 | **D** |
+
+</details>
 
 # **PROVA 2017 — QOS/2017 – Farmácia**
 
@@ -1170,13 +1417,19 @@ Dentre as alternativas abaixo, assinale a que pode ser comprovada por informaç�
 
 **D)**  Além do muro alto e das torres com guardas, decidiram eletrificar os muros impedindo assim a entrada de assaltantes.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q02 — Língua Portuguesa**
 
@@ -1192,13 +1445,19 @@ Em relação à sequência dos fatos e ao processo de organização das ideias, 
 
 **D)**  Ao final do texto, um novo problema é apresentado: a guarda é obrigada a agir com energia contra moradores e criminosos envolvidos em motins constantes.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q03 — Língua Portuguesa**
 
@@ -1214,13 +1473,19 @@ Pode-se deduzir da leitura do texto “Segurança” que:
 
 **D)**  Ironicamente, houve uma inversão de valores, e os moradores tornaram-se reféns da guarda e dos excessivos recursos utilizados para manutenção da segurança no condomínio.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **Texto de apoio — 2017 · Língua Portuguesa**
 
@@ -1256,13 +1521,19 @@ São ideias do texto “O medo que divide os dois Brasis” relacionadas ao text
 
 **D)**  Apenas I, III e IV.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q05 — Língua Portuguesa**
 
@@ -1278,13 +1549,19 @@ O texto, “O medo que divide os dois Brasis”, é quanto ao gênero textual cl
 
 **D)**  Narrativo.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **Texto de apoio — 2017 · Língua Portuguesa**
 
@@ -1304,13 +1581,19 @@ Na oração: As janelas da guarita olham e vigiam todos que entram e saem do con
 
 **D)**  Comparação.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q07 — Língua Portuguesa**
 
@@ -1334,13 +1617,19 @@ Marque a sequência CORRETA:
 
 **D)**  Mal – mal – mal.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q08 — Língua Portuguesa**
 
@@ -1356,13 +1645,19 @@ Indique, nos grupos de palavras destacadas, a alternativa INCORRETA quanto à ac
 
 **D)**  A Serra do Cipó é o local onde há maior biodiversidade por quilômetro quadrado do mundo.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q09 — Língua Portuguesa**
 
@@ -1387,13 +1682,19 @@ Faça a correspondência da primeira com a segunda coluna e identifique a sequê
 
 **D)**  1, 3, 5, 4, 2, 6\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ## **2017 · Direitos Humanos**
 
@@ -1411,13 +1712,19 @@ Com base na Lei 11.340/2006, a qual cria mecanismos para coibir a violência dom
 
 **D)**  Uma mulher que vai a uma festa utilizando roupas curtas ou decotadas, caso seja vítima de uma forma de violência abrangida pela Lei 11.340/2006, poderá fazer jus às proteções ali previstas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q11 — Direitos Humanos**
 
@@ -1433,13 +1740,19 @@ Uma mulher acionou a polícia afirmando ter sido vítima de violência. No local
 
 **D)**  Fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro, independente de risco à vida.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q12 — Direitos Humanos**
 
@@ -1455,13 +1768,19 @@ Em todas as alternativas constam características utilizadas para caracterizar o
 
 **D)**  Historicidade, inalienabilidade, imprescritibilidade, inerência, universalidade, indivisibilidade.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q13 — Direitos Humanos**
 
@@ -1477,13 +1796,19 @@ Com relação ao tema Direitos e Garantias Fundamentais previstos na Constituiç
 
 **D)**  Não será concedida a extradição de brasileiro nato por crime político ou de opinião, nem de estrangeiro na mesma hipótese.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ## **2017 · Conhecimentos Específicos**
 
@@ -1511,13 +1836,19 @@ Estão CORRETAS as assertivas:
 
 **D)**  III e IV apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q15 — Conhecimentos Específicos**
 
@@ -1533,13 +1864,19 @@ Os sintomas e a gravidade da síndrome de abstinência alcoólica são determina
 
 **D)**  A abstinência alcoólica, com ou sem complicações, pode ser tratada eficazmente em nível ambulatorial.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q16 — Conhecimentos Específicos**
 
@@ -1555,13 +1892,19 @@ Considerando a Portaria MS n. 344/1998, que aprova o regulamento técnico sobre 
 
 **D)**  Excetuam-se dos controles referentes à Lista F, de substâncias psicotrópicas de uso proscrito no Brasil, os medicamentos registrados na ANVISA que possuam em sua formulação a substância tetrahidrocannabinol (THC), desde que sejam atendidas as exigências a serem regulamentadas previamente à concessão de registro.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q17 — Conhecimentos Específicos**
 
@@ -1587,13 +1930,19 @@ Estão CORRETAS as assertivas:
 
 **D)**  II, III e IV apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q18 — Conhecimentos Específicos**
 
@@ -1609,13 +1958,19 @@ O tratamento para o diabetes tem por objetivo aliviar os sintomas relacionados �
 
 **D)**  A insulina regular não pode ser administrada por via intravenosa ou intramuscular.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q19 — Conhecimentos Específicos**
 
@@ -1641,13 +1996,19 @@ Estão CORRETAS as assertivas:
 
 **D)**  III e IV apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q20 — Conhecimentos Específicos**
 
@@ -1663,11 +2024,15 @@ O papel dos aminoglicosídeos no tratamento das infecções bacterianas tem dimi
 
 **D)**  Não são adequadamente absorvidos após a administração oral e são obtidas concentrações inadequadas no líquido cefalorraquidiano.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Excelente — este é um artigo confirmado direto no texto: aminoglicosídeos SÃO removidos por diálise (contradiz a A). Vou puxar mais detalhes antes de escrever a resposta completa.
 
@@ -1829,6 +2194,8 @@ Esse requisito de transporte ativo dependente de oxigênio explica por que \*\*b
 
 \- \*\*Não confundir com:\*\* clindamicina (lincosamida, bacteriostática, gram-positivo/anaeróbio — perfil quase oposto).
 
+</details>
+
 ### **2017 · Q21 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2017-21 \#FARMA
@@ -1851,11 +2218,15 @@ Marque a alternativa CORRETA:
 
 **D)**  As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Você identificou o ponto certo, mas a “pegadinha” da questão está em um detalhe mais sutil do que parece. Vou explicar por partes.
 
@@ -1928,6 +2299,8 @@ Esse é o “ressurgimento” da assertiva I: um retorno motivado pela **falta d
 
 **Nota à parte, sobre sua observação de que “existem usos seguros para polimixina B”**: isso é verdade em uso **tópico** (oftálmico, ótico, cutâneo) — nesses casos, o próprio livro confirma ausência de reações sistêmicas relevantes, justamente pela quase nula absorção por essas vias. Mas a questão fala especificamente de infecções **sistêmicas**, onde a farmacocinética (absorção sistêmica plena) expõe o paciente à toxicidade renal e neurológica descrita acima — contexto completamente diferente do uso tópico “seguro” que você tinha em mente.
 
+</details>
+
 ### **2017 · Q22 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2017-22 \#FARMA
@@ -1942,11 +2315,15 @@ As sulfonamidas e as quinolonas são utilizadas no tratamento de grande variedad
 
 **D)**  Atualmente as sulfonamidas são os fármacos de escolha para o tratamento de infecções urinárias.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Perfeito, confirma a A palavra por palavra. Agora vou ver quinolonas.
 
@@ -2098,6 +2475,8 @@ As fluoroquinolonas exibem \*\*morte bactericida concentração-dependente\*\* �
 
 \*\*Regra prática para prova:\*\* sulfonamida \= \*\*bacteriostática\*\*, precisa do sistema imune para "fechar o serviço"; quinolona/fluoroquinolona \= \*\*bactericida\*\*, mata diretamente via inibição de topoisomerase. Sempre que uma alternativa trocar esses dois adjetivos entre as classes, é sinal de erro proposital.
 
+</details>
+
 ### **2017 · Q23 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2017-23 \#FARMA
@@ -2120,13 +2499,19 @@ Marque a alternativa CORRETA:
 
 **D)**  A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q24 — Conhecimentos Específicos**
 
@@ -2151,13 +2536,19 @@ Marque a alternativa que contém a sequência CORRETA de respostas na ordem de c
 
 **D)**  3,4,1,2.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q25 — Conhecimentos Específicos**
 
@@ -2173,13 +2564,19 @@ Os primeiros antibióticos contra o câncer consistiram na série de actinomicin
 
 **D)**  A doxorrubicina não está indicada no carcinoma de mama metastático.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q26 — Conhecimentos Específicos**
 
@@ -2195,13 +2592,19 @@ A trombocitopenia induzida por heparina (contagem plaquetária \< 150.000/mL ou 
 
 **D)**  A incidência de trombocitopenia e de trombose induzida por heparina é maior em pacientes cirúrgicos do que em pacientes ambulatoriais, sendo que os homens apresentam uma probabilidade duas vezes maior do que as homens em desenvolver esta condição.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q27 — Conhecimentos Específicos**
 
@@ -2226,13 +2629,19 @@ Marque a alternativa que contém a sequência CORRETA:
 
 **D)**  2,1,4,3.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q28 — Conhecimentos Específicos**
 
@@ -2248,13 +2657,19 @@ Considerando a Lei n. 5991/1973 que dispõe sobre o controle sanitário do comé
 
 **D)**  Apenas poderão ser entregues à dispensação drogas, medicamentos, insumos farmacêuticos e correlatos que obedeçam aos padrões de qualidade oficialmente reconhecidos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q29 — Conhecimentos Específicos**
 
@@ -2270,13 +2685,19 @@ A RDC ANVISA n. 67/2007 estabelece que o preparo de doses unitárias e a unitari
 
 **D)**  O prazo máximo para estoque dos medicamentos já submetidos à preparação de dose unitarizada é de 6 meses, respeitada a forma farmacêutica e o prazo de validade.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q30 — Conhecimentos Específicos**
 
@@ -2292,13 +2713,19 @@ Considerando a RDC ANVISA n. 156/2006, que dispõe sobre o registro, rotulagem e
 
 **D)**  A segurança na utilização dos produtos reprocessados é de responsabilidade do fabricante e da empresa reprocessadora terceirizada.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q31 — Conhecimentos Específicos**
 
@@ -2314,13 +2741,19 @@ As infecções hospitalares (IH) têm grande repercussão nas instituições, co
 
 **D)**  Dentro de uma estrutura hospitalar, a farmácia é o setor que seleciona, adquire e/ou prepara todos os agentes antimicrobianos necessários a terapêutica e higienização hospitalar, além de responder pelo armazenamento e garantia da qualidade destes produtos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q32 — Conhecimentos Específicos**
 
@@ -2336,13 +2769,19 @@ Considerando as exigências de vigilância sanitária para os medicamentos, as d
 
 **D)**  É permitida a importação de insumos farmacêuticos, para fins de industrialização, sem a necessidade de autorização do Ministério da Saúde.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q33 — Conhecimentos Específicos**
 
@@ -2368,13 +2807,19 @@ São CORRETAS as assertivas:
 
 **D)**  III e IV apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q34 — Conhecimentos Específicos**
 
@@ -2390,11 +2835,15 @@ Os antibióticos betalactâmicos constituem uma das classes mais importantes de 
 
 **D)**  O aztreonam tem sido utilizado com sucesso no tratamento de várias infecções e possui pouca reatividade alérgica cruzada com antibióticos beta- lactâmicos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Já tenho tudo confirmado. Vamos à resposta completa.
 
@@ -2512,6 +2961,8 @@ Esses três \*\*sim\*\* são verdadeiros inibidores de betalactamase — se liga
 
 | Ácido clavulânico, sulbactam, tazobactam | Verdadeiros inibidores de betalactamase | (corretamente lembrados por você) |
 
+</details>
+
 ### **2017 · Q35 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2017-35 \#FARMA
@@ -2526,13 +2977,19 @@ Diante da evidência do risco de exposição ocupacional em que ocorre a possibi
 
 **D)**  Todos os equipamentos devem ser submetidos à manutenção preventiva, obedecendo às especificações da ANVISA/MS. Em caso de contaminação direta da superfície do filtro HEPA, a cabine deverá ser isolada até a substituição do filtro.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q36 — Conhecimentos Específicos**
 
@@ -2548,13 +3005,19 @@ As infecções hospitalares constituem risco significativo à saúde dos usuári
 
 **D)**  A lavagem das mãos é, em conjunto com outras, a ação mais importante para a prevenção e controle das infecções hospitalares.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q37 — Conhecimentos Específicos**
 
@@ -2570,13 +3033,19 @@ Para compreender e controlar a ação terapêutica dos fármacos no organismo hu
 
 **D)**  Quando a urina nos túbulos proximais e distais do néfron estiver mais alcalina, a excreção dos ácidos fracos tende a ser mais lenta, por isso, no caso de intoxicação por um fármaco que é ácido fraco, deve-se acidificar a urina para acelerar a sua excreção.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q38 — Conhecimentos Específicos**
 
@@ -2602,13 +3071,19 @@ São CORRETAS as assertivas:
 
 **D)**  I e III apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q39 — Conhecimentos Específicos**
 
@@ -2624,13 +3099,19 @@ Grande parte dos pacientes em CTI apresenta dor, medo e ansiedade, por isso, a a
 
 **D)**  A sedação produzida pela dexmedetomidina é semelhante ao sono natural, sendo o despertar dos pacientes relativamente fácil e como produz amnésia pode ser especialmente útil no CTI, quando a ausência de lembranças dolorosas é desejável.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2017 · Q40 — Conhecimentos Específicos**
 
@@ -2656,11 +3137,15 @@ São CORRETAS as assertivas:
 
 **D)**  II e III apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2017 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Ótimo — você já pegou exatamente a lógica dos erros de I, II e IV com as passagens que colou. Vou completar com III (o que faltava) e organizar tudo junto, com comentários, para ficar num formato de material de estudo completo.
 
@@ -2739,7 +3224,12 @@ Você já colou a passagem certa e identificou a inversão. Deixo organizada:
 
 **Resposta: I e II → Letra A**, confirmando o gabarito.
 
+</details>
+
 ## **Gabarito consolidado — 2017**
+
+<details>
+<summary><strong>Tabela de respostas</strong> — clique para revelar</summary>
 
 | Q | Resp. | Q | Resp. | Q | Resp. | Q | Resp. | Q | Resp. |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -2751,6 +3241,8 @@ Você já colou a passagem certa e identificou a inversão. Deixo organizada:
 | 6 | **A** | 14 | **C** | 22 | **A** | 30 | **A** | 38 | **B** |
 | 7 | **B** | 15 | **B** | 23 | **C** | 31 | **D** | 39 | **A** |
 | 8 | **C** | 16 | **A** | 24 | **D** | 32 | **C** | 40 | **A** |
+
+</details>
 
 # **PROVA 2023 — QOS-PM/2023 – Farmácia**
 
@@ -2800,13 +3292,19 @@ No texto, observa-se um ponto de vista claro acerca da atribuição de números 
 
 **D)**  É totalmente possível viver em sociedade sem se submeter às convenções numéricas vigentes.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q02 — Língua Portuguesa**
 
@@ -2822,13 +3320,19 @@ No parágrafo sete, referindo-se à morte de uma criança no Alto Sertão de Per
 
 **D)**  As pessoas em geral, por não exigirem do governo um serviço público de qualidade.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q03 — Língua Portuguesa**
 
@@ -2844,13 +3348,19 @@ Marque a alternativa CORRETA. Em “Veja, tentei várias vezes na vida não ter 
 
 **D)**  Querer ser diferente não significa fracassar, porque a força das convenções não é grande.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q04 — Língua Portuguesa**
 
@@ -2866,13 +3376,19 @@ Marque a alternativa CORRETA. O texto VOCÊ É UM NÚMERO é uma crônica. Consi
 
 **D)**  Trata-se de um diálogo direto do autor com o leitor, o qual é incorporado à crônica por meio do pronome “você”.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q05 — Língua Portuguesa**
 
@@ -2888,13 +3404,19 @@ No último parágrafo, visando à construção de um determinado efeito de senti
 
 **D)**  Omitir.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q06 — Língua Portuguesa  ·  ANULADA**
 
@@ -2922,15 +3444,21 @@ Está CORRETO o que se afirma em:
 
 **D)**  II e IV apenas.
 
-#### **Gabarito oficial — QUESTÃO ANULADA**
+<details>
+<summary><strong>Gabarito oficial — QUESTÃO ANULADA</strong> — clique para revelar</summary>
 
 **ANULADA pelo CRS no gabarito oficial — não há resposta correta.**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
 *Vale estudar o tema mesmo assim: a anulação foi da questão, não do conteúdo.*
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q07 — Língua Portuguesa**
 
@@ -2948,13 +3476,19 @@ A lei \_\_\_\_\_\_ lhe falei já está prescrita. Essa é uma árvore \_\_\_\_\_
 
 **D)**  sobre a qual; que os; de quem; das quais; de cujo.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q08 — Língua Portuguesa**
 
@@ -2974,13 +3508,19 @@ Marque a alternativa CORRETA. Os verbos sublinhados estão flexionados nos segui
 
 **D)**  Pretérito mais-que-perfeito do indicativo; futuro do subjuntivo.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q09 — Língua Portuguesa**
 
@@ -3006,13 +3546,19 @@ A sequência CORRETA de preenchimento dos parênteses na ordem de cima para baix
 
 **D)**  F, F, V, F.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q10 — Língua Portuguesa**
 
@@ -3028,13 +3574,19 @@ Marque a alternativa CORRETA. A crase é OBRIGATÓRIA em:
 
 **D)**  O número de feridos no acidente chegou a sessenta.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ## **2023 · Direitos Humanos**
 
@@ -3052,13 +3604,19 @@ A Declaração Universal dos Direitos Humanos (DUDH), proclamada em 1948, consti
 
 **D)**  Ninguém será submetido à tortura, nem a tratamento ou castigo cruel, desumano ou degradante, salvo em caso de guerra declarada.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q12 — Direitos Humanos**
 
@@ -3074,13 +3632,19 @@ Nos termos da Declaração Universal dos Direitos Humanos (DUDH), é INCORRETA a
 
 **D)**  Todo ser humano acusado de um ato delituoso tem o direito de ser presumido inocente até que a sua culpabilidade tenha sido provada de acordo com a lei, em julgamento público no qual lhe tenham sido asseguradas todas as garantias necessárias à sua defesa.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q13 — Direitos Humanos**
 
@@ -3096,13 +3660,19 @@ Proclamada no contexto do pós-guerra mundial, a Declaração Universal dos Dire
 
 **D)**  Todo ser humano tem capacidade para gozar os direitos e as liberdades estabelecidos nesta Declaração. Porém, são admitidas violações de direitos humanos advindas dos costumes dos povos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q14 — Direitos Humanos**
 
@@ -3118,13 +3688,19 @@ A Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Ric
 
 **D)**  Não se deve impor a pena de morte a pessoa que, no momento da perpetração do delito, for menor de dezoito anos, ou maior de setenta, nem aplicá-la a mulher em estado de gravidez.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q15 — Direitos Humanos**
 
@@ -3140,13 +3716,19 @@ O Pacto de São Jose da Costa Rica, dentre outros aspectos, disciplinou a Comiss
 
 **D)**  Compete à Comissão Interamericana de Direitos Humanos processar e julgar os crimes cometidos em contexto de guerra.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ## **2023 · Conhecimentos Específicos**
 
@@ -3174,13 +3756,19 @@ A sequência CORRETA na ordem de cima para baixo é:
 
 **D)**  V, F, F, V.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q17 — Conhecimentos Específicos**
 
@@ -3206,13 +3794,19 @@ Está(ão) CORRETA(S):
 
 **D)**  I, II e III.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q18 — Conhecimentos Específicos**
 
@@ -3228,13 +3822,19 @@ O preparo de dose unitária e unitarização de doses de medicamentos em serviç
 
 **D)**  A transformação/derivação é definida como a clivagem ou partilha da forma farmacêutica.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q19 — Conhecimentos Específicos**
 
@@ -3260,13 +3860,19 @@ Está(ão) CORRETA(s) as assertivas:
 
 **D)**  I, II e III.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q20 — Conhecimentos Específicos**
 
@@ -3291,13 +3897,19 @@ Marque a alternativa que contém a sequência CORRETA de itens, na ordem de cima
 
 **D)**  2, 1, 4, 3, 1\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q21 — Conhecimentos Específicos**
 
@@ -3315,13 +3927,19 @@ Assinale a afirmativa CORRETA sobre as recomendações preconizadas pelo protoco
 
 **D)**  As doses dos medicamentos potencialmente perigosos ou de alta vigilância deverão ser conferidos com dupla checagem na fase dos cálculos para a prescrição, na análise farmacêutica da prescrição para dispensação e antes da administração dos medicamentos pela equipe de enfermagem.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q22 — Conhecimentos Específicos  ·  ANULADA**
 
@@ -3339,15 +3957,21 @@ Informações complementares: Anfotericina: pó liofilizado para solução. Font
 
 **D)**  Beclometasona \+ formoterol 100 \+ 6 microgramas/dose, spray. Administrar via inalatória de 12/12h. Enxaguar a boca com água após cada inalação.
 
-#### **Gabarito oficial — QUESTÃO ANULADA**
+<details>
+<summary><strong>Gabarito oficial — QUESTÃO ANULADA</strong> — clique para revelar</summary>
 
 **ANULADA pelo CRS no gabarito oficial — não há resposta correta.**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
 *Vale estudar o tema mesmo assim: a anulação foi da questão, não do conteúdo.*
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q23 — Conhecimentos Específicos**
 
@@ -3363,13 +3987,19 @@ A Farmacovigilância segundo a Organização Mundial de Saúde (OMS) “consiste
 
 **D)**  Detectar problemas relacionados ao uso de medicamentos e comunicar somente os problemas cujo desfecho foi óbito (mortalidade), quando oportuno.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q24 — Conhecimentos Específicos**
 
@@ -3392,13 +4022,19 @@ Considerando a Farmacoeconomia e as atividades que compõe o ciclo da Assistênc
 
 **D)**  1, 4, 2, 3\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q25 — Conhecimentos Específicos**
 
@@ -3414,13 +4050,19 @@ As infecções hospitalares, atualmente denominadas de infecções relacionadas 
 
 **D)**  A infecção do trato respiratório é geralmente a terceira principal topografia de IRAS. Fatores como idade, patologia de base, instrumentação do trato respiratório, entre outros, predispõem ao aparecimento dessas infecções. Entre os principais agentes envolvidos nesta infecção cita-se: Escherichia coli e Salmonella.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q26 — Conhecimentos Específicos**
 
@@ -3450,13 +4092,19 @@ Considerando os dados descritos anteriormente e os requisitos para a realizaçã
 
 **D)**  24, 48, 48, 96\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q27 — Conhecimentos Específicos**
 
@@ -3476,13 +4124,19 @@ Indique a afirmativa CORRETA que indica o volume da preparação de penicilina G
 
 **D)**  0,4mL.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q28 — Conhecimentos Específicos**
 
@@ -3498,11 +4152,15 @@ Uma enfermeira chegou na farmácia satélite da Unidade de Terapia Intensiva (UT
 
 **D)**  Este sistema de distribuição necessita de menor número de funcionários na farmácia, diminuindo assim, o custo com recursos humanos para a instituição.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 A fonte principal que ajuda a responder perfeitamente a esta questão é o livro **"Ciências Farmacêuticas: Uma Abordagem em Farmácia Hospitalar" (de M. J. V. M. Gomes e A. M. M. Reis)**, especificamente o capítulo **"Sistemas de Distribuição de Medicamentos para Pacientes Internados"**, escrito por **Eliane Ribeiro**. Adicionalmente, o **"Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos" da ANVISA**dá suporte ao porquê de as outras estarem erradas.
 
@@ -3610,6 +4268,8 @@ Aqui está o ponto que você não tinha certeza: sistemas de distribuição cole
 | C | Relatório de dispensação agregado permite controle de **estoque**, não avaliação de **uso adequado** em nível de paciente/prescrição |
 | **D** | **Correta** — menor necessidade de análise farmacêutica individualizada \= menor necessidade de pessoal especializado na farmácia |
 
+</details>
+
 ### **2023 · Q29 — Conhecimentos Específicos  ·  ANULADA**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-29 \#FARMA \#ANULADA
@@ -3626,15 +4286,21 @@ Dentre os métodos que têm sido utilizados para a programação e suas caracter
 
 **D)**  O sistema ABC classifica os produtos pela ordem de custo, sendo A os de maior custo (representados por cerca de 5% dos produtos), B os de custo intermediário (cerca de 15%) e C os de menor custo (cerca de 80% dos produtos).
 
-#### **Gabarito oficial — QUESTÃO ANULADA**
+<details>
+<summary><strong>Gabarito oficial — QUESTÃO ANULADA</strong> — clique para revelar</summary>
 
 **ANULADA pelo CRS no gabarito oficial — não há resposta correta.**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
 *Vale estudar o tema mesmo assim: a anulação foi da questão, não do conteúdo.*
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q30 — Conhecimentos Específicos**
 
@@ -3650,13 +4316,19 @@ A seleção de medicamentos é importante parte do ciclo da Assistência Farmac�
 
 **D)**  Possibilitar o uso de linguagem diferenciada para cada membro da equipe de saúde, de forma que a compreensão seja de acordo com o nível técnico do profissional.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q31 — Conhecimentos Específicos**
 
@@ -3674,13 +4346,19 @@ Considerando os requisitos de estocagem dos medicamentos é CORRETO afirmar:
 
 **D)**  Devem existir estantes, armários, porta pallets, pallets, em número suficiente que garantam a estocagem correta e racional dos medicamentos. As estantes de madeira são adequadas, desde que corretamente higienizadas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q32 — Conhecimentos Específicos**
 
@@ -3698,13 +4376,19 @@ Com base nesta resolução é INCORRETO afirmar:
 
 **D)**  O farmacêutico deve participar dos estudos de avaliação de tecnologias em saúde (ATS) dos produtos para a saúde, produzindo relatórios e definindo indicadores que forneçam subsídios, aos gestores, para definição quanto à incorporação de novas tecnologias.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q33 — Conhecimentos Específicos**
 
@@ -3720,13 +4404,19 @@ Considerando os requisitos para dispensação segura de medicamentos descritos n
 
 **D)**  No sistema de distribuição combinado ou misto os medicamentos são distribuídos uma parte por meio de requisições (sistema coletivo) e outros por prescrição individual (sistema individualizado), eliminando assim, os riscos de erros.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q34 — Conhecimentos Específicos**
 
@@ -3754,13 +4444,19 @@ Estão CORRETAS as assertivas:
 
 **D)**  I, II e IV, apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q35 — Conhecimentos Específicos**
 
@@ -3784,13 +4480,19 @@ Em 2013, o Conselho Federal de Farmácia regulamentou as atribuições clínicas
 
 **D)**  V, F, V, F.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q36 — Conhecimentos Específicos**
 
@@ -3806,13 +4508,19 @@ J. M. S., 67 anos, possui hipertensão arterial sistêmica, diabetes e transtorn
 
 **D)**  Concordar com o início de venlafaxina nesse momento, que proporcionará melhora rápida do quadro de ansiedade do paciente, além de potencializar o efeito da linezolida, contribuindo para que ele permaneça por um período mais curto na UTI.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q37 — Conhecimentos Específicos**
 
@@ -3828,11 +4536,15 @@ O tromboembolismo venoso (TEV) é uma doença potencialmente fatal, que se manif
 
 **D)**  Paciente, 66 anos, após internação por diagnóstico de tromboembolismo pulmonar e uso de enoxaparina, recebeu alta com apixabana, um anticoagulante oral, inibidor direto e seletivo do fator Xa livre ou associado ao coágulo, que não requer monitorização frequente de RNI (Relação Normatizada Internacional) para avaliação do seu uso.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Ótimo, tenho a tabela comparativa detalhada. Agora vou buscar monitoramento de HNF/LMWH e depois os DOACs.
 
@@ -3970,6 +4682,8 @@ Já detalhamos apixabana acima — inibidor direto e seletivo do fator Xa (livre
 
 \*\*Regra de prova\*\*: sempre que uma alternativa combinar "enoxaparina/HBPM ou DOAC" com "monitorização de RNI ou TTPa diário", desconfie — é característica de \*\*HNF ou varfarina\*\*, não das drogas de farmacocinética previsível.
 
+</details>
+
 ### **2023 · Q38 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-38 \#FARMA
@@ -3984,11 +4698,15 @@ A.V.O., 45 anos, estava com proposta de iniciar anticoagulação oral após um e
 
 **D)**  A varfarina não exerce nenhum efeito direto sobre os fatores da coagulação previamente circulantes, por isso há necessidade de uso associado com HBPM no início do tratamento.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 # **Warfarina, Ponte com HBPM e RNI — Revisão Extensa**
 
@@ -4074,6 +4792,8 @@ Aqui há um problema duplo, que vale destacar porque envolve tanto farmacologia 
 | C | Inverte a direção do efeito (ISRS tende a **aumentar**, não reduzir, RNI/risco de sangramento) e é internamente contraditória (RNI reduzido implicaria menos, não mais, sangramento) |
 | **D** | **Correta** — varfarina não afeta fatores já circulantes/carboxilados; por isso, a HBPM cobre a lacuna terapêutica até que os fatores antigos (especialmente fator II, meia-vida de 50h) sejam naturalmente depurados |
 
+</details>
+
 ### **2023 · Q39 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-39 \#FARMA
@@ -4088,11 +4808,15 @@ A farmacoterapia do câncer inclui inúmeras classes de medicamentos: de agentes
 
 **D)**  Abiraterona. Durante o uso do medicamento, a prednisona também deve ser utilizada.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Excelente, o livro cobre. Vou puxar o parágrafo completo.
 
@@ -4159,6 +4883,8 @@ Esse é o ponto que você lembrou de uma questão anterior — e faz sentido a l
 
 **Dica de prova:** quando a questão pede especificamente um fármaco **oral**, já elimine mentalmente qualquer antraciclina e o 5-FU convencional — ambos são clássicos de via parenteral, independentemente de a orientação de patient counseling citada estar certa ou errada em si.
 
+</details>
+
 ### **2023 · Q40 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-40 \#FARMA
@@ -4177,11 +4903,15 @@ Considerando o exposto, marque a alternativa CORRETA:
 
 **D)**  Nefrotoxicidade e ototoxicidade são as principais reações adversas que devem ser monitoradas durante o tratamento de J.M.D. com vancomicina.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Sua desconfiança é legítima — a alternativa B parece "clinicamente responsável" à primeira vista. Mas ela erra o alvo justamente porque parte de uma premissa que não se aplica a este caso: a via de administração. Vamos por partes.
 
@@ -4239,6 +4969,8 @@ A alternativa C chega à conclusão certa (via enteral) por um caminho errado: e
 
 \*\*Regra prática para gravar:\*\* sempre que aparecer \*C. difficile\* \+ vancomicina, pense \*\*via oral/enteral, ação local no lúmen intestinal, pouca absorção sistêmica\*\* — isso automaticamente invalida qualquer alternativa que fale em monitorização sérica ou em toxicidade sistêmica como preocupação central.
 
+</details>
+
 ### **2023 · Q41 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-41 \#FARMA
@@ -4253,13 +4985,19 @@ A asma e a doença pulmonar obstrutiva crônica (DPOC) são doenças da via resp
 
 **D)**  Não há benefício de uso de um agonista β2 de ação curta e/ou um antagonista muscarínico de ação curta, durante a exacerbação de pacientes que estão em uso de anti-inflamatórios esteroides sistêmicos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q42 — Conhecimentos Específicos**
 
@@ -4283,13 +5021,19 @@ Com base nas informações fornecidas, marque a alternativa CORRETA:
 
 **D)**  O paciente está apresentando um problema de adesão relacionado ao AAS, já que ele parou de usar o medicamento por conta própria e há benefício claro para ele do uso desse medicamento para prevenção primária.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q43 — Conhecimentos Específicos**
 
@@ -4305,11 +5049,15 @@ C.C.S, 50 anos, foi internado devido a hipoglicemia sintomática e síndrome de 
 
 **D)**  Durante a anamnese, o paciente informou que iniciou o uso de fibrato há 3 meses quando seu triglicerídeos estava 200 mg/dL. Portanto, o farmacêutico deve orientá-lo a utilizar o medicamento todos os dias.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 # **Análise da Questão — PRM em Paciente Cirrótico com Abstinência Alcoólica**
 
@@ -4394,6 +5142,8 @@ Essa é a alternativa mais sutil das quatro. A ideia central (fibratos são admi
 | **C** | **Correta** — lorazepam evita a via oxidativa prejudicada na hepatopatia, usando glucuronidação direta sem metabólitos ativos relevantes |
 | D | Mistura uma observação farmacológica plausível com uma conduta que provavelmente extrapola o papel do farmacêutico de orientar isoladamente, sem envolver o prescritor |
 
+</details>
+
 ### **2023 · Q44 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-44 \#FARMA
@@ -4408,11 +5158,15 @@ A descompensação aguda da insuficiência cardíaca frequentemente requer hospi
 
 **D)**  O nitroprussiato de sódio geralmente é utilizado para pacientes com elevação significativa da resistência vascular sistêmica. No entanto, seu efeito hipotensor é mais discreto que o da nitroglicerina, não necessitando de monitorização rigorosa.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \# Insuficiência Cardíaca Descompensada — Farmacologia Vascular e Inotrópica
 
@@ -4488,6 +5242,8 @@ Você acertou na mosca: \*\*inotropismo é a força de contração\*\* (independ
 
 | D | Subestima a potência do nitroprussiato e nega a necessidade real de monitorização rigorosa — é mais potente e mais rápido que a nitroglicerina, não menos |
 
+</details>
+
 ### **2023 · Q45 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-45 \#FARMA
@@ -4504,11 +5260,15 @@ Em 11 de março de 2020, a Organização Mundial de Saúde (OMS) declarou que a 
 
 **D)**  Metotrexato.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Boa, faz sentido revisar — são quatro classes farmacológicas bem diferentes, apesar de todas aparecerem no manejo de artrite reumatoide (o que gera confusão). Vale notar que tocilizumabe e tofacitinibe são drogas mais recentes (aprovadas em 2010 e 2012), então nem constam no seu Goodman & Gilman (12ª ed., 2011\) — vou complementar com conhecimento farmacológico consolidado onde o livro não cobre.
 
@@ -4568,6 +5328,8 @@ Boa, faz sentido revisar — são quatro classes farmacológicas bem diferentes,
 
 \*\*Dica de prova:\*\* sempre que aparecer "antagonista/bloqueador de \*\*receptor de IL-6\*\*" associado a Covid-19 grave e UTI, a resposta é tocilizumabe (ou, alternativamente, sarilumabe — outro anti-IL-6R menos citado em provas brasileiras).
 
+</details>
+
 ### **2023 · Q46 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-46 \#FARMA
@@ -4592,11 +5354,15 @@ Estão CORRETAS as assertivas:
 
 **D)**  II e III, apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 O gabarito oficial desta questão é a **Letra D (II e III, apenas)**. Abaixo, apresento uma explicação detalhada e extensiva de cada uma das assertivas, confrontando os dados da sua fonte com as atualizações clínicas mais recentes da internet.
 
@@ -4651,6 +5417,8 @@ O gabarito oficial desta questão é a **Letra D (II e III, apenas)**. Abaixo, a
 
 💡 **Deseja que eu elabore um set de questões inéditas focado exclusivamente no mecanismo de ação, interações e contraindicações da Metformina e das Glifozinas para você treinar?**
 
+</details>
+
 ### **2023 · Q47 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-47 \#FARMA
@@ -4667,13 +5435,19 @@ Sobre os medicamentos utilizados no manejo das complicações da cirrose, marque
 
 **D)**  O uso de norfloxacino para prevenção de peritonite bacteriana espontânea não é mais recomendado pelo risco de indução de resistência microbiana ao medicamento.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q48 — Conhecimentos Específicos**
 
@@ -4689,11 +5463,15 @@ A hipertensão é a doença cardiovascular mais comum, sendo uma das principais 
 
 **D)**  A combinação de um bloqueador de canal de cálcio não di-hidropiridina e β-bloqueador é padrão ouro no tratamento de pacientes com hipertensão arterial resistente.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \# Farmacoterapia da Hipertensão — Combinações e Interações
 
@@ -4795,6 +5573,8 @@ Aqui está o erro central da alternativa D. Beta-bloqueadores \*\*já\*\* reduze
 
 | D | Verapamil/diltiazem \+ beta-bloqueador é combinação de \*\*uso cauteloso e restrito\*\* (risco de bloqueio AV e disfunção de VE), não "padrão-ouro" |
 
+</details>
+
 ### **2023 · Q49 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-49 \#FARMA
@@ -4809,13 +5589,19 @@ Moraes em a Arte da (Des)Prescrição no Idoso: a dualidade terapêutica ressalt
 
 **D)**  Zolpidem.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2023 · Q50 — Conhecimentos Específicos**
 
@@ -4831,15 +5617,24 @@ A Diretriz Nacional para Elaboração de Programa de Gerenciamento do Uso de Ant
 
 **D)**  Utilizar protocolos clínicos com base em evidências científicas e práticas de consensos para as principais síndromes clínicas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
 
+</details>
+
 ## **Gabarito consolidado — 2023**
+
+<details>
+<summary><strong>Tabela de respostas</strong> — clique para revelar</summary>
 
 | Q | Resp. | Q | Resp. | Q | Resp. | Q | Resp. | Q | Resp. |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -4853,6 +5648,8 @@ Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 | 8 | **D** | 18 | **B** | 28 | **D** | 38 | **D** | 48 | **A** |
 | 9 | **D** | 19 | **C** | 29 | **ANUL** | 39 | **D** | 49 | **C** |
 | 10 | **B** | 20 | **D** | 30 | **B** | 40 | **A** | 50 | **A** |
+
+</details>
 
 # **PROVA 2024 — QOS/2024 – Farmacêutico Hospitalar**
 
@@ -4896,13 +5693,19 @@ No texto O poder criativo da imperfeição, o autor propõe uma reflexão sobre 
 
 **D)**  A linguagem secreta da natureza se consolida na perfeição simétrica absoluta, já comprovada por meio de vastos instrumentos que ampliam a visão de mundo dos cientistas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q02 — Língua Portuguesa**
 
@@ -4918,13 +5721,19 @@ O texto “O poder criativo da imperfeição” pertence ao gênero artigo e foi
 
 **D)**  Ao mencionar ícones da ciência, o autor busca sofisticar e validar o texto por meio de argumentos de autoridade.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q03 — Língua Portuguesa**
 
@@ -4940,13 +5749,19 @@ Com relação ao sonho platônico de encontrar “um código secreto da natureza
 
 **D)**  Indiferença.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q04 — Língua Portuguesa**
 
@@ -4962,13 +5777,19 @@ Sobre o enunciado: “Nossos instrumentos de pesquisa, que tanto ampliam nossa v
 
 **D)**  Contém uma oração subordinada adjetiva explicativa.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q05 — Língua Portuguesa**
 
@@ -4984,13 +5805,19 @@ Considerando os processos de formação de palavras, assinale a alternativa CORR
 
 **D)**  Assimetrias é uma palavra formada por derivação imprópria.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q06 — Língua Portuguesa**
 
@@ -5006,13 +5833,19 @@ Assinale a ÚNICA alternativa que NÃO contém ERRO gramatical:
 
 **D)**  A um século, um elétron era algo muito diferente do que é hoje.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q07 — Língua Portuguesa**
 
@@ -5032,13 +5865,19 @@ Com relação ao trecho sublinhado, assinale a ÚNICA alternativa CORRETA:
 
 **D)**  Tem seu sentido ampliado pela palavra “matéria”.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q08 — Língua Portuguesa**
 
@@ -5058,13 +5897,19 @@ Qual é a figura de linguagem presente no trecho do poema acima?
 
 **D)**  Eufemismo.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q09 — Língua Portuguesa**
 
@@ -5080,13 +5925,19 @@ A flexão de número do substantivo está CORRETA em:
 
 **D)**  Verão – verãos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q10 — Língua Portuguesa**
 
@@ -5102,13 +5953,19 @@ Assinale a ÚNICA alternativa em que a conjugação verbal está CORRETA:
 
 **D)**  O juiz recomendou aos policiais que intervissem na discussão.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ## **2024 · Direitos Humanos**
 
@@ -5138,11 +5995,15 @@ Estão CORRETAS as assertivas:
 
 **D)**  II, III e V, apenas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 Boa notícia: essa é uma questão "decoreba" de transcrição literal da Convenção — todas as cinco assertivas são reproduções quase palavra por palavra dos artigos do Pacto de San José da Costa Rica (Decreto nº 678/1992). Você acertou I, II e III; vamos entender por que IV e V também estão certas, porque nos dois casos a "pegadinha" é de leitura, não de conteúdo.
 
@@ -5200,6 +6061,8 @@ Ou seja: sua sensação de que "isso parece severo demais" está certa do ponto 
 
 \*\*Dica de prova para esse tipo de questão de Direitos Humanos\*\*: quando a banca cobra a Convenção Americana (ou qualquer tratado internacional específico), ela costuma transcrever os artigos quase ipsis litteris — o "erro" raramente está em uma ideia errada, e sim em uma \*\*palavra trocada\*\* (um "pode" virando "deve", uma exceção removida, um sujeito trocado). Vale sempre comparar mentalmente a frase com a estrutura gramatical original antes de decidir que algo "não faz sentido" — muitas vezes o estranhamento vem da leitura, não do direito em si.
 
+</details>
+
 ### **2024 · Q12 — Direitos Humanos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-12 \#DH
@@ -5214,11 +6077,15 @@ A Convenção Americana sobre Direitos Humanos (assinada na Conferência Especia
 
 **D)**  Os membros da Comissão Interamericana de Direitos Humanos serão eleitos por um período de quatro anos, não sendo admitida reeleição.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \# Comissão Interamericana de Direitos Humanos — Organização e Composição
 
@@ -5308,6 +6175,8 @@ Repare que ambos os órgãos têm 7 membros e permitem uma reeleição — a dif
 
 | \*\*D\*\* | \*\*Art. 37.1\*\* | Afirma "sem reeleição" — mas o texto real permite \*\*1 reeleição\*\* | \*\*Incorreta (resposta da questão)\*\* |
 
+</details>
+
 ### **2024 · Q13 — Direitos Humanos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-13 \#DH
@@ -5322,11 +6191,15 @@ No tocante ao disposto na Convenção Americana sobre Direitos Humanos, assinada
 
 **D)**  A finalidade essencial das penas privativas da liberdade deve ser: a reforma e a readaptação social dos condenados.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 # **Direitos dos Presos e Pena de Morte — Artigos 3, 4 e 5 da Convenção**
 
@@ -5395,6 +6268,8 @@ Isso não significa que a Convenção ignore a dimensão de segurança pública/
 
 **Dica de prova reforçada**: sempre que uma alternativa sobre essa Convenção usar expressões absolutas como “em nenhuma circunstância”, “sempre”, “nunca”, “exclusivamente” — vale desconfiar e checar se o texto original não trazia uma ressalva (“salvo”, “exceto”, “a menos que”) que foi silenciosamente removida.
 
+</details>
+
 ### **2024 · Q14 — Direitos Humanos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-14 \#DH
@@ -5409,13 +6284,19 @@ De acordo com a Convenção Americana sobre Direitos Humanos (assinada na Confer
 
 **D)**  O trabalho ou o serviço que faça parte das obrigações cívicas normais.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q15 — Direitos Humanos**
 
@@ -5431,13 +6312,19 @@ No que tange à organização, competências e funções da Corte Interamericana
 
 **D)**  Somente os Estados-Partes e a Comissão têm direito de submeter caso à decisão da Corte, a qual deliberará sempre com a totalidade dos seus membros.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ## **2024 · Conhecimentos Específicos**
 
@@ -5461,13 +6348,19 @@ III \- Aos medicamentos contendo substâncias psicoativas armazenados em farmác
 
 **D)**  Todas as afirmativas estão corretas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q17 — Conhecimentos Específicos**
 
@@ -5493,13 +6386,19 @@ Avalie as afirmativas abaixo e as classifique como verdadeira (V) ou falsa (F) e
 
 **D)**  F, V, V, V.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q18 — Conhecimentos Específicos**
 
@@ -5517,11 +6416,15 @@ De acordo com a RDC Nº 67/07 (ANVISA), marque a alternativa CORRETA:
 
 **D)**  É permitida a realização de manipulação de medicamentos em geral e corriqueiramente nas farmácias de atendimento privativo de unidade hospitalar visando a minimização do número de itens padronizados em estoque e para atender às necessidades terapêuticas do paciente.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 *A- Por que está correta: A RDC 67/07 estabelece explicitamente no item 3.1 do seu Anexo VI que o preparo de doses unitárias e a unitarização são atividades exclusivas de farmácias de atendimento privativo de unidade hospitalar ou equivalentes de assistência médica. A norma também exige que o farmacêutico realize registros para garantir a rastreabilidade total dos produtos e procedimentos.*
 
@@ -5549,6 +6452,8 @@ Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 
 *Responsabilidade: É uma atividade privativa do farmacêutico, que deve assegurar que a eficácia e a segurança do medicamento original não sejam comprometidas pela mudança de forma. Ambas as atividades (unitarização e transformação) são permitidas exclusivamente em farmácias de atendimento privativo de unidade hospitalar ou equivalentes, para garantir a rastreabilidade e a qualidade dos processos.*
 
+</details>
+
 ### **2024 · Q19 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-19 \#FARMA
@@ -5567,13 +6472,19 @@ Considerando o exposto e os requisitos preconizados na biossegurança no manusei
 
 **D)**  As atividades devem ser interrompidas, a área deve ser demarcada e isolada com papel toalha e colocar gazes nos limites do vazamento para restringir o avanço do líquido.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q20 — Conhecimentos Específicos**
 
@@ -5599,13 +6510,19 @@ Marque a alternativa que apresenta a CORRETA correlação quanto aos níveis de 
 
 **D)**  1 – 3 – 2\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q21 — Conhecimentos Específicos**
 
@@ -5623,13 +6540,19 @@ De acordo com o regulamento técnico específico aplicados aos serviços de tera
 
 **D)**  O medicamento doxorrubicina deve ser preparado em Cabine de Segurança biológica (CSB), classe II B2, que deve estar em funcionamento por 30 minutos antes e após a conclusão dos trabalhos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q22 — Conhecimentos Específicos**
 
@@ -5647,13 +6570,19 @@ Marque a alternativa CORRETA quanto ao medicamento manipulado.
 
 **D)**  O produto manipulado é um medicamento genérico.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q23 — Conhecimentos Específicos**
 
@@ -5675,13 +6604,19 @@ Marque a alternativa que contém a sequência CORRETA de respostas, na ordem de 
 
 **D)**  4 – 1 – 2 – 3 – 5\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q24 — Conhecimentos Específicos**
 
@@ -5699,13 +6634,19 @@ Marque a alternativa INCORRETA quanto às ferramentas de gestão aplicadas à fa
 
 **D)**  O Brainstorming é uma ferramenta frequentemente utilizada na fase de planejamento, aplicada a um grupo de colaboradores e que permite a captação da manifestação da criatividade individual acerca de um tema, sem julgamentos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q25 — Conhecimentos Específicos**
 
@@ -5725,13 +6666,19 @@ Marque a alternativa CORRETA, quanto às diluições necessárias para atender a
 
 **D)**  Deverá realizar uma diluição na proporção de 1:50.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q26 — Conhecimentos Específicos**
 
@@ -5753,13 +6700,19 @@ Marque a alternativa CORRETA quanto ao preparo da dose unitária para atendiment
 
 **D)**  O manipulador deverá utilizar 1 frasco de Piperacilina/Tazobactam 4,5g, 2 ampolas de ABD, 4 frascos de cloreto de sódio 0,9% 100 mL. Reconstituir o frasco de Tazocin® 4,5g com 10 mL de ABD. Transferir 11mL do reconstituído para um frasco de 100mL de cloreto de sódio 0,9%, obtendo 1 bolsas contendo piperaciclina/tazobactam 2,25g \+ 100 mL de cloreto de sódio. Produzir 4 bolsas e armazenar refrigerado por até 24 horas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q27 — Conhecimentos Específicos**
 
@@ -5781,11 +6734,15 @@ III – Em protocolos onde se associam trastuzumabe e paclitaxel observa-se uma 
 
 **D)**  Somente a afirmativa III é correta.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \# Ordem de Infusão de Antineoplásicos — Revisão Exaustiva
 
@@ -5883,6 +6840,8 @@ Estudos pré-clínicos (in vitro e in vivo) documentam sinergismo entre esses do
 
 \*\*Nota de estudo:\*\* esse é um tema que provavelmente vale a pena você registrar separadamente na sua base de revisão como um "protocolo de sequência infusional" — é um assunto de nicho (farmácia oncológica hospitalar), mas com lógica bioquímica bem definida e repetível: sempre que a questão descrever uma sequência de quimioterápicos, procure identificar se um dos fármacos \*\*modula o alvo, o metabolismo, ou a sinalização de sobrevivência\*\* do fármaco seguinte — essa relação costuma ser exatamente o que justifica a ordem "correta" cobrada em prova.
 
+</details>
+
 ### **2024 · Q28 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-28 \#FARMA
@@ -5899,13 +6858,19 @@ Marque a alternativa CORRETA quanto aos objetivos da seleção de medicamentos p
 
 **D)**  Garantir um eficiente sistema de dispensação de medicamentos e materiais médico hospitalares, para atendimento às prescrições, contribuindo para uma melhor resposta terapêutica.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q29 — Conhecimentos Específicos**
 
@@ -5923,13 +6888,19 @@ Marque a alternativa CORRETA quanto aos tipos de estabilidade de medicamentos.
 
 **D)**  Estabilidade Química é quando a substância ativa retém sua integridade química e sua potência rotulada dentro dos limites especificados.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q30 — Conhecimentos Específicos**
 
@@ -5957,13 +6928,19 @@ Marque a alternativa que contém a sequência CORRETA de respostas, na ordem de 
 
 **D)**  V, V, F, F.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q31 — Conhecimentos Específicos**
 
@@ -5979,13 +6956,19 @@ A aquisição de insumos para saúde em instituições públicas deve ser realiz
 
 **D)**  O estudo técnico preliminar (ETP) deverá evidenciar o problema a ser resolvido e a sua melhor solução, de modo a permitir a avaliação da viabilidade técnica e econômica da contratação.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q32 — Conhecimentos Específicos**
 
@@ -6001,13 +6984,19 @@ Processo licitatório é o meio pelo qual a Administração Pública realiza as 
 
 **D)**  Plano de necessidades, Estudo de viabilidade orçamentária, Divulgação do edital, Realização do Pregão e Publicação do resultado.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q33 — Conhecimentos Específicos**
 
@@ -6025,13 +7014,19 @@ As alternativas abaixo apresentam os principais métodos de análise farmacoecon
 
 **D)**  Análise de custo-disponibilidade.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q34 — Conhecimentos Específicos**
 
@@ -6051,13 +7046,19 @@ Visando promover o uso efetivo e seguro do medicamento e considerando a máxima 
 
 **D)**  O tempo de infusão da vancomicina está de acordo com o preconizado. A diluição do medicamento deve ser alterada, mudando o volume de SF0,9% de 200mL para 500mL, pois a concentração final de vancomicina está acima do preconizado.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q35 — Conhecimentos específicos**
 
@@ -6081,11 +7082,15 @@ Os sistemas de distribuição de medicamentos e produtos para saúde consistem n
 
 **D)**  V, F, V, F.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 *\#\# Os quatro sistemas clássicos de distribuição hospitalar*
 
@@ -6129,6 +7134,8 @@ Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 
 *Isso descaracteriza o princípio fundamental do sistema de dose unitária, que é a \*\*individualização por paciente em todas as etapas\*\* — inclusive para esses itens não fracionáveis, que devem ser identificados e dispensados \*\*para o paciente específico\*\* (com etiqueta/identificação nominal), e não entregues genericamente à unidade de enfermagem para uso coletivo. Essa última prática ("por setor") é característica do sistema \*\*coletivo\*\*, não do sistema de dose unitária. Ao misturar essa lógica coletiva dentro da definição de dose unitária, a assertiva se torna falsa.*
 
+</details>
+
 ### **2024 · Q36 — Conhecimentos Específicos**
 
 **STATUS: \#REVISAR**   ·   Última revisão:08/08/2026   ·   Vezes revisada: \_\_\_   ·   \#Q2024-36 \#FARMA
@@ -6143,11 +7150,15 @@ Os medicamentos potencialmente perigosos ou de alta vigilância apresentam risco
 
 **D)**  Empregar as seringas de uso na rotina do hospital para administração de soluções orais com etiqueta de identificação e alerta, indicando que a administração é por via oral para evitar erros, visto que a conexão dela se adapta em sistema de administração venosa.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 *\#\# Julgando cada alternativa*
 
@@ -6201,6 +7212,8 @@ Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 
 *| D | Etiqueta em seringa comum | Barreira física (conector incompatível) \> barreira dependente de atenção humana |*
 
+</details>
+
 ### **2024 · Q37 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-37 \#FARMA
@@ -6215,11 +7228,15 @@ O Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos
 
 **D)**  Abolir o uso de todas as abreviaturas para expressar a via de administração de medicamentos, visto que elas podem gerar interpretação errônea e promover um erro de medicação, comprometendo a segurança do paciente.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 *\# Análise da Questão — Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/FIOCRUZ)*
 
@@ -6345,6 +7362,8 @@ Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 
 *Sua leitura foi mais precisa que a minha nesse ponto: o encaixe de C no domínio de "prescrição" não é coincidência nem desvio de escopo — é exatamente como o protocolo estrutura essa prática, tratando a checagem farmacêutica como parte constitutiva da segurança prescricional, e não como uma etapa à parte. Obrigado por questionar — vale muito revisar a fonte primária do protocolo (Anexo 03\) se você tiver acesso, porque esse tipo de detalhe fino (a exigência da dose máxima diária em B) é exatamente o tipo de "pegadinha por omissão" que costuma decidir esse tipo de questão.*
 
+</details>
+
 ### **2024 · Q38 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-38 \#FARMA
@@ -6369,11 +7388,15 @@ Marque a alternativa que contém a sequência CORRETA de respostas, na ordem de 
 
 **D)**  3, 4, 1, 2, 5\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 *\# Análise da Questão — Taxonomia de Segurança do Paciente (OMS / SBRAFH)*
 
@@ -6483,6 +7506,8 @@ Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 
 *Vale a pena decorar essas cinco definições literalmente, porque bancas de concurso costumam usar \*\*exatamente o texto do documento da OMS/ICPS\*\* (às vezes com pequenas variações de tradução), então quanto mais próxima sua memorização estiver do texto original, menor a chance de cair em pegadinhas de reformulação.*
 
+</details>
+
 ### **2024 · Q39 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-39 \#FARMA
@@ -6497,13 +7522,19 @@ A farmácia central de um hospital dispensa os medicamentos e materiais médico-
 
 **D)**  Na prescrição médica para constava meropenem 1 frasco ampola com 1g de 8/8h porém, o farmacêutico encontrou na fita plástica selada apenas 2 frascos ampola. O erro é classificado como medicamento errado.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q40 — Conhecimentos Específicos**
 
@@ -6519,13 +7550,19 @@ De acordo com as definições e requisitos da RDC nº 222/2018 (ANVISA) que regu
 
 **D)**  Os RSS do Grupo B com características de periculosidade, no estado líquido, não necessitam de tratamento prévio, e podem ser encaminhados para disposição final em aterros sanitários.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q41 — Conhecimentos Específicos**
 
@@ -6541,13 +7578,19 @@ Um paciente, durante sua internação no hospital, pode necessitar de suporte nu
 
 **D)**  A ingestão concomitante de ciprofloxacino com dieta enteral aumenta em 37% a concentração plasmática do medicamento em pacientes nos quais a administração ocorreu através da gastrostomia.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q42 — Conhecimentos Específicos**
 
@@ -6571,11 +7614,15 @@ Com base nas informações fornecidas, é CORRETO afirmar:
 
 **D)**  Um dos parâmetros de monitoramento da segurança no uso das estatinas são os exames de função hepática (enzimas hepáticas), que devem ser realizados em condições basais antes de iniciar as estatinas e, depois disso, apenas quando clinicamente indicado.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \# Questão sobre Dislipidemia — Gabarito D
 
@@ -6683,6 +7730,8 @@ Isso é factualmente incorreto. A bula da rosuvastatina é explícita: em pacien
 
 | \*\*D\*\* | \*\*Correta\*\* — reflete a recomendação real: ALT basal antes de iniciar estatina, repetição apenas se clinicamente indicada |
 
+</details>
+
 ### **2024 · Q43 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-43 \#FARMA
@@ -6697,11 +7746,15 @@ A doença de Alzheimer é uma demência progressiva que se caracteriza por perda
 
 **D)**  Os antipsicóticos atípicos, olanzapina e risperidona, fornecem uma melhora pequena, porém, significativa nos escores de sintomas comportamentais, justificando seu uso mesmo diante do aparecimento de eventos adversos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \# Doença de Alzheimer — Fisiologia, Farmacologia e Sintomas Comportamentais
 
@@ -6825,6 +7878,8 @@ A primeira parte está certa — antipsicóticos atípicos (olanzapina, risperid
 
 | D | Simplifica o risco de mortalidade/AVC (tarja preta do FDA) como se fosse simplesmente "justificado" pelo benefício, quando é uma ressalva de segurança séria |
 
+</details>
+
 ### **2024 · Q44 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-44 \#FARMA
@@ -6839,11 +7894,15 @@ O acidente vascular cerebral (AVC) é uma das principais causas de morte, incapa
 
 **D)**  Nos pacientes elegíveis, a alteplase é iniciada dentro de 4,5h do início dos sintomas, e deve ser administrada a 0,9mg/Kg (máximo 90mg), infundido endovenoso durante 1 hora, com 10% administrados como bolo inicial durante 1 minuto, seguido pela infusão contínua.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \# AVC Isquêmico — Revisão Completa de Manejo Farmacológico
 
@@ -6935,6 +7994,8 @@ Sua pergunta é exatamente o ponto-chave para entender o erro.
 
 | \*\*D\*\* | \*\*Correta\*\* — protocolo de alteplase (0,9mg/kg, máx 90mg, 10% bolus \+ 90% em 60min, janela de 4,5h) | — |
 
+</details>
+
 ### **2024 · Q45 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-45 \#FARMA
@@ -6963,13 +8024,19 @@ Após realizar a conciliação da paciente, o farmacêutico discutiu o caso com 
 
 **D)**  F, F, V, F.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **A**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q46 — Conhecimentos Específicos**
 
@@ -6987,11 +8054,15 @@ Informações complementares: iECA: inibidores da enzima conversora de angiotens
 
 **D)**  Em pacientes com diabetes mellitus são recomendados os anti-hipertensivos das classes: iECA, BRA, BCC e os diuréticos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **D**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \*\*Por que D está correta:\*\*
 
@@ -7147,6 +8218,8 @@ Guarda essa estrutura ("qual é a vulnerabilidade central dessa população, e q
 
 \*\*Ponto de amarração útil pra prova:\*\* repare que dentro de quase toda classe existe um fármaco "modelo/protótipo" (captopril, losartana, anlodipino, verapamil, hidroclorotiazida, propranolol) que costuma aparecer quando a questão quer testar mecanismo puro, e um "fármaco preferido na prática atual" (lisinopril/ramipril, clortalidona, carvedilol/nebivolol) que aparece quando a questão testa diretriz atual ou evidência de desfecho. Vale notar qual dos dois a questão está pedindo — mecanismo teórico ou prática clínica atualizada — porque a resposta certa muda dependendo disso.
 
+</details>
+
 ### **2024 · Q47 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-47 \#FARMA
@@ -7163,13 +8236,19 @@ Informação complementar: CIM: Concentração Inibitória Mínima
 
 **D)**  Alguns antibióticos são administrados em intervalos de tempo maiores em razão da duração longa do seu EPA (efeito pós antibiótico), ou seja, a eficácia é mantida muito tempo depois que as concentrações do antibiótico diminuem abaixo da CIM, como no caso da rifampicina.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 *\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+
+</details>
 
 ### **2024 · Q48 — Conhecimentos Específicos**
 
@@ -7197,11 +8276,15 @@ Estão CORRETAS as assertivas:
 
 **D)**  Todas as assertivas estão corretas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 \# Questão sobre Sepse e Choque Séptico — Gabarito C (III e IV, apenas)
 
@@ -7307,6 +8390,8 @@ A assertiva V propõe \*\*100 mg de 6/6h\*\* — o que equivale a \*\*400 mg/dia
 
 | V | Hidrocortisona no choque refratário | \*\*Incorreta\*\* | Dose de 100 mg 6/6h (400 mg/dia) excede o recomendado (\~200–300 mg/dia) |
 
+</details>
+
 ### **2024 · Q49 — Conhecimentos Específicos**
 
 **STATUS: \#REVISAR**   ·   Última revisão: 07/08/2026   ·   Vezes revisada: \_\_\_   ·   \#Q2024-49 \#FARMA
@@ -7321,11 +8406,15 @@ Paciente, 65 anos, está em tratamento de câncer de mama metastático há 11 me
 
 **D)**  Tramadol associado a amitriptilina.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 *Dois dados do enunciado definem sozinhos a resposta: \*\*dor oncológica\*\* (etiologia confirmada) e \*\*intensidade 9/10\*\*, ou seja, dor \*\*intensa\*\*. Isso posiciona a paciente diretamente no \*\*Degrau 3 da Escada Analgésica da OMS\*\*, e o Goodman & Gilman (12ª ed., Cap. 18 — \*Opioids, Analgesia, and Pain Management\*) traz esse quadro na \*\*Tabela 18-5, p. 516\*\*:*
 
@@ -7445,6 +8534,8 @@ Resposta correta: **B**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 
 *\*   \*\*Opioide \+ Antagonistas Periféricos:\*\* O uso de \*\*metilnaltrexona\*\* associado a opioides fortes permite bloquear os receptores μ no trato gastrointestinal, tratando a constipação sem reverter o efeito analgésico no cérebro.*
 
+</details>
+
 ### **2024 · Q50 — Conhecimentos Específicos**
 
 **STATUS: \#REVISAR**   ·   Última revisão: 07/08/2026   ·   Vezes revisada: \_\_\_   ·   \#Q2024-50 \#FARMA
@@ -7461,11 +8552,15 @@ Sobre a conduta do farmacêutico no caso acima e a identificação dos problemas
 
 **D)**  Ela identificou corretamente que a paciente apresentava apenas um problema relacionado a medicamento, que era a não-adesão da M.A. e priorizou a sua resolução.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hospitalar)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações, comentários e revisão</strong> — clique para revelar</summary>
 
 *\# Análise da Questão — PRM segundo Ramalho de Oliveira (2011)*
 
@@ -7503,7 +8598,12 @@ Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 
 *A conduta ideal seria o farmacêutico ter conduzido uma anamnese farmacoterapêutica focada em \*\*necessidade\*\* (por que a nortriptilina foi prescrita, se o diagnóstico/indicação persiste, se houve orientação prévia de desmame), antes de sugerir a reinclusão do medicamento na prescrição hospitalar — e não simplesmente reforçar a prescrição domiciliar por presunção de autoridade médica.*
 
+</details>
+
 ## **Gabarito consolidado — 2024**
+
+<details>
+<summary><strong>Tabela de respostas</strong> — clique para revelar</summary>
 
 | Q | Resp. | Q | Resp. | Q | Resp. | Q | Resp. | Q | Resp. |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -7517,6 +8617,8 @@ Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 | 8 | **C** | 18 | **A** | 28 | **A** | 38 | **B** | 48 | **C** |
 | 9 | **D** | 19 | **D** | 29 | **D** | 39 | **C** | 49 | **B** |
 | 10 | **B** | 20 | **C** | 30 | **C** | 40 | **B** | 50 | **C** |
+
+</details>
 
 # **PROVA 2022 — QOS/2022 – Psiquiatria (aproveitamento: Português e Direitos Humanos)**
 
@@ -7581,14 +8683,20 @@ B)  à falta tanto de instrução das populações mais pobres como de uma legis
 C)  ao grande número de mortes associadas ao consumo de cigarro em países desenvolvidos.  
 D)  ao fato de esses países serem ainda mercados não explorados pela indústria do fumo.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: B     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Interpretação e compreensão de texto
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q02 — Língua Portuguesa**
 
@@ -7599,14 +8707,20 @@ B)  Com a perda de espaço do cigarro no mundo industrializado, estima-se que as
 C)  Os fumantes são basicamente adolescentes.  
 D)  O cigarro seguramente diminui a longevidade dos fumantes.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: D     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Interpretação e compreensão de texto
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q03 — Língua Portuguesa**
 
@@ -7627,14 +8741,20 @@ B)  I, IV e V, somente.
 C)  III, IV e V, somente.  
 D)  I, II e IV, somente.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: C     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Interpretação e compreensão de texto
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q04 — Língua Portuguesa**
 
@@ -7645,14 +8765,20 @@ B)  “O cigarro é arma de eficácia incomparável”.
 C)  “Nenhuma medida isolada de saúde pública tem tanto impacto \[...\] quanto parar de fumar”.  
 D)  “Tem tanto impacto na redução da mortalidade quanto parar de fumar”.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: A     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Semântica e figuras de linguagem
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ## **2022 · Língua Portuguesa — Gramática**
 
@@ -7671,14 +8797,20 @@ B)  Armazém, útil, açúcar.
 C)  Há, impossível, filosófico.  
 D)  Pólen, porém, nós.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: B     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Ortografia e acentuação
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q06 — Língua Portuguesa**
 
@@ -7692,14 +8824,20 @@ B)  Prefixação, justaposição e aglutinação.
 C)  Justaposição, aglutinação e prefixação.  
 D)  Justaposição, prefixação e aglutinação.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: C     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Formação de palavras
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q07 — Língua Portuguesa**
 
@@ -7712,14 +8850,20 @@ B)  Logo notei que ele estava feliz.
 C)  O problema é que o prazo para as inscrições já terminou.  
 D)  Estava convicto de que as contas de água e luz já foram pagas.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: A     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Sintaxe: período composto
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q08 — Língua Portuguesa**
 
@@ -7732,14 +8876,20 @@ B)  É provável que ele não venha.
 C)  Vi meu amigo ao longe e ele também me reconheceu.  
 D)  A resposta que você me deu foi satisfatória.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: D     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Sintaxe: período composto
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q09 — Língua Portuguesa**
 
@@ -7752,14 +8902,20 @@ B)  sujeito.
 C)  objeto direto.  
 D)  agente da passiva.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: C     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Classes de palavras e morfossintaxe
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ## **2022 · Direitos Humanos**
 
@@ -7777,14 +8933,20 @@ B)  Todo ser humano tem direito a igual remuneração por igual trabalho, sendo 
 C)  Todo ser humano tem direito à propriedade, só ou em sociedade com outro, respeitada a função social da propriedade.  
 D)  Ninguém será arbitrariamente preso, detido ou exilado.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: D     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Declaração Universal dos Direitos Humanos (DUDH)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q11 — Direitos Humanos**
 
@@ -7796,14 +8958,20 @@ B)  Toda pessoa detida ou retida deve ser conduzida, sem demora, à presença de
 C)  Toda pessoa detida ou retida deve ser informada das razões da sua detenção e notificada, no prazo de 48 horas, da acusação ou acusações formuladas contra ela.  
 D)  Não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: B     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Convenção Americana (Pacto de San José)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q12 — Direitos Humanos**
 
@@ -7815,14 +8983,20 @@ B)  É direito do acusado de ser assistido gratuitamente por defensor público, 
 C)  É direito do acusado ser assistido por um defensor de sua escolha e de comunicar-se, livremente e em particular com este, sendo vedado que o acusado se defenda pessoalmente.  
 D)  A regra no processo penal é que este deve ser privado, pois visa resguardar o direito à intimidade das partes, salvo no que for necessário para preservar os interesses da justiça.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: A     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Convenção Americana (Pacto de San José)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2022 · Q13 — Direitos Humanos**
 
@@ -7856,16 +9030,25 @@ B)  2 – 1 – 1 – 2 – 1\.
 C)  1 – 1 – 2 – 2 – 1\.  
 D)  1 – 2 – 1 – 2 – 1\.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: C     (Gabarito Preliminar — QOS/2022 – Psiquiatria)  
 Tópico: Sistema Interamericano: Comissão e Corte
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
 
+</details>
+
 ## **Gabarito consolidado — 2022 (preliminar)**
+
+<details>
+<summary><strong>Tabela de respostas</strong> — clique para revelar</summary>
 
 | Q | Resp. | Q | Resp. |
 | :---- | :---- | :---- | :---- |
@@ -7878,6 +9061,8 @@ Tópico: Sistema Interamericano: Comissão e Corte
 | 7 | A |  |  |
 
 Fonte do gabarito: realces do PDF oficial «GABARITO PRELIMINAR — QOS/2022 – PSIQUIATRIA», extraídos automaticamente, conferidos visualmente questão a questão e checados contra o texto da DUDH (arts. 9, 17 e 23\) e do Pacto de San José (arts. 7.5, 8.2.f, 34, 35, 37, 52 e 54).
+
+</details>
 
 # **PROVA 2026 — CCOS/2026 – Psicologia (aproveitamento: Português e Direitos Humanos)**
 
@@ -7946,14 +9131,20 @@ B)  O texto desabona o atendimento médico remoto, devido ao distanciamento soci
 C)  A telemedicina e a inteligência artificial agilizam diagnósticos, devido à rapidez e à precisão das informações.  
 D)  O emprego de ferramentas tecnológicas permite superar barreiras geográficas, sem prejuízo da qualidade do atendimento médico.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: B     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Interpretação e compreensão de texto
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q02 — Língua Portuguesa**
 
@@ -7975,14 +9166,20 @@ B)  V, F, F, V.
 C)  F, F, V, V.  
 D)  F, V, V, F.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: D     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Coesão, coerência e intertextualidade
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q03 — Língua Portuguesa**
 
@@ -7993,14 +9190,20 @@ B)  O serviço apresentado no texto é ofertado de forma ininterrupta, onde quer
 C)  Ainda que veiculado em um meio universal, o texto é direcionado a um público específico.  
 D)  De acordo com o texto, para usufruir dos recursos ofertados, o beneficiário precisa ter qualquer dispositivo que lhe permita acessar o sistema.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: C     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Interpretação e compreensão de texto
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q04 — Língua Portuguesa**
 
@@ -8026,14 +9229,20 @@ B)  Apenas as assertivas II e III são verdadeiras.
 C)  Apenas as assertivas I e II são verdadeiras.  
 D)  Apenas as assertivas III e IV são verdadeiras.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: A     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Ortografia e acentuação
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q05 — Língua Portuguesa**
 
@@ -8051,14 +9260,20 @@ B)  Comparação – Hipérbole – Metáfora – Pleonasmo
 C)  Hipérbole – Metáfora – Pleonasmo – Comparação  
 D)  Comparação – Pleonasmo – Metáfora – Hipérbole
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: D     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Semântica e figuras de linguagem
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q06 — Língua Portuguesa**
 
@@ -8073,14 +9288,20 @@ B)  A telemedicina é o núcleo do sujeito.
 C)  As palavras A e uma são adjuntos adnominais.  
 D)  A palavra pois pode ser substituída pela palavra porque, sem alterar o sentido da oração.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: B     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Sintaxe: termos da oração
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q07 — Língua Portuguesa**
 
@@ -8096,14 +9317,20 @@ B)  há cerca, acerca, a cerca, à.
 C)  acerca, há cerca, a cerca, a.  
 D)  há cerca, a cerca, acerca, à.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: A     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Regência e crase
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q08 — Língua Portuguesa**
 
@@ -8117,14 +9344,20 @@ B)  Intervim.
 C)  intervenho.  
 D)  Intervinha.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: C     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Flexão verbal
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q09 — Língua Portuguesa**
 
@@ -8138,14 +9371,20 @@ B)  O pronome destacado está na posição enclítica.
 C)  O pronome destacado está na posição mesoclítica.  
 D)  O pronome destacado, se estivesse entre as palavras ela e tornou, estaria na posição proclítica.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: C     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Colocação pronominal
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q10 — Língua Portuguesa**
 
@@ -8160,14 +9399,20 @@ B)  Em ambas as orações, pois exerce função conclusiva.
 C)  Em ambas as orações, pois exerce função explicativa.  
 D)  Em 1, pois exerce função conclusiva. Em 2, pois exerce função explicativa.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: A     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Sintaxe: período composto
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ## **2026 · Direitos Humanos**
 
@@ -8184,14 +9429,20 @@ B)  A Comissão Interamericana de Direitos Humanos compor-se-á de sete membros,
 C)  Os membros da Comissão serão eleitos por quatro anos e só poderão ser reeleitos uma vez, porém o mandato de três dos membros designados na primeira eleição expirará ao cabo de dois anos. Logo depois da referida eleição, serão determinados por sorteio, na Assembleia-Geral, os nomes desses três membros. Não pode fazer parte da Comissão mais de um nacional de um mesmo Estado.  
 D)  Os membros da Comissão serão eleitos a título pessoal, pela Assembleia-Geral da Organização, de uma lista de candidatos propostos pelos governos dos Estados membros. Cada um dos referidos governos pode propor até dois candidatos, que devem ser nacionais do Estado que os propuser.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: D     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Sistema Interamericano: Comissão e Corte
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q12 — Direitos Humanos**
 
@@ -8204,14 +9455,20 @@ B)  Toda pessoa que se ache legalmente no território de um Estado tem direito d
 C)  Ninguém pode ser expulso do território do Estado do qual for nacional, nem ser privado do direito de nele entrar.  
 D)  Em nenhum caso o estrangeiro pode ser expulso ou entregue a outro país, seja ou não de origem, onde seu direito à vida ou à liberdade pessoal esteja em risco de violação por causa da sua raça, nacionalidade, religião, condição social ou de suas opiniões políticas. É proibida a expulsão coletiva de estrangeiros.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: B     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Convenção Americana (Pacto de San José)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q13 — Direitos Humanos**
 
@@ -8224,14 +9481,20 @@ B)  Em nenhum caso pode a pena de morte ser aplicada por delitos políticos, nem
 C)  Toda pessoa detida ou retida deve ser conduzida, sem demora, à presença de um juiz ou outra autoridade autorizada pela lei a exercer funções judiciais e tem direito a ser julgada dentro de um prazo razoável ou a ser posta em liberdade, sem prejuízo de que prossiga o processo. Sua liberdade pode ser condicionada a garantias que assegurem o seu comparecimento em juízo.  
 D)  Para os efeitos da Proibição da Escravidão e da Servidão, constituem trabalhos forçados ou obrigatórios os trabalhos ou serviços normalmente exigidos de pessoa reclusa em cumprimento de sentença ou resolução formal expedida pela autoridade judiciária competente.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: D     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Convenção Americana (Pacto de San José)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q14 — Direitos Humanos**
 
@@ -8245,14 +9508,20 @@ B)  Comissão Interamericana de Direitos Humanos e a Assembleia-Geral da Organiz
 C)  Comissão Interamericana de Direitos Humanos e a Corte Interamericana de Direitos Humanos.  
 D)  A Convenção não prevê, de forma expressa, órgãos competentes para acompanhar seu cumprimento, remetendo o tema ao Tribunal Internacional de Direitos Humanos.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: C     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Sistema Interamericano: Comissão e Corte
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
+
+</details>
 
 ### **2026 · Q15 — Direitos Humanos**
 
@@ -8264,16 +9533,25 @@ B)  Toda pessoa, vítima de perseguição, tem o direito de procurar e de gozar 
 C)  Toda pessoa tem direito a um padrão de vida capaz de assegurar a si e a sua família saúde e bem estar, inclusive alimentação, vestuário, habitação, cuidados médicos e os serviços sociais indispensáveis, e direito à segurança em caso de desemprego, doença, invalidez, viuvez, velhice ou outros casos de perda dos meios de subsistência fora de seu controle.  
 D)  Toda pessoa tem direito à liberdade de opinião e expressão; este direito inclui a liberdade de, sem interferência, ter opiniões e de procurar, receber e transmitir informações e ideias por quaisquer meios e independentemente de fronteiras.
 
-#### **Gabarito oficial**
+<details>
+<summary><strong>Gabarito oficial</strong> — clique para revelar</summary>
 
 Resposta correta: B     (Gabarito Preliminar — CCOS/2026 – Psicologia)  
 Tópico: Declaração Universal dos Direitos Humanos (DUDH)
 
-#### **Anotações e esquemas**
+</details>
+
+<details>
+<summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
 \[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]
 
+</details>
+
 ## **Gabarito consolidado — 2026 (preliminar)**
+
+<details>
+<summary><strong>Tabela de respostas</strong> — clique para revelar</summary>
 
 | Q | Resp. | Q | Resp. |
 | :---- | :---- | :---- | :---- |
@@ -8287,6 +9565,8 @@ Tópico: Declaração Universal dos Direitos Humanos (DUDH)
 | 8 | C |  |  |
 
 Fonte do gabarito: realces do PDF oficial "GABARITO PRELIMINAR — CCOS/2026 \- PSICOLOGIA", extraídos automaticamente e conferidos item a item contra o texto da Convenção Americana (arts. 6.3, 22, 33 e 36\) e da DUDH (art. 14.2).
+
+</details>
 
 # Questões geradas por IA
 
@@ -8307,7 +9587,8 @@ IA · Q1IA — Conhecimentos Específicos TAGS: \#Q1IA \#FARMA \#IA · Tópico: 
 9. Diferentemente da digoxina, a digitoxina apresenta meia-vida de eliminação mais longa, próxima de 7 dias, sendo sua faixa terapêutica estabelecida entre 10 e 30 ng/mL.  
 10. Em qualquer arritmia séria decorrente de intoxicação digitálica, o uso de fragmentos Fab antidigoxina é facultativo, podendo o médico optar por outras condutas terapêuticas equivalentes.
 
-· · · · · · · · · GABARITO · · · · · · · · ·
+<details>
+<summary><strong>GABARITO</strong> — clique para revelar</summary>
 
 1. (F) — padrão 3 (número trocado) · consta: "cerca de 6 mg" → correto: "aproximadamente 0,6 mg" · apoio: "uma dose de ataque de aproximadamente 0,6 mg de digoxina é administrada durante 24 h"  
 2. (V) — apoio: "meia-vida de eliminação da digoxina é de aproximadamente 36 h... as doses de manutenção são administradas 1 vez/dia"  
@@ -8319,6 +9600,9 @@ IA · Q1IA — Conhecimentos Específicos TAGS: \#Q1IA \#FARMA \#IA · Tópico: 
 8. (F) — padrão 6 (inversão de direção) · consta: "hipertireoideos" → correto: "hipotireoideos" · apoio: "ou em pacientes hipotireoideos"  
 9. (V) — apoio: "meia-vida de eliminação da digitoxina é mais longa que a da digoxina (cerca de 7 dias)... faixa terapêutica é de 10-30 ng/mL"  
 10. (F) — padrão 5 (modal trocado) · consta: "é facultativo" → correto: "deve ser tratada" · apoio: "Qualquer arritmia séria deve ser tratada com fragmentos Fab antidigoxina"
+
+</details>
+
 
 Digoxina:
 
@@ -8339,7 +9623,8 @@ IA · Q2IA — Conhecimentos Específicos TAGS: \#Q2IA \#FARMA \#IA · Tópico: 
 9. Além de seu papel no tratamento das arritmias, a adenosina encontra aplicação na indução de hipotensão controlada em determinadas cirurgias e como auxiliar no diagnóstico de doença arterial coronariana.  
 10. A administração em bolo de adenosina frequentemente precipita broncospasmo e fibrilação atrial, fenômeno atribuído ao encurtamento heterogêneo dos potenciais de ação atriais.
 
-· · · · · · · · · GABARITO · · · · · · · · ·
+<details>
+<summary><strong>GABARITO</strong> — clique para revelar</summary>
 
 1. (V) — apoio: "administrado em bolo intravenoso rápido para a fim imediato das arritmias supraventriculares reentrantes"  
 2. (F) — padrão 6 (inversão de direção) · consta: "eleva as correntes de cálcio" → correto: "reduz... as correntes de Ca2+" · apoio: "Como reduz desse modo as correntes de Ca2+, pode ser antiarrítmica, aumentando a refratariedade do nodo AV"  
@@ -8351,6 +9636,9 @@ IA · Q2IA — Conhecimentos Específicos TAGS: \#Q2IA \#FARMA \#IA · Tópico: 
 8. (F) — padrão 5 (modal trocado) · consta: "deve, obrigatoriamente... não sendo aceitável sua administração por outra via" → correto: "de preferência através de um acesso intravenoso central" · apoio: "de preferência através de um acesso intravenoso central; a administração lenta resulta na sua eliminação antes que possa chegar ao coração"  
 9. (V) — apoio: "A adenosina pode também ser usada para induzir a hipotensão controlada durante alguns procedimentos cirúrgicos e no diagnóstico de doença das artérias coronárias."  
 10. (F) — padrão 2 (quantificador) · consta: "frequentemente precipita" → correto: "Raramente... pode precipitar" · apoio: "Raramente, a administração em bolo de adenosina pode precipitar broncospasmo e fibrilação atrial"
+
+</details>
+
 
 Adenosina. A adenosina é um nucleosídeo de ocorrência natural, administrado em bolo intravenoso rápido para a fi m imediato das arritmias supraventriculares reentrantes (Lerman e Belardinelli, 1991). A adenosina pode também ser usada para induzir a hipotensão controlada durante alguns procedimentos cirúrgicos e no diagnóstico de doença das artérias coronárias. O ATP intravenoso parece ter efeitos similares aos da adenosina.
 
@@ -8373,7 +9661,8 @@ Confirmado no arquivo: o prompt do projeto é idêntico ao que já vínhamos usa
 9. De acordo com Hynniman e colaboradores (1970), tanto o sistema coletivo quanto a Dose Unitária apresentaram custo médio de US$ 0,33 por dose dispensada, ainda que suas taxas de erro fossem bastante diferentes entre si, próximas de 3,5% e 11,5%, respectivamente.  
 10. No estudo de Montazeri e Cook (1994), visitas diárias de 1,70 hora de um farmacêutico a uma unidade de 15 leitos geraram 10,7 ± 5 intervenções por dia, com economia estimada em 50 mil dólares canadenses após três meses.
 
-· · · · · · · · · GABARITO · · · · · · · · ·
+<details>
+<summary><strong>GABARITO</strong> — clique para revelar</summary>
 
 1. (F) — padrão 3 (número trocado) · consta: "18,4%" → correto: "13,4%" · apoio: "A porcentagem de erros de medicação declinou de 31,2% para 13,4%, portanto, reduziu 57% da variante estudada"  
 2. (V) — apoio: "Os médicos são os menos afetados, porque sua atividade se restringe a prescrever..." / "A Equipe de Enfermagem é a mais afetada... são transferidas para os farmacêuticos"  
@@ -8385,6 +9674,9 @@ Confirmado no arquivo: o prompt do projeto é idêntico ao que já vínhamos usa
 8. (V) — apoio: "redução de 24% a 34% em custo e 26% em unidades dispensadas... com economia mensal de cerca de R$ 8.000,00"  
 9. (V) — apoio: "cada dose de medicamento dispensada custou US$ 0,33 para o SDMDU ou sistema coletivo... cerca de 3,5% e de 11,5%, respectivamente"  
 10. (F) — padrão 3 (número trocado) · consta: "50 mil dólares canadenses" → correto: "10 mil dólares canadenses" · apoio: "com economia aproximada de 10 mil dólares canadenses, após 3 meses de trabalho"
+
+</details>
+
 
 ![][image1]
 
