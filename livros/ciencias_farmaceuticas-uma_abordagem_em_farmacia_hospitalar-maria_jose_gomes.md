@@ -1,5 +1,5 @@
 # Sumário
-Capítulo 20 - Sistemas de Distribuição de Medicamentos em Farmácia Hospitalar 
+Capítulo 20 - Sistemas de Distribuição de Medicamentos em Farmácia Hospitalar
 ---
 
 # Capítulo 20 - Sistemas de Distribuição de Medicamentos em Farmácia Hospitalar 
