@@ -5455,6 +5455,8 @@ O gabarito oficial desta questão é a **Letra D (II e III, apenas)**. Abaixo, a
 
 #### **Assertiva I: INCORRETA**
 
+📚 **Teoria:** [Tratamento do diabetes em pacientes hospitalizados](6.%20Farmacoterapia%20Cl%C3%ADnica/6.07%20Horm%C3%B4nios%20e%20seus%20antagonistas%20-%20dist%C3%BArbios%20endocrinol%C3%B3gicos.md#tratamento-do-diabetes-em-pacientes-hospitalizados)
+
 * **O erro hospitalar:** Em pacientes internados, o manejo da glicemia com antidiabéticos orais não é recomendado na rotina clínica. A insulina é a **pedra angular** do tratamento da hiperglicemia no ambiente hospitalar. O protocolo padrão exige que os antidiabéticos orais sejam **descontinuados na admissão hospitalar**, devido à instabilidade do paciente, risco de hipoperfusão e necessidade de ajuste rápido de dose (o que só é possível com a insulina venosa ou subcutânea em esquema basal-bolus).  
 * **O erro do limite de 11% de HbA1c:** Um paciente que apresenta hemoglobina glicada (HbA1c) acima de 10% (e muito mais acima de 11%) exibe um estado severo de glicotoxicidade e provável falência ou exaustão das células \\(\\beta\\) pancreáticas. Pelas diretrizes atuais (ADA e Sociedade Brasileira de Diabetes \- SBD), pacientes com HbA1c nesta faixa necessitam de **insulinização imediata** para reverter a glicotoxicidade de forma rápida, e não de uma tentativa de "postergar" a insulina com terapia tripla oral.  
 * **Os medicamentos citados na assertiva:**  
@@ -5466,12 +5468,16 @@ O gabarito oficial desta questão é a **Letra D (II e III, apenas)**. Abaixo, a
 
 #### **Assertiva II: CORRETA**
 
+📚 **Teoria:** [Inibidores do SGLT2 — a lacuna mais grave](6.%20Farmacoterapia%20Cl%C3%ADnica/6.07%20Horm%C3%B4nios%20e%20seus%20antagonistas%20-%20dist%C3%BArbios%20endocrinol%C3%B3gicos.md#inibidores-do-sglt2-a-lacuna-mais-grave)
+
 * **Mecanismo de ação:** Os inibidores de SGLT2 (conhecidos como **"glifozinas"**, que incluem a **dapagliflozina, empagliflozina, canagliflozina e ertugliflozina**) atuam no túbulo proximal renal, onde o SGLT2 é responsável pela reabsorção de cerca de 90% da glicose filtrada. Ao bloquear esse transportador, eles promovem a perda urinária de glicose (glicosúria de aproximadamente 50 a 100g por dia), reduzindo diretamente a glicemia.  
 * **Benefício Cardiovascular (Atualização Científica):** Na época da publicação do *Goodman & Gilman (12ª edição)*, os inibidores de SGLT2 ainda estavam em desenvolvimento. No entanto, grandes ensaios clínicos publicados nos anos seguintes (como o *EMPA-REG OUTCOME* com empagliflozina, o *CANVAS* com canagliflozina e o *DECLARE-TIMI 58* com dapagliflozina) revolucionaram a cardiologia ao comprovar que esses fármacos reduzem significativamente o risco de **morte cardiovascular, infarto do miocárdio e hospitalização por insuficiência cardíaca**. Hoje, as diretrizes da ADA/SBD colocam os inibidores de SGLT2 como primeira linha para pacientes com diabetes e alto risco cardiovascular ou doença renal crônica estabelecida.
 
 ---
 
 #### **Assertiva III: CORRETA**
+
+📚 **Teoria:** [Metformina](6.%20Farmacoterapia%20Cl%C3%ADnica/6.07%20Horm%C3%B4nios%20e%20seus%20antagonistas%20-%20dist%C3%BArbios%20endocrinol%C3%B3gicos.md#metformina)
 
 * **Mecanismo e a Acidose Láctica:** A metformina é uma biguanida que ativa a proteína quinase dependente de AMP (AMPK) no fígado e tecidos periféricos. Embora seja extremamente segura na ausência de contraindicações, o acúmulo de metformina pode inibir a respiração mitocondrial no complexo I, resultando em desvio do metabolismo para a via anaeróbia e acúmulo de lactato, o que causa a **acidose láctica** (uma reação rara, porém grave e de alta letalidade).  
 * **Regras de Suspensão:** A metformina é excretada inalterada na urina. Sua eliminação ativa depende de transportadores como o **OCT2** nos túbulos renais. Se o paciente sofrer uma queda abrupta na taxa de filtração glomerular, a metformina se acumula rapidamente. Por isso, ela deve ser obrigatoriamente suspensa:  
@@ -5481,6 +5487,8 @@ O gabarito oficial desta questão é a **Letra D (II e III, apenas)**. Abaixo, a
 ---
 
 #### **Assertiva IV: INCORRETA**
+
+📚 **Teoria:** [Agonistas do receptor de GLP-1](6.%20Farmacoterapia%20Cl%C3%ADnica/6.07%20Horm%C3%B4nios%20e%20seus%20antagonistas%20-%20dist%C3%BArbios%20endocrinol%C3%B3gicos.md#agonistas-do-receptor-de-glp-1)
 
 * **A confusão de mecanismos:** A assertiva mistura as características e funções de duas classes distintas de fármacos que atuam sobre o sistema das incretinas (GLP-1):  
   1. **Análogos/Agonistas de GLP-1 (Liraglutida, Semaglutida, Exenatide):** São peptídeos injetáveis que ativam diretamente o receptor de GLP-1. Eles **não inibem a enzima DPP-4**; pelo contrário, eles são modificados estruturalmente para serem **resistentes** à degradação pela DPP-4. Eles promovem uma expressiva perda de peso e comprovadamente reduzem a mortalidade cardiovascular.  
