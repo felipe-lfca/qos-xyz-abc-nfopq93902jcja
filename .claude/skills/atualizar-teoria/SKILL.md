@@ -35,6 +35,25 @@ original dizia.
 Corrigir erro de transcrição (palavra quebrada, parágrafo fora de lugar) é outra tarefa; não
 misture com atualização de conteúdo, e use data e rótulo próprios ("correção de transcrição").
 
+## Se o tópico ainda não tem teoria escrita
+
+Vários arquivos deste repositório são só o template (`Resumo do tópico` e `Pontos-chave` com
+`<!-- a preencher -->`, sem nenhuma transcrição). Não há frase alguma para anotar — e mesmo
+assim rodar a skill aí tem valor: ela entrega o esqueleto normativo antes mesmo de alguém
+escrever a teoria, e evita que a primeira leitura comece de um livro desatualizado sem avisar.
+
+Nesse caso, o passo a passo é o mesmo (base → cabeçalhos do **edital**, já que não há
+cabeçalhos de teoria → busca → confirmação), mas o resultado vai em **"Legislação e
+referências"**, não em notas espalhadas pelo corpo — porque não há corpo. Estruture como:
+
+- a norma-base do assunto (a portaria ou RDC que qualquer prova vai cobrar);
+- o que mudou nela desde a publicação, com o mesmo rigor de fonte das notas comuns;
+- pegadinhas conhecidas do assunto (mesmo raciocínio do passo 6, abaixo).
+
+Registre a data do levantamento no topo dessa seção ("Levantamento fechado em …"), do mesmo
+jeito que se registraria em "Quando não houver novidade". Isso não substitui escrever a teoria
+— é o material que quem for escrevê-la usa como ponto de partida já atualizado.
+
 ## Passo a passo
 
 ### 1. Estabeleça a linha de base
@@ -99,6 +118,13 @@ indistinguível de um verdadeiro para quem está estudando. Regras:
   menos **uma URL**, para que o usuário possa conferir.
 - Se você lembra de uma mudança mas não achou a fonte, **diga isso ao usuário** em vez de
   escrever a nota.
+
+**Quando a busca confirma que o ato existe mas não devolve a data exata** (comum com RDC muito
+recente, onde só a notícia circula e a página do Diário Oficial ainda não indexou): cite o
+número tal como as fontes o deram e escreva **"(data de publicação não localizada — a
+confirmar)"** no lugar da data. Isso é diferente de "a confirmar na fonte primária" — aqui o
+que falta não é abrir a fonte, é a própria data não ter aparecido em nenhum resultado. Não
+arredonde para o mês nem invente o dia só para preencher o formato "nº X, de DD/MM/AAAA".
 
 ### 6. Separe registro de incorporação
 
