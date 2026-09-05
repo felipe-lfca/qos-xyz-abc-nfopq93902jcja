@@ -10,8 +10,15 @@ Uma pasta por **eixo** do conteúdo programático (7 eixos) e, dentro de cada um
 <eixo>/
 ├── README.md      índice do eixo, com a tabela de incidência
 ├── <tópico>.md    um arquivo por tópico do edital
-└── recursos/      imagens e anexos citados pelos arquivos do eixo
+├── recursos/      imagens e anexos citados pelos arquivos do eixo
+└── testes/        afirmativas V/F de cada tópico, com o mesmo nome do arquivo de teoria
 ```
+
+Os arquivos em `testes/` servem ao estudo por recuperação ativa: você responde blocos de cinco
+afirmativas, abre o gabarito recolhido e, para cada erro, segue o link direto para o trecho da
+teoria que o explica. São gerados pela skill `gerar-vf` (em `.claude/skills/`) a partir do
+arquivo de teoria correspondente — nunca a partir do banco de questões, que serve só de
+referência de formato.
 
 Para citar uma imagem dentro de um arquivo de tópico: `![Descrição](recursos/arquivo.png)`.
 
