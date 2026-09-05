@@ -5468,7 +5468,7 @@ O gabarito oficial desta questão é a **Letra D (II e III, apenas)**. Abaixo, a
 
 #### **Assertiva II: CORRETA**
 
-📚 **Teoria:** [Inibidores do SGLT2 — a lacuna mais grave](6.%20Farmacoterapia%20Cl%C3%ADnica/6.07%20Horm%C3%B4nios%20e%20seus%20antagonistas%20-%20dist%C3%BArbios%20endocrinol%C3%B3gicos.md#inibidores-do-sglt2-a-lacuna-mais-grave)
+📚 **Teoria:** [Inibidores do SGLT2 — a lacuna mais grave](6.%20Farmacoterapia%20Cl%C3%ADnica/6.07%20Horm%C3%B4nios%20e%20seus%20antagonistas%20-%20dist%C3%BArbios%20endocrinol%C3%B3gicos.md#inibidores-do-sglt2--a-lacuna-mais-grave)
 
 * **Mecanismo de ação:** Os inibidores de SGLT2 (conhecidos como **"glifozinas"**, que incluem a **dapagliflozina, empagliflozina, canagliflozina e ertugliflozina**) atuam no túbulo proximal renal, onde o SGLT2 é responsável pela reabsorção de cerca de 90% da glicose filtrada. Ao bloquear esse transportador, eles promovem a perda urinária de glicose (glicosúria de aproximadamente 50 a 100g por dia), reduzindo diretamente a glicemia.  
 * **Benefício Cardiovascular (Atualização Científica):** Na época da publicação do *Goodman & Gilman (12ª edição)*, os inibidores de SGLT2 ainda estavam em desenvolvimento. No entanto, grandes ensaios clínicos publicados nos anos seguintes (como o *EMPA-REG OUTCOME* com empagliflozina, o *CANVAS* com canagliflozina e o *DECLARE-TIMI 58* com dapagliflozina) revolucionaram a cardiologia ao comprovar que esses fármacos reduzem significativamente o risco de **morte cardiovascular, infarto do miocárdio e hospitalização por insuficiência cardíaca**. Hoje, as diretrizes da ADA/SBD colocam os inibidores de SGLT2 como primeira linha para pacientes com diabetes e alto risco cardiovascular ou doença renal crônica estabelecida.
