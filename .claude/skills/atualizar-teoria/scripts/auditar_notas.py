@@ -13,7 +13,9 @@ O que ele verifica, e por quê:
   observação, não como problema — senão o aviso vira ruído e ninguém lê.
 - **ato sem data ou sem número**: "uma portaria de 2026" não permite conferência. O padrão
   aceito é "Portaria SCTIE/MS nº 13, de 21/02/2026".
-- **datas futuras**: sinal de número inventado ou de erro de digitação.
+- **datas futuras na identificação de um ato**: um ato "de" data futura é sinal de número
+  inventado ou erro de digitação. Data futura fora disso é normal — prazo de vigência,
+  cronograma de implantação — e sai como observação.
 - **marcações pendentes**: quantas notas seguem com "(a confirmar na fonte primária)".
 - **contador de notas**: se o arquivo anuncia "São N notas", confere se N bate.
 
@@ -106,14 +108,25 @@ def main(caminho, so_atos=False):
         if not DATA.search(trecho) and not re.search(r"\b(19|20)\d{2}\b", trecho):
             problemas.append(f"ato sem data: “{trecho}”")
 
-    for d, mth, y in DATA.findall(corrido):
+    # datas que identificam um ato ("Portaria … de 27/05/2024") — futuro aqui é suspeito
+    datas_de_ato = set()
+    for m in ATO.finditer(corrido):
+        datas_de_ato.update(DATA.findall(m.group(0)))
+
+    futuras_prazo = []
+    for achado in DATA.findall(corrido):
+        d, mth, y = achado
         try:
             quando = datetime.date(int(y), int(mth), int(d))
         except ValueError:
             problemas.append(f"data inválida: {d}/{mth}/{y}")
             continue
-        if quando > hoje:
-            problemas.append(f"data no futuro: {d}/{mth}/{y}")
+        if quando <= hoje:
+            continue
+        if achado in datas_de_ato:
+            problemas.append(f"ato com data no futuro: {d}/{mth}/{y}")
+        else:
+            futuras_prazo.append(f"{d}/{mth}/{y}")
 
     print(f"{len(atos)} ato(s) normativo(s) citado(s) · {len(set(atos))} distinto(s)")
     print(f"{len(set(URL.findall(texto)))} URL(s) distinta(s)")
@@ -125,6 +138,10 @@ def main(caminho, so_atos=False):
         problemas.append(
             f"o arquivo anuncia {anunciado.group(1)} notas, mas há {len(blocos)}"
         )
+
+    if futuras_prazo:
+        print(f"{len(set(futuras_prazo))} data(s) no futuro fora de citação de ato "
+              f"(provável prazo): {', '.join(sorted(set(futuras_prazo)))}")
 
     print()
     if sem_url:
