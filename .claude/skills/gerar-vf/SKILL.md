@@ -35,7 +35,12 @@ Mesmo nome, pasta diferente. Isso torna o par óbvio e permite localizar um pelo
 convenção extra. Se o arquivo de testes já existir, **acrescente blocos ao final** e continue
 a numeração — não reescreva o que já está lá, porque o usuário pode ter registrado erros nele.
 
-## Regra de ouro: só o que está no arquivo de teoria
+## Regra de ouro: a fonte é o arquivo de teoria, sempre
+
+O conteúdo dos itens sai **do arquivo de teoria do tópico** — é ele que precisa ser coberto de
+ponta a ponta. O banco de questões (`QOS_PMMG_Banco_de_Questoes.md`) entra apenas como
+referência de **formato** e de **prioridade** (quais assuntos a banca já cobrou naquele tópico);
+nunca como fonte dos itens, e nunca como conteúdo a ser reciclado em V/F.
 
 Todo fato de um item — especialmente números, doses, prazos, concentrações, siglas de órgãos,
 números de portaria e nomes de fármacos — precisa existir literalmente no arquivo de teoria.
@@ -104,6 +109,16 @@ também *qual é o certo* — é isso que transforma reconhecimento em recupera�
 Blocos de **5 itens**, com numeração contínua ao longo do arquivo (1-5, 6-10, 11-15...). A
 numeração contínua é o que permite anotar "errei o 13 e o 17" no registro de rodadas.
 
+**Embaralhe os blocos.** Cada bloco mistura assuntos distintos do capítulo, em vez de agrupar
+tudo de um fármaco. Blocos temáticos deixam o estudo cômodo e enganoso: sabendo que o bloco
+todo é de metformina, metade do trabalho de recuperação já está feito. Discriminar entre temas
+parecidos é exatamente o que a prova cobra. A tabela de cobertura, ao final, é que organiza o
+material por seção.
+
+**Use links de referência** para não repetir o caminho longo do arquivo de teoria em cada item:
+defina `[rótulo]: ../<arquivo>.md#<âncora>` no fim do arquivo e escreva `[seção][rótulo]` no
+gabarito. O validador confere as duas formas.
+
 ## Como escrever os itens
 
 **Verdadeiras: paráfrase, nunca cópia.** Reescreva com outra estrutura sintática e outro
@@ -171,6 +186,34 @@ python3 .claude/skills/gerar-vf/scripts/checar_links.py
 O caminho relativo de `<eixo>/testes/` até a teoria começa com `../`, e espaços e acentos vão
 percent-encoded, como já se faz nos READMEs dos eixos.
 
+**Aponte para o cabeçalho do fármaco ou do assunto**, não para subtítulos genéricos. Um arquivo
+de teoria repete "Mecanismo de ação" e "Efeitos adversos e interações medicamentosas" a cada
+classe, e o GitHub resolve duplicatas anexando `-1`, `-2`, `-3` conforme a ordem — âncora
+frágil, que quebra assim que alguém insere uma seção. Prefira `#metformina`, `#tiazolidinedionas`,
+`#inibidores-da-dpp-4`.
+
+## Antes de fechar o arquivo, meça
+
+Um conjunto de V/F pode estar todo correto e ainda assim ser inútil, se der para acertar sem
+saber o conteúdo. Rode:
+
+```bash
+python3 .claude/skills/gerar-vf/scripts/conferir_itens.py "<eixo>/testes/<arquivo>.md"
+```
+
+Ele mede o que a intuição não pega: proporção V/F, comprimento médio de cada grupo, blocos
+homogêneos, padrões repetidos em sequência e concentração de "número trocado". As três
+armadilhas que mais aparecem — todas invisíveis a olho nu e todas fatais para o valor do
+material:
+
+- **Um grupo mais longo que o outro.** Ao escrever, a tendência é justificar mais as
+  verdadeiras (ou enfeitar mais as falsas). Se a diferença passa de ~25%, o comprimento vira
+  a resposta.
+- **Conversões concentradas.** Ao corrigir a proporção V/F no fim, é fácil converter vários
+  itens seguidos e criar um bloco inteiramente falso. Distribua as correções entre os blocos.
+- **Excesso de troca de número.** É o padrão mais fácil de gerar e o que menos ensina. Se
+  passar de um terço, converta alguns em inversão de direção, atribuição trocada ou modal.
+
 ## Cobertura
 
 O pedido de fundo é "pegar todos os cantos", então gere **percorrendo a árvore de cabeçalhos do
@@ -189,11 +232,18 @@ Um tópico grande como o 6.07 comporta 120-160 itens; um tópico curto de legisl
 
 ## Ao terminar
 
-1. Rode o validador de links.
-2. No arquivo de **teoria**, preencha a seção "Questões relacionadas" com o link para o arquivo
+1. Rode os dois scripts: `checar_links.py` (sem argumento, varre o repo) e `conferir_itens.py`
+   no arquivo gerado. Corrija o que aparecer antes de entregar.
+2. Confira as citações do gabarito contra o arquivo de teoria. Como o texto é quebrado em
+   linhas e há prefixo `>` nas notas, compare com espaços normalizados em vez de `grep` cru.
+3. No arquivo de **teoria**, preencha a seção "Questões relacionadas" com o link para o arquivo
    de testes e os códigos das questões reais do banco sobre aquele tópico.
-3. No "Controle de revisão" da teoria, acrescente o que fizer sentido (`[ ] Testes V/F gerados`).
-4. Diga ao usuário quantos itens saíram, que seções ficaram cobertas e o que ficou de fora.
+4. No "Controle de revisão" da teoria, acrescente o que fizer sentido (`[ ] Testes V/F gerados`).
+5. Diga ao usuário quantos itens saíram, que seções ficaram cobertas e o que ficou de fora.
+6. **Relate os defeitos que encontrou no arquivo de teoria** (erro de transcrição, parágrafo
+   partido, número que contradiz outra passagem) em vez de gerar item em cima deles. O usuário
+   decide se corrige a teoria antes de estudar — e essa lista costuma ser um dos subprodutos
+   mais úteis da geração.
 
 ## Dois modos a partir do mesmo pool
 

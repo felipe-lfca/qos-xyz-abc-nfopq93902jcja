@@ -68,7 +68,10 @@ def varrer() -> int:
     for arq in arquivos:
         with open(arq, encoding="utf-8") as fh:
             conteudo = sem_codigo(fh.read())
-        for rotulo, alvo in re.findall(r"\[([^\]]+)\]\(([^)\s]+)\)", conteudo):
+        # links inline [texto](destino) e definições de referência [rótulo]: destino
+        achados = re.findall(r"\[([^\]]+)\]\(([^)\s]+)\)", conteudo)
+        achados += re.findall(r"^\[([^\]]+)\]:\s*(\S+)", conteudo, flags=re.M)
+        for rotulo, alvo in achados:
             if "#" not in alvo or alvo.startswith(("http", "mailto")):
                 continue
             parte_arq, ancora = alvo.split("#", 1)
