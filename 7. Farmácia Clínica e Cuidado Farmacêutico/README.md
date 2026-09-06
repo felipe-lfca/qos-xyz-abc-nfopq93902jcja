@@ -34,6 +34,8 @@ O **capítulo 34** (Witzel) está transcrito na íntegra nos tópicos 7.01, 7.02
 
 O **capítulo 30** (Porta & Storpirtis, Farmácia Clínica) está transcrito em [7.04](7.04%20Atribui%C3%A7%C3%B5es%20cl%C3%ADnicas%20do%20farmac%C3%AAutico%20e%20servi%C3%A7os%20cl%C3%ADnicos.md) (integral), com recortes em 7.02, 7.03, 7.05 e 7.07.
 
+O **capítulo 42** (Teixeira — farmácia comunitária em Portugal) está transcrito em [7.08](7.08%20Cuidados%20farmac%C3%AAuticos%20na%20aten%C3%A7%C3%A3o%20prim%C3%A1ria%20%C3%A0%20sa%C3%BAde.md#transcrição--storpirtis-2008-capítulo-42).
+
 O **capítulo 44** (Bonal) já está transcrito em [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#transcrição--storpirtis-2008-capítulo-44).
 
 Comparativo **Granada × Minnesota** (definições, tabelas e “de quem é o raciocínio”): [Teoria no 7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#teoria--granada--minnesota-comparar-sem-misturar).
