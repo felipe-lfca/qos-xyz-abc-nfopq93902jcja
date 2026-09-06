@@ -4144,7 +4144,27 @@ Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 <details>
 <summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
-*\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+📚 **Teoria:** [4.04 Controle das infecções hospitalares e IRAS](4.%20Seguran%C3%A7a%20do%20Paciente%20e%20Controle%20de%20Infec%C3%A7%C3%A3o/4.04%20Controle%20das%20infec%C3%A7%C3%B5es%20hospitalares%20e%20IRAS.md)
+
+**Fonte:** Nota Técnica GVIMS/GGTES/DIRE3/ANVISA nº 01/2026 + Portaria GM/MS nº 2.616/1998 + NT ANVISA nº 03/2023 (Critérios Diagnósticos Nacionais de IRAS)
+
+---
+
+#### **A) INCORRETA**
+
+A primeira parte está correta: a 1ª dose do antimicrobiano na antibioticoprofilaxia cirúrgica deve ser administrada em **até 1 hora antes da cirurgia**, preferencialmente na **indução anestésica**. O erro está no antimicrobiano escolhido: os **carbapenêmicos** (imipenem, meropenem) **não são** os antimicrobianos de 1ª escolha em antibioticoprofilaxia. Os fármacos de eleição são as **cefalosporinas de 1ª ou 2ª geração** (ex.: cefalotina ou cefazolina). Carbapenêmicos são reservados para casos especiais de pacientes alérgicos a beta-lactâmicos ou com colonização/infecção documentada por germes resistentes.
+
+#### **B) INCORRETA**
+
+A ITU é de fato a IRAS mais comum e a sondagem vesical é o fator de risco mais importante — ambas as afirmativas estão corretas. O erro é a afirmativa sobre os **agentes predominantes**: *Streptococcus pyogenes* e *Streptococcus viridans* **não** são os agentes predominantes de ITU associada ao cateter. Os patógenos típicos são **Gram-negativos** (principalmente *Escherichia coli*, *Klebsiella pneumoniae*, *Pseudomonas aeruginosa*) e, em menor proporção, *Candida* spp.
+
+#### **C) CORRETA**
+
+O critério diagnóstico de IRAS frente a uma infecção comunitária prévia: quando na **mesma topografia** já infectada na comunidade for isolado um **germe diferente**, com **agravamento clínico** do paciente, o caso deve ser considerado IRAS. A lógica é que o novo microrganismo foi adquirido no ambiente de saúde — é diferente do que causou a infecção comunitária na mesma topografia. Portaria GM/MS nº 2.616/1998 e NT ANVISA 03/2023.
+
+#### **D) INCORRETA**
+
+A infecção do trato respiratório é geralmente a **3ª topografia** mais frequente de IRAS — este ponto está correto, assim como os fatores de risco citados. O erro são os agentes: **Escherichia coli** e **Salmonella** não são os principais agentes de pneumonia associada à assistência à saúde. Os agentes predominantes são Gram-negativos como *Klebsiella pneumoniae*, *Pseudomonas aeruginosa*, *Acinetobacter baumannii* e, no ambiente hospitalar, *Staphylococcus aureus* (incluindo MRSA). *Salmonella* é patógeno de infecção entérica, não de pneumonia hospitalar.
 
 </details>
 
