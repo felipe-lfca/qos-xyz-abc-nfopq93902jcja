@@ -4124,6 +4124,8 @@ Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-25 \#FARMA
 
+**Teoria:** [4.04 Controle das infecções hospitalares e IRAS](4.%20Segurança%20do%20Paciente%20e%20Controle%20de%20Infecção/4.04%20Controle%20das%20infecções%20hospitalares%20e%20IRAS.md)
+
 As infecções hospitalares, atualmente denominadas de infecções relacionadas à assistência à saúde (IRAS) representam uma preocupação global em saúde pública, necessitando de ações para prevenção, controle e uso correto de antimicrobianos. Considerando o cenário geral das infecções, as regulamentações e as estratégias de prevenção dentro do ambiente hospitalar, assinale a afirmativa CORRETA:
 
 **A)**  Uma das formas de prevenção das infecções de sítio cirúrgico é a correta antibioticoprofilaxia, que deve ter a administração da primeira dose do antimicrobiano em até uma hora antes do início da cirurgia, preferencialmente no período de indução anestésica. Os carbapenêmicos são os antimicrobianos mais utilizados.
@@ -4144,7 +4146,15 @@ Resposta correta: **C**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 <details>
 <summary><strong>Anotações e esquemas</strong> — clique para revelar</summary>
 
-*\[ Escreva aqui: por que a correta está correta, por que cada errada está errada, a legislação/referência envolvida e o esquema-resumo do tópico. \]*
+**Por que C está correta:** O critério diagnóstico de IRAS prevê que, quando na mesma topografia em que foi diagnosticada uma infecção comunitária for isolado um *germe diferente*, seguido do agravamento das condições clínicas do paciente, o caso deve ser classificado como IRAS. Isso está nos critérios diagnósticos nacionais (NT 03/2023/Anvisa).
+
+**Por que A está errada:** A antibioticoprofilaxia cirúrgica deve ter a 1ª dose administrada em até 1 hora antes da cirurgia, preferencialmente na indução anestésica — isso está correto. O erro está em afirmar que os *carbapenêmicos* são os antimicrobianos mais utilizados. Na profilaxia cirúrgica, o padrão são as **cefalosporinas** (especialmente a cefazolina); carbapenêmicos são reservados para situações especiais.
+
+**Por que B está errada:** A ITU é de fato a infecção mais comum e a sondagem vesical é o principal fator de risco — correto. O erro está nos agentes: os predominantes são **bacilos gram-negativos** (especialmente *Escherichia coli* e *Klebsiella pneumoniae*), não Streptococcus pyogenes e Streptococcus viridans.
+
+**Por que D está errada:** A infecção do trato respiratório é geralmente a **segunda** principal topografia de IRAS (a ITU é a primeira e a ISC a terceira, embora as posições variem conforme o estudo). Os principais agentes envolvidos na pneumonia associada à VM são gram-negativos (*Pseudomonas aeruginosa*, *Klebsiella pneumoniae*, *Acinetobacter*) — *E. coli* e *Salmonella* não são os agentes típicos da PAV.
+
+**Referência:** [4.04 Controle das infecções hospitalares e IRAS](4.%20Segurança%20do%20Paciente%20e%20Controle%20de%20Infecção/4.04%20Controle%20das%20infecções%20hospitalares%20e%20IRAS.md)
 
 </details>
 
