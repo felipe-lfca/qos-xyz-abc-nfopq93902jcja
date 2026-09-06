@@ -4124,6 +4124,8 @@ Resposta correta: **A**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-25 \#FARMA
 
+**Teoria:** [4.04 Controle das infecções hospitalares e IRAS](4.%20Segurança%20do%20Paciente%20e%20Controle%20de%20Infecção/4.04%20Controle%20das%20infecções%20hospitalares%20e%20IRAS.md)
+
 As infecções hospitalares, atualmente denominadas de infecções relacionadas à assistência à saúde (IRAS) representam uma preocupação global em saúde pública, necessitando de ações para prevenção, controle e uso correto de antimicrobianos. Considerando o cenário geral das infecções, as regulamentações e as estratégias de prevenção dentro do ambiente hospitalar, assinale a afirmativa CORRETA:
 
 **A)**  Uma das formas de prevenção das infecções de sítio cirúrgico é a correta antibioticoprofilaxia, que deve ter a administração da primeira dose do antimicrobiano em até uma hora antes do início da cirurgia, preferencialmente no período de indução anestésica. Os carbapenêmicos são os antimicrobianos mais utilizados.
