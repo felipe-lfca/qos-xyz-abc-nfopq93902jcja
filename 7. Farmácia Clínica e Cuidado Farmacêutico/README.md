@@ -30,6 +30,8 @@ As questões #Q2023-42, #Q2024-45 e #Q2024-50 compartilham a moldura de atençã
 
 Leitura mínima no Storpirtis 2008, nesta ordem: **30 → 34 → 36 → 42 → 44**. A #Q2024-50 cita expressamente Ramalho de Oliveira (2011).
 
+O **capítulo 44** (Bonal) já está transcrito em [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#transcrição--storpirtis-2008-capítulo-44).
+
 ## Recursos
 
 A pasta `recursos/` guarda imagens, esquemas e anexos citados pelos arquivos deste eixo. Referencie com `![Descrição](recursos/arquivo.png)`.
