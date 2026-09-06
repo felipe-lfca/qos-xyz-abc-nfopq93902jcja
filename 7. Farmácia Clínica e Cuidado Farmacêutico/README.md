@@ -30,6 +30,10 @@ As questões #Q2023-42, #Q2024-45 e #Q2024-50 compartilham a moldura de atençã
 
 Leitura mínima no Storpirtis 2008, nesta ordem: **30 → 34 → 36 → 42 → 44**. A #Q2024-50 cita expressamente Ramalho de Oliveira (2011).
 
+O **capítulo 34** (Witzel) está transcrito na íntegra nos tópicos 7.01, 7.02, 7.03, 7.04, 7.05, 7.07 e 7.08 (o capítulo atravessa o eixo; 7.06 fica de fora).
+
+O **capítulo 30** (Porta & Storpirtis, Farmácia Clínica) está transcrito em [7.04](7.04%20Atribui%C3%A7%C3%B5es%20cl%C3%ADnicas%20do%20farmac%C3%AAutico%20e%20servi%C3%A7os%20cl%C3%ADnicos.md) (integral), com recortes em 7.02, 7.03, 7.05 e 7.07.
+
 O **capítulo 44** (Bonal) já está transcrito em [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#transcrição--storpirtis-2008-capítulo-44).
 
 Comparativo **Granada × Minnesota** (definições, tabelas e “de quem é o raciocínio”): [Teoria no 7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#teoria--granada--minnesota-comparar-sem-misturar).
