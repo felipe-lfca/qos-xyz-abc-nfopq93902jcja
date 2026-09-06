@@ -3820,6 +3820,8 @@ Resposta correta: **B**     (Gabarito Oficial — QOS-PM/2023 – Farmácia)
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2023-16 \#FARMA
 
+> **Fonte legislativa:** [3.10 Gerenciamento dos RSS — RDC ANVISA 222/2018](3. Gestão e Logística da Farmácia Hospitalar/3.10 Gerenciamento dos resíduos de serviços de saúde (RSS).md) · [1.06 Boas práticas de funcionamento de serviços de saúde](1. Legislação e Política Farmacêutica/1.06 Boas práticas de funcionamento de serviços de saúde e farmacêuticos.md)
+
 No ambiente hospitalar o farmacêutico tem participação efetiva junto à equipe multidisciplinar no gerenciamento dos resíduos de serviços de saúde (RSS), objetivando minimizar a geração de resíduos e proporcionar um encaminhamento seguro, de forma eficiente, visando à proteção dos trabalhadores e a preservação da saúde pública, dos recursos naturais e do meio ambiente. Com base na Resolução da Diretoria Colegiada RDC nº 222/2018 (ANVISA) que regulamenta as boas práticas de gerenciamento dos resíduos dos serviços de saúde, assinale verdadeiro (V) ou falso (F) em cada afirmativa a seguir.
 
 ( ) Os RSS classificados como grupo A – subgrupo A1 são representados pelas culturas e os estoques de micro-organismos; resíduos de fabricação de produtos biológicos, incluindo os de medicamentos hemoderivados e resíduos de laboratório de manipulação genética.
@@ -7631,6 +7633,8 @@ Resposta correta: **C**     (Gabarito Oficial — QOS/2024 – Farmacêutico Hos
 ### **2024 · Q40 — Conhecimentos Específicos**
 
 **STATUS: \#PENDENTE**   ·   Última revisão: \_\_\_/\_\_\_/\_\_\_\_\_\_   ·   Vezes revisada: \_\_\_   ·   \#Q2024-40 \#FARMA
+
+> **Fonte legislativa:** [3.10 Gerenciamento dos RSS — RDC ANVISA 222/2018](3. Gestão e Logística da Farmácia Hospitalar/3.10 Gerenciamento dos resíduos de serviços de saúde (RSS).md) · [1.06 Boas práticas de funcionamento de serviços de saúde](1. Legislação e Política Farmacêutica/1.06 Boas práticas de funcionamento de serviços de saúde e farmacêuticos.md)
 
 De acordo com as definições e requisitos da RDC nº 222/2018 (ANVISA) que regulamenta as Boas Práticas de Gerenciamento dos Resíduos dos Serviços de Saúde (RSS) é CORRETO afirmar:
 
