@@ -33,7 +33,7 @@ Leitura mínima no Storpirtis 2008, nesta ordem: **30 → 34 → 36 → 42 → 4
 Já transcritos nesta edição:
 
 - **capítulo 30** (Farmácia Clínica) — âncora em [7.04](7.04%20Atribui%C3%A7%C3%B5es%20cl%C3%ADnicas%20do%20farmac%C3%AAutico%20e%20servi%C3%A7os%20cl%C3%ADnicos.md)
-- **capítulo 36** (seguimento farmacoterapêutico: SOAP, PWDT, TOM, Dáder; equação da prática) — âncora em [7.01](7.01%20Processo%20de%20cuidado%20do%20paciente%2C%20racioc%C3%ADnio%20cl%C3%ADnico%20e%20decis%C3%A3o%20em%20farmacoterapia.md)
+- **capítulo 36** (seguimento farmacoterapêutico: SOAP, PWDT, TOM, Dáder; equação da prática) — transcrição integral nos tópicos [7.01](7.01%20Processo%20de%20cuidado%20do%20paciente%2C%20racioc%C3%ADnio%20cl%C3%ADnico%20e%20decis%C3%A3o%20em%20farmacoterapia.md), [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md), [7.03](7.03%20Uso%20racional%20de%20medicamentos.md), [7.04](7.04%20Atribui%C3%A7%C3%B5es%20cl%C3%ADnicas%20do%20farmac%C3%AAutico%20e%20servi%C3%A7os%20cl%C3%ADnicos.md), [7.05](7.05%20Avalia%C3%A7%C3%A3o%20da%20prescri%C3%A7%C3%A3o%20e%20atua%C3%A7%C3%A3o%20em%20equipe%20multiprofissional.md), [7.07](7.07%20Gest%C3%A3o%20da%20pr%C3%A1tica%20cl%C3%ADnica.md) e [7.08](7.08%20Cuidados%20farmac%C3%AAuticos%20na%20aten%C3%A7%C3%A3o%20prim%C3%A1ria%20%C3%A0%20sa%C3%BAde.md)
 - **capítulo 44** (Bonal) — âncora em [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#transcrição--storpirtis-2008-capítulo-44)
 
 ## Recursos
