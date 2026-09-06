@@ -40,6 +40,10 @@ O **capítulo 44** (Bonal) já está transcrito em [7.02](7.02%20Problemas%20rel
 
 Comparativo **Granada × Minnesota** (definições, tabelas e “de quem é o raciocínio”): [Teoria no 7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#teoria--granada--minnesota-comparar-sem-misturar).
 
+## Testes V/F
+
+A pasta [`testes/`](testes/) tem afirmativas Verdadeiro/Falso espelhando cada tópico (mesmo nome do arquivo de teoria). Gerados em 06/09/2026 a partir da teoria já anotada com atualizações pós-Storpirtis 2008 — **420 itens** no total (7.01: 60 · 7.02: 80 · 7.03: 40 · 7.04: 65 · 7.05: 40 · 7.06: 30 · 7.07: 40 · 7.08: 65).
+
 ## Recursos
 
 A pasta `recursos/` guarda imagens, esquemas e anexos citados pelos arquivos deste eixo. Referencie com `![Descrição](recursos/arquivo.png)`.
