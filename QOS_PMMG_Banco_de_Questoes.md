@@ -8514,6 +8514,8 @@ A assertiva V propõe \*\*100 mg de 6/6h\*\* — o que equivale a \*\*400 mg/dia
 
 **STATUS: \#REVISAR**   ·   Última revisão: 07/08/2026   ·   Vezes revisada: \_\_\_   ·   \#Q2024-49 \#FARMA
 
+📖 **Teoria:** [6.06 Terapia farmacológica da inflamação e da dor — OMS: Escada Analgésica / Wells et al.](6.%20Farmacoterapia%20Cl%C3%ADnica/6.06%20Terapia%20farmacol%C3%B3gica%20da%20inflama%C3%A7%C3%A3o%20e%20da%20dor.md)
+
 Paciente, 65 anos, está em tratamento de câncer de mama metastático há 11 meses. Deu entrada no Pronto Atendimento com fortes dores. A paciente classificou sua dor como 9 numa escala de 0 a 10\. Após avaliação médica, foi confirmado que as dores estavam associadas ao câncer. Marque a alternativa que contém a opção terapêutica mais adequada para a paciente.
 
 **A)**  Codeína associada a paracetamol.
