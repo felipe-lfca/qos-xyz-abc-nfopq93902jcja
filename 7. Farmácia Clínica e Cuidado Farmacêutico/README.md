@@ -32,8 +32,11 @@ Leitura mínima no Storpirtis 2008, nesta ordem: **30 → 34 → 36 → 42 → 4
 
 Transcrições já no eixo:
 
+- **capítulo 30** (Farmácia Clínica) em [7.04](7.04%20Atribui%C3%A7%C3%B5es%20cl%C3%ADnicas%20do%20farmac%C3%AAutico%20e%20servi%C3%A7os%20cl%C3%ADnicos.md)
 - **capítulo 42** (Teixeira — farmácia comunitária em Portugal) em [7.08](7.08%20Cuidados%20farmac%C3%AAuticos%20na%20aten%C3%A7%C3%A3o%20prim%C3%A1ria%20%C3%A0%20sa%C3%BAde.md#transcrição--storpirtis-2008-capítulo-42)
 - **capítulo 44** (Bonal) em [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#transcrição--storpirtis-2008-capítulo-44)
+
+Comparativo **Granada × Minnesota** (definições, tabelas e “de quem é o raciocínio”): [Teoria no 7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#teoria--granada--minnesota-comparar-sem-misturar).
 
 ## Recursos
 
