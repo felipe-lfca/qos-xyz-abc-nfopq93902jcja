@@ -30,7 +30,11 @@ As questões #Q2023-42, #Q2024-45 e #Q2024-50 compartilham a moldura de atençã
 
 Leitura mínima no Storpirtis 2008, nesta ordem: **30 → 34 → 36 → 42 → 44**. A #Q2024-50 cita expressamente Ramalho de Oliveira (2011).
 
-O **capítulo 44** (Bonal) já está transcrito em [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#transcrição--storpirtis-2008-capítulo-44).
+Já transcritos nesta edição:
+
+- **capítulo 30** (Farmácia Clínica) — âncora em [7.04](7.04%20Atribui%C3%A7%C3%B5es%20cl%C3%ADnicas%20do%20farmac%C3%AAutico%20e%20servi%C3%A7os%20cl%C3%ADnicos.md)
+- **capítulo 36** (seguimento farmacoterapêutico: SOAP, PWDT, TOM, Dáder; equação da prática) — âncora em [7.01](7.01%20Processo%20de%20cuidado%20do%20paciente%2C%20racioc%C3%ADnio%20cl%C3%ADnico%20e%20decis%C3%A3o%20em%20farmacoterapia.md)
+- **capítulo 44** (Bonal) — âncora em [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#transcrição--storpirtis-2008-capítulo-44)
 
 ## Recursos
 
