@@ -32,6 +32,8 @@ Leitura mínima no Storpirtis 2008, nesta ordem: **30 → 34 → 36 → 42 → 4
 
 O **capítulo 44** (Bonal) já está transcrito em [7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#transcrição--storpirtis-2008-capítulo-44).
 
+Comparativo **Granada × Minnesota** (definições, tabelas e “de quem é o raciocínio”): [Teoria no 7.02](7.02%20Problemas%20relacionados%20ao%20uso%20de%20medicamentos%20%28PRM%29.md#teoria--granada--minnesota-comparar-sem-misturar).
+
 ## Recursos
 
 A pasta `recursos/` guarda imagens, esquemas e anexos citados pelos arquivos deste eixo. Referencie com `![Descrição](recursos/arquivo.png)`.
