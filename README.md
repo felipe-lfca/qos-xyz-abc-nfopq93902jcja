@@ -1,16 +1,16 @@
 # qos-pmmg-farmacia
 
-Tópicos de estudo para o concurso de Farmacêutico do Quadro de Oficiais da Saúde da PMMG (QOS/PMMG).
+Tópicos de estudo para o concurso de Farmacêutico do Quadro de Oficiais da Saúde da PMMG (QOS/PMMG). A prova objetiva cobra **Língua Portuguesa**, Direitos Humanos e conhecimentos específicos de Farmácia; este repositório cobre Farmácia (7 eixos) e Português.
 
 ## Como o repositório está organizado
 
-Uma pasta por **eixo** do conteúdo programático (7 eixos) e, dentro de cada uma, um arquivo `.md` por **tópico do edital** (67 tópicos). Cada arquivo de tópico já vem com os números da planilha de análise estatística (em quais editais o tópico foi exigido, em quantos editais, quantas questões gerou e a classificação de incidência) e com seções vazias para você preencher.
+Uma pasta por **eixo** do conteúdo programático de Farmácia (7 eixos, 67 tópicos) e a pasta **Língua Portuguesa e Interpretação de Textos** (30 tópicos do edital). Dentro de cada uma, um arquivo `.md` por **tópico do edital**. Nos eixos de Farmácia, cada arquivo já vem com os números da planilha de análise estatística (em quais editais o tópico foi exigido, em quantos editais, quantas questões gerou e a classificação de incidência). Em Português a incidência foi mapeada a partir do banco de questões das provas de Farmácia (2013, 2017, 2023 e 2024).
 
 ```
-<eixo>/
-├── README.md      índice do eixo, com a tabela de incidência
+<pasta>/
+├── README.md      índice, com a tabela de incidência
 ├── <tópico>.md    um arquivo por tópico do edital
-├── recursos/      imagens e anexos citados pelos arquivos do eixo
+├── recursos/      imagens e anexos citados pelos arquivos
 └── testes/        afirmativas V/F de cada tópico, com o mesmo nome do arquivo de teoria
 ```
 
@@ -22,7 +22,7 @@ referência de formato.
 
 Para citar uma imagem dentro de um arquivo de tópico: `![Descrição](recursos/arquivo.png)`.
 
-## Eixos
+## Eixos de Farmácia
 
 | Eixo | Tópicos | Questões nas provas | Pasta |
 | :---- | :---- | :---- | :---- |
@@ -33,7 +33,17 @@ Para citar uma imagem dentro de um arquivo de tópico: `![Descrição](recursos/
 | 5. Farmacologia Básica | 4 | 4 | [abrir](5.%20Farmacologia%20B%C3%A1sica/README.md) |
 | 6. Farmacoterapia Clínica | 18 | 38 | [abrir](6.%20Farmacoterapia%20Cl%C3%ADnica/README.md) |
 | 7. Farmácia Clínica e Cuidado Farmacêutico | 8 | 7 | [abrir](7.%20Farm%C3%A1cia%20Cl%C3%ADnica%20e%20Cuidado%20Farmac%C3%AAutico/README.md) |
-| **Total** | **67** | **124** | |
+| **Total (Farmácia)** | **67** | **124** | |
+
+## Língua Portuguesa e Interpretação de Textos
+
+Matéria da prova objetiva (9 questões em 2013/2017; 10 em 2023/2024), no mesmo formato de arquivo dos eixos de Farmácia. O edital da PMMG numera estes tópicos como 1.1 a 1.30; aqui eles viram **LP.01 a LP.30** para não colidir com o Eixo 1 de legislação. Dois itens do edital são repetição (1.17 = 1.15; 1.23 = 1.18); o LP.30 sintetiza regência, concordância e colocação.
+
+A incidência foi mapeada nas provas de Farmácia de 2013, 2017, 2023 e 2024 (38 questões de Português, inclusive a #Q2023-06 anulada). As provas de 2022 (Psiquiatria) e 2026 (Psicologia) entram só como aproveitamento, listadas em «Questões relacionadas» de cada tópico.
+
+| Matéria | Tópicos | Questões nas provas | Pasta |
+| :---- | :---- | :---- | :---- |
+| LP. Língua Portuguesa e Interpretação de Textos | 30 | 38 | [abrir](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/README.md) |
 
 ## Índice completo dos tópicos
 
@@ -139,9 +149,44 @@ Para citar uma imagem dentro de um arquivo de tópico: `![Descrição](recursos/
 | 7.07 | [Gestão da prática clínica](7.%20Farm%C3%A1cia%20Cl%C3%ADnica%20e%20Cuidado%20Farmac%C3%AAutico/7.07%20Gest%C3%A3o%20da%20pr%C3%A1tica%20cl%C3%ADnica.md) | 2023, 2024 | 2 de 4 | 0 | Nunca caiu |
 | 7.08 | [Cuidados farmacêuticos na atenção primária à saúde](7.%20Farm%C3%A1cia%20Cl%C3%ADnica%20e%20Cuidado%20Farmac%C3%AAutico/7.08%20Cuidados%20farmac%C3%AAuticos%20na%20aten%C3%A7%C3%A3o%20prim%C3%A1ria%20%C3%A0%20sa%C3%BAde.md) | 2013, 2017 | 2 de 4 | 0 | Nunca caiu |
 
+### Língua Portuguesa e Interpretação de Textos
+
+| # | Tópico do edital | Exigido em | Editais | Questões | Incidência |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| LP.01 | [Domínio da Expressão Escrita (redação)](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.01%20Dom%C3%ADnio%20da%20Express%C3%A3o%20Escrita%20%28reda%C3%A7%C3%A3o%29.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.02 | [Adequação conceitual](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.02%20Adequa%C3%A7%C3%A3o%20conceitual.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.03 | [Pertinência, relevância e articulação dos argumentos](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.03%20Pertin%C3%AAncia%2C%20relev%C3%A2ncia%20e%20articula%C3%A7%C3%A3o%20dos%20argumentos.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.04 | [Seleção vocabular](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.04%20Sele%C3%A7%C3%A3o%20vocabular.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.05 | [Estudo de texto (questões objetivas sobre textos)](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.05%20Estudo%20de%20texto%20%28quest%C3%B5es%20objetivas%20sobre%20textos%29.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 12 | Alta incidência |
+| LP.06 | [Tipologia textual e Gêneros textuais](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.06%20Tipologia%20textual%20e%20G%C3%AAneros%20textuais.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 3 | Média incidência |
+| LP.07 | [Ortografia oficial](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.07%20Ortografia%20oficial.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 1 | Baixa incidência |
+| LP.08 | [Acentuação gráfica](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.08%20Acentua%C3%A7%C3%A3o%20gr%C3%A1fica.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 1 | Baixa incidência |
+| LP.09 | [Emprego dos sinais de pontuação](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.09%20Emprego%20dos%20sinais%20de%20pontua%C3%A7%C3%A3o.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.10 | [Estrutura e formação de palavras](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.10%20Estrutura%20e%20forma%C3%A7%C3%A3o%20de%20palavras.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 3 | Média incidência |
+| LP.11 | [Classes de palavras](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.11%20Classes%20de%20palavras.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.12 | [Frase, oração e período](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.12%20Frase%2C%20ora%C3%A7%C3%A3o%20e%20per%C3%ADodo.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 1 | Baixa incidência |
+| LP.13 | [Termos da oração](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.13%20Termos%20da%20ora%C3%A7%C3%A3o.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.14 | [Período composto por coordenação e subordinação](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.14%20Per%C3%ADodo%20composto%20por%20coordena%C3%A7%C3%A3o%20e%20subordina%C3%A7%C3%A3o.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 2 | Média incidência |
+| LP.15 | [Funções sintáticas dos pronomes relativos](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.15%20Fun%C3%A7%C3%B5es%20sint%C3%A1ticas%20dos%20pronomes%20relativos.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 1 | Baixa incidência |
+| LP.16 | [Emprego de nomes e pronomes](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.16%20Emprego%20de%20nomes%20e%20pronomes.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 2 | Média incidência |
+| LP.17 | [Funções sintáticas dos pronomes relativos](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.17%20Fun%C3%A7%C3%B5es%20sint%C3%A1ticas%20dos%20pronomes%20relativos.md) *(= LP.15)* | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.18 | [Colocação pronominal](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.18%20Coloca%C3%A7%C3%A3o%20pronominal.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.19 | [Emprego de tempos e modos verbais](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.19%20Emprego%20de%20tempos%20e%20modos%20verbais.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 2 | Média incidência |
+| LP.20 | [Regência verbal e nominal](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.20%20Reg%C3%AAncia%20verbal%20e%20nominal.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 1 | Baixa incidência |
+| LP.21 | [Concordância verbal e nominal](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.21%20Concord%C3%A2ncia%20verbal%20e%20nominal.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 2 | Média incidência |
+| LP.22 | [Orações reduzidas](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.22%20Ora%C3%A7%C3%B5es%20reduzidas.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.23 | [Colocação pronominal](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.23%20Coloca%C3%A7%C3%A3o%20pronominal.md) *(= LP.18)* | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.24 | [Estilística](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.24%20Estil%C3%ADstica.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 1 | Baixa incidência |
+| LP.25 | [Figuras de linguagem](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.25%20Figuras%20de%20linguagem.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 2 | Média incidência |
+| LP.26 | [Vícios de linguagem e qualidade da boa linguagem](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.26%20V%C3%ADcios%20de%20linguagem%20e%20qualidade%20da%20boa%20linguagem.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.27 | [Fonemas](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.27%20Fonemas.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 0 | Nunca caiu |
+| LP.28 | [Semântica](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.28%20Sem%C3%A2ntica.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 2 | Média incidência |
+| LP.29 | [Emprego da crase](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.29%20Emprego%20da%20crase.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 1 | Baixa incidência |
+| LP.30 | [Sintaxe (regência, concordância e colocação)](LP.%20L%C3%ADngua%20Portuguesa%20e%20Interpreta%C3%A7%C3%A3o%20de%20Textos/LP.30%20Sintaxe%20%28reg%C3%AAncia%2C%20concord%C3%A2ncia%20e%20coloca%C3%A7%C3%A3o%29.md) | 2013, 2017, 2023, 2024 | 4 de 4 | 1 | Baixa incidência |
+
 ## Outros arquivos
 
 - `QOS_PMMG_Banco_de_Questoes.md` — banco de questões comentado das provas de 2013, 2017, 2022, 2023, 2024 e 2026. Os gabaritos e comentários ficam em blocos recolhíveis (`Gabarito oficial — clique para revelar`), para dar para responder antes de ver a resposta.
 - `livros/` — material de apoio em markdown.
 
-*Os números de editais, questões e incidência vêm da planilha `QOS_PMMG_Analise_Estatistica`, abas «6. Cobertura do edital» e «7. Lacunas» (editais e provas de 2013, 2017, 2023 e 2024).*
+*Os números de editais, questões e incidência dos eixos de Farmácia vêm da planilha `QOS_PMMG_Analise_Estatistica`, abas «6. Cobertura do edital» e «7. Lacunas» (editais e provas de 2013, 2017, 2023 e 2024). Em Língua Portuguesa, a incidência foi mapeada no banco `QOS_PMMG_Banco_de_Questoes.md` sobre as mesmas quatro provas.*
