@@ -47,3 +47,5 @@
 ## Recursos
 
 A pasta `recursos/` guarda imagens, esquemas e anexos citados pelos arquivos deste eixo. Referencie com `![Descrição](recursos/arquivo.png)`.
+
+As transcrições do Goodman & Gilman (12ª ed.) neste eixo usam placeholders em `recursos/gg12-cap15/` (depressão e ansiedade), `recursos/gg12-cap17/` (hipnóticos e sedativos), `recursos/gg12-cap18/` (opioides e dor) e `recursos/gg12-cap43/` (diabetes / capítulo 43).
