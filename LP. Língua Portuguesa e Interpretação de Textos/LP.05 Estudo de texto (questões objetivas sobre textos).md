@@ -46,6 +46,49 @@ Este é o núcleo da prova objetiva de Português da PMMG. A banca oferece um te
 
 Detalhes de gênero estão em [LP.06](LP.06%20Tipologia%20textual%20e%20G%C3%AAneros%20textuais.md); de vocabulário, em [LP.04](LP.04%20Sele%C3%A7%C3%A3o%20vocabular.md).
 
+## Cobertura extra — casos ainda não cobrados
+
+As 12 questões de Farmácia cobriram tese, inferência, explícito e narrador. Falta treinar o restante do edital de leitura, que a PMMG já usou em outras armas (2022/2026) e pode estrear em Farmácia.
+
+### Tipos de narrador e focalização
+
+| Tipo | Marca | Já caiu? |
+| :---- | :---- | :---- |
+| Onisciente | 3ª pessoa, interior das personagens | sim — #Q2013-01 |
+| Observador | 3ª pessoa, só o visível | ainda não |
+| Protagonista / testemunha | 1ª pessoa | ainda não (crônica de Clarice é *eu* ensaístico, não narrador de conto) |
+| Foco interno × externo | vê por dentro / vê de fora | ainda não com esse nome |
+
+### Discurso citado
+
+- **Direto** — fala da personagem com travessão/aspas (*— Mamãe, não mate mais a galinha*).
+- **Indireto** — narrador transpôs (*a menina pediu que não matassem*).
+- **Indireto livre** — mistura; o pensamento da personagem entra sem marca. Pode cair como “efeito de sentido”.
+
+### Pressuposto × subentendido
+
+- **Pressuposto** — conteúdo apresentado como já aceito (*ainda* pressupõe continuidade; *parar de fumar* pressupõe que fumava).
+- **Subentendido** — insinuação cancelável (*Para quem gosta de morrer mais cedo…* = sarcasmo, não conselho).
+
+A alternativa que transforma subentendido em informação **explícita** erra se o enunciado pediu literalidade.
+
+### Polifonia e intertextualidade
+
+Vozes no texto (autor, personagem, citação, ditado). 2017 cobrou diálogo entre dois textos; 2026 cobrou relação entre artigo e texto institucional. Ainda não caiu: epígrafe, paródia, citação deformada de propósito.
+
+### Como a distratora é fabricada (checklist)
+
+1. Dado verdadeiro **fora** do texto.
+2. Dado do texto com **valor invertido** (ironia lida ao pé da letra).
+3. **Absoluto** onde o autor matiza.
+4. Confundir **exemplo** com **tese**.
+5. Confundir **narrador** com **personagem** ou **autor**.
+6. Generalizar um parágrafo a todo o texto.
+
+### Funções da linguagem na leitura
+
+Perguntar *qual função predomina* (referencial no artigo de Gleiser; emotiva + conativa na crônica de 2023). Ver [LP.24](LP.24%20Estil%C3%ADstica.md).
+
 ## Pontos-chave
 
 - #Q2013-01 · #Q2013-02 · #Q2013-04

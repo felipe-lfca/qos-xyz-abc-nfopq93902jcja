@@ -67,6 +67,42 @@ Compostos (resumo escolar):
 
 Gênero: *o dó, o eclipse, a dinamite, o champanha, a alface, o telefonema*. Substantivos de dois gêneros com sentido diferente: *o cabeça / a cabeça*; *o capital / a capital*.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Pronomes demonstrativos e a colocação no texto
+
+*Este* (perto do falante / que vai ser dito), *esse* (perto do ouvinte / que acaba de ser dito), *aquele* (longe / mencionado antes, o mais distante de dois). Na coesão: *este* retoma o último; *aquele*, o primeiro. A banca de concurso cobra isso à exaustão; a de Farmácia ainda não.
+
+### *O, a* pronome × artigo × demonstrativo
+
+- Artigo: *o paciente* (antecede nome).
+- Pronome pessoal: *vi-o* (substitui o nome).
+- Demonstrativo: *o de que falei* (= *aquilo*). *Tudo o que* = *tudo aquilo que*.
+
+### *Lhe* de posse
+
+*Roubaram-lhe a pasta* = *a pasta dele*. Não é OI de *roubar* no sentido de destinatário necessariamente — análise tradicional: *lhe* = adjunto adnominal possessivo. Pode cair.
+
+### Flexão de compostos — o resto da tabela
+
+| Tipo | Plural |
+| :---- | :---- |
+| *guarda-chuva* (verbo+subst.) | *guarda-chuvas* |
+| *couve-flor* (subst.+subst. especificador) | *couves-flores* |
+| *segunda-feira* | *segundas-feiras* |
+| *abaixo-assinado* | *abaixo-assinados* |
+| *bem-te-vi* | *bem-te-vis* |
+| *arco-íris* | *arcos-íris* |
+| *salva-vidas* | invariável no 2º (já plural) / *salva-vidas* |
+
+### Gênero problemático
+
+*O agravante* (direito) × *a agravante* (circunstância); *o derme* raro × *a derme*; *o clã, o pijama, o sósia, a omoplata, a alface, a sentinela, o champanha, o dó*. Uniformes: *o/a gerente, colega, intérprete*.
+
+### Pronomes de tratamento — quadro
+
+*Você, vocês, o senhor, Vossa Senhoria, Vossa Excelência, Vossa Magnificência.* Verbo e possessivo em **3ª pessoa**. *Vossa* (tratamento direto) × *Sua* (referência: *Sua Excelência não veio*).
+
 ## Pontos-chave
 
 - #Q2013-06 · #Q2024-09

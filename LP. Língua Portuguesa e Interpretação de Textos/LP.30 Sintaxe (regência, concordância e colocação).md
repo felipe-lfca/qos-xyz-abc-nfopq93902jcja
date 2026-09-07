@@ -65,6 +65,23 @@ Esse é o formato a treinar: quatro frases, três vícios, uma norma.
 
 Período, termos e subordinadas continuam em [LP.12](LP.12%20Frase%2C%20ora%C3%A7%C3%A3o%20e%20per%C3%ADodo.md)–[LP.15](LP.15%20Fun%C3%A7%C3%B5es%20sint%C3%A1ticas%20dos%20pronomes%20relativos.md); este arquivo é o **cruzamento normativo**.
 
+## Cobertura extra — casos ainda não cobrados
+
+A #Q2024-06 misturou três erros. A estreia seguinte pode misturar **cinco**. Checklist de extinção:
+
+1. *Haver/fazer* impessoais; *existir/ocorrer/faltar* pessoais.
+2. *Se* apassivador × indeterminador.
+3. *Alerta, meio, menos, é proibido, anexo*.
+4. *Chegar a, assistir a, visar a, preferir X a Y, corroborar* (sem *com*), *implicar* (TD).
+5. Crase: *àquele, a você, a todos, às 10h, há um século, a partir*.
+6. Vírgula sujeito/verbo; adjetiva explicativa × restritiva.
+7. Próclise com atrator; ênclise em início; mesóclise só no futuro sem atrator; *vê-lo*.
+8. *Cujo* sem artigo; relativo com a preposição do verbo da adjetiva.
+9. *Quando eu vir/fizer/puser*; *interveio/intervenho/interviessem*; *provejo*.
+10. *Mau/mal, mas/mais, porque* em quatro grafias.
+
+Se a alternativa passa nos dez, só então discuta estilo. Detalhes: [LP.18](LP.18%20Coloca%C3%A7%C3%A3o%20pronominal.md), [LP.20](LP.20%20Reg%C3%AAncia%20verbal%20e%20nominal.md), [LP.21](LP.21%20Concord%C3%A2ncia%20verbal%20e%20nominal.md), [LP.29](LP.29%20Emprego%20da%20crase.md).
+
 ## Pontos-chave
 
 - #Q2024-06

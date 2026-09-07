@@ -52,6 +52,33 @@ Os dois podem ser *de* + substantivo. Complemento nominal vem de nome **transiti
 
 Caracteriza o sujeito ou o objeto via verbo de ligação ou verbo nocional: *A galinha estava tonta*; *O pai considerou a decisão brusca*. Não é adjunto adnominal (este fica colado ao nome, sem verbo).
 
+## Cobertura extra — casos ainda não cobrados
+
+### Predicativo do sujeito × do objeto
+
+- Do sujeito: *A ciência é aproximação*; *A galinha ficou tonta*.
+- Do objeto: *O pai considerou a **decisão** brusca*; *Chamaram-no de herói* (predicativo do OD).
+
+### Adjunto adverbial — lista de circunstâncias
+
+Tempo, lugar, modo, causa, finalidade, concessão, instrumento, companhia, assunto, afirmação, negação, dúvida, intensidade. Deslocado e longo pede vírgula: *No avanço do conhecimento científico, vemos…*
+
+### Agente da passiva
+
+*A galinha foi presa **pelo rapaz**.* Equivale ao sujeito da ativa. Não confundir com adjunto de companhia (*com o rapaz*).
+
+### Aposto — tipos
+
+Explicativo (vírgulas), enumerativo (*Quero duas coisas: paz e tempo*), recapitulativo (*muro, guarda, cancela: **tudo** isso*), especificativo sem vírgula (*o poeta **Drummond***).
+
+### Termos associados ao verbo de ligação
+
+*Ser, estar, parecer, permanecer, ficar, continuar, andar* (em alguns usos). Sem predicativo, o verbo deixa de ser de ligação: *Ele ficou em casa* (ficar = permanecer, adjunto).
+
+### OD preposicionado
+
+*Amar a Deus, estimar a alguém* (OD preposicionado). *Assistir a* (ver) é VTI: o termo é **OI**, não OD. Teste da passiva: se não vira sujeito, não era OD.
+
 ## Pontos-chave
 
 - Núcleo do sujeito **não** inclui artigo.

@@ -67,6 +67,35 @@ O *que* desempenha, na adjetiva, o papel que o antecedente desempenharia.
 
 Não confundir *que* relativo (tem antecedente) com *que* integrante (abre substantiva: *Notei **que** ele veio*).
 
+## Cobertura extra — casos ainda não cobrados
+
+### *Onde, aonde, donde, em que*
+
+| Forma | Valor culto | Exemplo |
+| :---- | :---- | :---- |
+| *onde* | lugar em que (estado) | *a casa onde moro* |
+| *aonde* | lugar a que (movimento) | *a cidade aonde vou* |
+| *donde / de onde* | lugar de que | *o país donde veio* |
+| *em que* | tempo, ideia, texto | *o dia em que nasceu*; *o trecho em que afirma* |
+
+*Onde* para tempo/ideia é marcado como erro na norma escolar (*o momento onde* → *em que*).
+
+### *O que* / *o qual*
+
+*O que* = *isso que* (sem antecedente nominal nítido) ou relativo com artigo. *Tudo o que disse.* *O qual* evita ambiguidade quando há dois antecedentes: *Falou com a médica da clínica, a qual* (a clínica ou a médica — o gênero desambigua).
+
+### *Quanto(s)*
+
+Relativo após *tudo, todos, tanto*: *Trouxe tudo quanto pediu.* Função interna: OD, sujeito etc.
+
+### *Cujo* em todos os casos
+
+Além de *cujos frutos* e *em cujo colo*: *a lei **cujo** texto li* (OD do possuído? o possuído é *texto*, *cujo* concorda com *texto*). *as pessoas **cujas** ideias defendo*. Nunca: *cujo o*, *cuja a*, *cujo que*.
+
+### Preposição obrigatória com *quem*
+
+*Quem* relativo de pessoa, na norma escolar, **vem preposicionado**: *o colega **a quem** me referi*; *as pessoas **com quem** conversei*. Sem preposição, *quem* tende a ser interrogativo ou indefinido (*Quem cala consente*).
+
 ## Pontos-chave
 
 - #Q2023-07

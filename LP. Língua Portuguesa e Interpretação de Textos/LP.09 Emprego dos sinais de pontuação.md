@@ -57,6 +57,58 @@ Separa itens de enumeração complexa e orações coordenadas já internamente v
 
 Aspas: citação, estrangeirismo, destaque irônico. Parênteses: incidente acessório. A crônica de 2023 e o artigo de 2024 usam aspas em trechos reproduzidos nos enunciados — a pontuação da citação segue o original.
 
+## Cobertura extra — casos ainda não cobrados
+
+A objetiva isolou pouco a pontuação. Feche os casos de estreia.
+
+### Vírgula antes de *e*
+
+- **Não** se usa em enumeração simples de dois núcleos com o mesmo sujeito: *Estudou e passou*.
+- **Usa-se** quando os sujeitos são diferentes: *O pai decidiu, e a menina jurou*.
+- **Usa-se** com valor adversativo: *Estudou, e não passou* (= *mas*).
+
+### Vocativo × aposto × predicativo (a vírgula decide)
+
+- Vocativo: *Galinha, não fuja.* (chamado; fora da oração)
+- Aposto: *Clarice, autora de crônicas, …*
+- Predicativo: *Clarice é autora de crônicas* — **sem** vírgula entre verbo de ligação e predicativo.
+
+### Travessão, parênteses e vírgulas — o mesmo aposto
+
+Os três isolam explicação. Travessão dá ênfase; parênteses, aparte; vírgulas, o padrão.
+
+### Ponto e vírgula
+
+- Separa itens de lei/edital já vírgulados por dentro.
+- Separa coordenadas longas.
+Não é “vírgula enfática” aleatória.
+
+### Aspas: o ponto vai para dentro ou para fora?
+
+Em prova, reproduza o original. Na redação, ponto **dentro** das aspas se a citação é período completo; **fora** se a citação é fragmento no seu período.
+
+### Interrogativa indireta
+
+*Perguntou se choveria.* — ponto final, não interrogação. *Queria saber que horas são.* — idem.
+
+### Enumeração com dois-pontos
+
+Após dois-pontos, minúscula se a enumeração é termo da frase; maiúscula se cada item é período. A banca raramente pune isso; a vírgula ilegal entre sujeito e verbo, sim.
+
+### Travessão × hífen × dois-pontos
+
+- **Hífen** une palavras (*guarda-chuva*, *bem-te-vi*) — ortografia, não pontuação.
+- **Travessão** (—) isola aposto, marca diálogo ou ênfase (*Tinha uma pedra no meio do caminho — no meio do caminho tinha uma pedra*).
+- **Dois-pontos** anunciam explicação, citação ou enumeração; não substituem o verbo.
+
+### Vírgula nas reduzidas e com *etc.*
+
+Reduzida adverbial deslocada pede vírgula: *Concluída a análise, o laudo saiu.* *Etc.* já contém o *e*: não use vírgula *e* antes (*livros, laudos etc.*, não *livros, e etc.*). Vírgula depois de *etc.* só se o período continuar e a pausa for necessária.
+
+### Aspas de ironia e de citação
+
+Aspas podem marcar estrangeirismo, título ou **distanciamento** (*“segurança” entre aspas no texto de 2017*). Na interpretação, aspas de ironia = o autor *não* endossa o termo. Não copiar as aspas para a alternativa literal.
+
 ## Pontos-chave
 
 - Nunca: sujeito | verbo | objeto direto, sem intercalação.

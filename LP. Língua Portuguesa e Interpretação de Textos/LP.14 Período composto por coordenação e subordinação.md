@@ -67,6 +67,36 @@ Vale por um **advérbio** (circunstância): causal, comparativa, concessiva, con
 
 Reduzidas (infinitivo, gerúndio, particípio) estão em [LP.22](LP.22%20Ora%C3%A7%C3%B5es%20reduzidas.md).
 
+## Cobertura extra — casos ainda não cobrados
+
+### Adverbiais — quadro completo (a Farmácia quase não cobrou)
+
+| Valor | Conjunções | Exemplo |
+| :---- | :---- | :---- |
+| Causal | *porque, pois, como, já que, visto que* | *Como o medo crescia, ergueram muros.* |
+| Comparativa | *como, assim como, do que, quanto* | *correu como um cavalo* |
+| Concessiva | *embora, ainda que, mesmo que, apesar de que* | *Embora calma, fugiu.* |
+| Condicional | *se, caso, desde que, contanto que* | *Se não tomar cuidado, vira número.* |
+| Conformativa | *conforme, segundo, consoante* | *Segundo o autor, a ciência aproxima.* |
+| Consecutiva | *tão… que, tanto que, de modo que* | *Tão livre que parecia um galo.* |
+| Final | *para que, a fim de que* | *lutamos para que cada um seja um* |
+| Proporcional | *à medida que, ao passo que, quanto mais* | *À medida que o muro subia, a liberdade caía.* |
+| Temporal | *quando, enquanto, assim que, depois que, mal* | *Mal se desvencilhou, saiu aos gritos.* |
+
+*Como* causal (fato conhecido, oração anteposta) × *como* comparativo × *como* conformativo. *Se* condicional × *se* integrante (*não sei se vem*).
+
+### *Que* com muitos valores
+
+Relativo, integrante, consecutivo (*tão… que*), explicativo (*Abra a porta, que está calor*), preposição (*tenho que sair*), advérbio (*que calor*). A classificação sai da **função**, não da grafia.
+
+### Coordenada × subordinada com *e* / *mas*
+
+*E* e *mas* coordenam. Não chame de adverbial adversativa a oração com *mas*: é **coordenada adversativa**. Adversativa subordinada não existe nesse nome escolar; concessão (*embora*) é que subordina o contraste.
+
+### Orações intercaladas
+
+*A ciência, **creio eu**, é aproximação.* Inciso; pontua-se com vírgulas/travessões. Não conta como subordinada adverbial típica.
+
 ## Pontos-chave
 
 - #Q2013-08 · #Q2024-04

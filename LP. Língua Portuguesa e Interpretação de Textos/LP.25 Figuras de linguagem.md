@@ -74,6 +74,46 @@ Se a alternativa trouxer **quiasmo**, **paralelismo invertido** ou **hipérbato*
 - **Hipérbato / inversão / conversão / quiasmo** — ordem marcada.
 - **Silepse** — concordância com a ideia: *Vossa Excelência está preocupado*.
 
+## Cobertura extra — casos ainda não cobrados
+
+A prova já cobriu prosopopeia, “conversão”/quiasmo, comparação, metáfora, pleonasmo, hipérbole. Faltam as que a banca nomeia o tempo todo.
+
+### Som (metro e eco)
+
+- **Aliteração** — consoantes: *o rato roeu*.
+- **Assonância** — vogais: *a casa amarela clara*.
+- **Onomatopeia** — *coaxar* (já na formação de palavras, 2017).
+- **Paronomásia** — *concerto/conserto* explorados de propósito.
+
+### Pensamento (além de ironia e hipérbole)
+
+- **Oxímoro** — contraste num só sintagma: *silêncio ensurdecedor*.
+- **Perífrase / antonomásia** — *a cidade maravilhosa*; *o poeta de Itabira* (Drummond).
+- **Prosopopeia** já vista; **apóstrofe** (vocativo enfático) ainda não.
+- **Gradação** — *medo → defesa → exagero → delírio* (texto de 2017, não cobrada como figura).
+- **Eufemismo** — alternativa da #Q2024-08; saiba reconhecer: *faltou à pátria* = morreu.
+- **Metonímia** (tipos): autor pela obra (*ler Drummond*), parte pelo todo (*teto* = casa), continente pelo conteúdo (*beber um copo*), marca pelo produto.
+- **Sinestesia** — *voz doce, grito amargo*.
+- **Antítese / paradoxo** — dois polos no texto de 2017 (*segurança × liberdade*) × afirmação contraditória num só referente (*morto-vivo*).
+
+### Construção extra
+
+- **Anástrofe / hipérbato** — inversão da ordem direta (*de seus filhos queridos a sorte*).
+- **Sínquise** — inversão extrema, quase ilegível.
+- **Catáfora** — anúncio do que vem (*isto: a tese*); o contrário da anáfora de retomada.
+- **Zeugma / elipse** — omitir o verbo já dito (*uns pediam muro; outros, liberdade*).
+- **Alusão / intertextualidade** como figura de pensamento.
+
+### Como não confundir na prova
+
+| Par | Diferença |
+| :---- | :---- |
+| Metáfora × comparação | sem *como* × com *como* |
+| Metonímia × metáfora | contiguidade × similaridade |
+| Antítese × paradoxo | dois termos × contradição num referente |
+| Pleonasmo vício × ênfase | *subir para cima* × *vi com estes olhos* |
+| Anáfora (figura) × anáfora (coesão) | repetição estilística × retomada |
+
 ## Pontos-chave
 
 - #Q2017-06 · #Q2024-08

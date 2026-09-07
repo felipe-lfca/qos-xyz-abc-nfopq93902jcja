@@ -2,7 +2,7 @@
 
 30 tópicos mapeados nesta matéria (itens 1.1 a 1.30 do edital da PMMG), somando 38 questões nas provas de Farmácia de 2013, 2017, 2023 e 2024 (9 + 9 + 10 + 10; a #Q2023-06 foi anulada, mas entra na contagem como as anuladas dos eixos de Farmácia).
 
-A prova objetiva do QOS cobra Português em bloco próprio (9 questões em 2013/2017; 10 em 2023/2024), separado de Direitos Humanos e dos conhecimentos específicos. Os arquivos seguem o mesmo molde dos eixos de Farmácia: um `.md` por item do edital, com incidência, resumo, pontos-chave e códigos do banco. A numeração aqui é **LP.01–LP.30** para não colidir com o Eixo 1 (legislação farmacêutica); no edital esses itens aparecem como 1.1–1.30.
+A prova objetiva do QOS cobra Português em bloco próprio (9 questões em 2013/2017; 10 em 2023/2024), separado de Direitos Humanos e dos conhecimentos específicos. Os arquivos seguem o mesmo molde dos eixos de Farmácia: um `.md` por item do edital, com incidência, resumo, pontos-chave e códigos do banco. Cada tópico canônico tem ainda a seção **Cobertura extra — casos ainda não cobrados**, para fechar o edital além do recorte das provas de Farmácia. A numeração aqui é **LP.01–LP.30** para não colidir com o Eixo 1 (legislação farmacêutica); no edital esses itens aparecem como 1.1–1.30.
 
 O edital **repete** dois assuntos: 1.17 = 1.15 (pronomes relativos) e 1.23 = 1.18 (colocação pronominal). Os arquivos LP.17 e LP.23 existem para preservar a numeração e apontam para o tópico canônico. O item 1.30 (sintaxe) é síntese de regência, concordância e colocação.
 
@@ -71,6 +71,12 @@ O edital **repete** dois assuntos: 1.17 = 1.15 (pronomes relativos) e 1.23 = 1.1
 28. **Fonemas** — nunca caiu (0 questões)
 
 Os itens LP.17 e LP.23 não entram na fila: são reedições do LP.15 e do LP.18.
+
+## Como usar a cobertura extra
+
+O **Resumo** e os **Pontos-chave** de cada arquivo fecham o que a banca **já cobrou** nas provas de Farmácia (e o núcleo indispensável do item). A seção **Cobertura extra — casos ainda não cobrados** é a malha para **extinguir o edital**: pares, quadros e pegadinhas clássicas de concurso (Acordo de 1990, VOLP, Bechara, Cunha & Cintra, Cegalla, Koch) que ainda não saíram nas 38 questões de Farmácia, mas cabem no programa e já apareceram em outras armas da PMMG (2022/2026) ou em provas da mesma família.
+
+Use o extra quando for **zerar um tópico** (lacuna do edital, incidência zero, ou revisão final). LP.17 e LP.23 só remetem ao extra de LP.15 e LP.18. O LP.30 é checklist de síntese: os detalhes ficam em LP.18, LP.20, LP.21 e LP.29.
 
 ## Aproveitamento (2022 e 2026)
 

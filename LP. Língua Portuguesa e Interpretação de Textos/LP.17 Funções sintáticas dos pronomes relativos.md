@@ -25,6 +25,8 @@ Toda a teoria, as pegadinhas de *cujo*, a regência do relativo e a função de 
 
 **[LP.15 Funções sintáticas dos pronomes relativos](LP.15%20Fun%C3%A7%C3%B5es%20sint%C3%A1ticas%20dos%20pronomes%20relativos.md)**
 
+A seção **Cobertura extra** do LP.15 ( *onde/aonde*, *o que*, *quanto*, *quem* preposicionado) também vale para este número do edital.
+
 Não estude este arquivo como capítulo à parte. Se for gerar testes V/F, gere-os a partir do LP.15.
 
 ## Pontos-chave

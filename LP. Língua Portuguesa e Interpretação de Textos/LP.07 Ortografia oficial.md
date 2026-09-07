@@ -61,6 +61,39 @@ Gabarito da #Q2017-07: *mal* (advérbio) – *mal* (substantivo) – *mau* (adje
 - **X / CH:** *enxergar, mexer, trouxe*; *chuva, chave*.
 - **S / SS / Ç / SC:** *próximo, excesso, exceção, nascer, consciência*.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Hífen segundo o Acordo (além do recorte da prova)
+
+| Situação | Grafia |
+| :---- | :---- |
+| Prefixo + mesma vogal | hífen: *micro-ondas, anti-inflamatório, contra-ataque* |
+| Prefixo + vogal diferente | aglutina: *autoescola, extraoficial, infraestrutura* (exceções: *além, aquém, recém, sem, ex, vice, pós, pré, pró* — sempre hífen: *pré-escolar, ex-diretor*) |
+| Prefixo + **h** | hífen: *anti-higiênico, super-homem* |
+| Prefixo + **r** ou **s** | duplica a consoante, sem hífen: *antissocial, contrarregra, minissaia, autorretrato* |
+| Prefixo + outra consoante | sem hífen: *intermunicipal, supermercado* |
+| Topônimos e compostos | *Grão-Pará, guarda-chuva, segunda-feira* |
+
+*Não* use hífen em locuções lexicalizadas sem a regra: *fim de semana, dia a dia* (o substantivo *o dia a dia* ficou sem hífen no Acordo; *o dia-a-dia* antigo caiu).
+
+### *Mas* × *mais*; *há* × *a* × *à*
+
+- *mas* = oposição; *mais* = quantidade/intensidade.
+- *Há* (haver): tempo decorrido, existência. *A*: preposição (futuro, distância, objeto). *À*: crase.
+- *Há dois anos / daqui a dois anos / há dois anos atrás* (o *atrás* é pleonasmo vicioso).
+
+### Homônimos extras
+
+*acento/assento, concerto/conserto, sela/cela, censual/sensual, paço/passo, censo/senso, estrato/extrato, tachar/taxar, eminente/iminente* (este último é parônimo).
+
+### Sufixos que definem a letra
+
+- *-ês, -esa* (gentílico/título): *português, princesa*
+- *-eza* (abstrato de adjetivo): *pobreza, riqueza, clareza*
+- *-ice, -ícia*: *tolice, calvície*
+- *-ção* (derivado de verbo em *-ar* muitas vezes): *formação*; *-são* de temas em *-mitir/-verter*: *admissão, conversão*
+- *mal-* + palavra: *mal-humorado* (hífen); *mau humor* (adjetivo + substantivo)
+
 ## Pontos-chave
 
 - #Q2017-07 (*mau* / *mal*)

@@ -39,7 +39,7 @@ Para citar uma imagem dentro de um arquivo de tópico: `![Descrição](recursos/
 
 Matéria da prova objetiva (9 questões em 2013/2017; 10 em 2023/2024), no mesmo formato de arquivo dos eixos de Farmácia. O edital da PMMG numera estes tópicos como 1.1 a 1.30; aqui eles viram **LP.01 a LP.30** para não colidir com o Eixo 1 de legislação. Dois itens do edital são repetição (1.17 = 1.15; 1.23 = 1.18); o LP.30 sintetiza regência, concordância e colocação.
 
-A incidência foi mapeada nas provas de Farmácia de 2013, 2017, 2023 e 2024 (38 questões de Português, inclusive a #Q2023-06 anulada). As provas de 2022 (Psiquiatria) e 2026 (Psicologia) entram só como aproveitamento, listadas em «Questões relacionadas» de cada tópico.
+A incidência foi mapeada nas provas de Farmácia de 2013, 2017, 2023 e 2024 (38 questões de Português, inclusive a #Q2023-06 anulada). As provas de 2022 (Psiquiatria) e 2026 (Psicologia) entram só como aproveitamento, listadas em «Questões relacionadas» de cada tópico. Além do recorte das provas, cada tópico canônico tem a seção **Cobertura extra — casos ainda não cobrados**, para extinguir o edital se a banca inovar.
 
 | Matéria | Tópicos | Questões nas provas | Pasta |
 | :---- | :---- | :---- | :---- |

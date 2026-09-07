@@ -48,6 +48,34 @@ O português escolar descreve **dez classes**. A banca pede a classe **no contex
 - *como*: preposição/conjunção comparativa × advérbio interrogativo.
 - *que*: pronome relativo, conjunção integrante, preposição (*tenho que sair*, variação de *de*), advérbio de intensidade (*que calor*).
 
+## Cobertura extra — casos ainda não cobrados
+
+### Artigo
+
+Definido *o, a, os, as*; indefinido *um, uma, uns, umas*. Contrai com preposição (*do, à, no, pelo*). **Omissão** com predicativo de cargo/título: *Foi nomeado diretor* (sem artigo) × *O diretor chegou*. Sem artigo, *é proibido entrada* (ver [LP.21](LP.21%20Concord%C3%A2ncia%20verbal%20e%20nominal.md)).
+
+### Numeral
+
+Cardinal, ordinal, multiplicativo (*dobro*), fracionário (*meio, terço*), coletivo (*dezena, par*). *Ambos* pede artigo: *ambos os casos*. *Meio* numeral varia (*meia hora*); *meio* advérbio não (*meio nervosa*).
+
+### Advérbio — classificação por circunstância
+
+Tempo, lugar, modo, intensidade, afirmação, negação, dúvida. Locuções: *às pressas, de cor, ao léu*. Advérbio é **invariável** (*os alunos ficaram **longe***; não *longes*). Exceções aparentes: *junto, quite, alerta* (ver concordância).
+
+### Preposição essencial × acidental
+
+Essenciais: *a, ante, após, até, com, contra, de, desde, em, entre, para, por, per, perante, sem, sob, sobre, trás*.
+Acidentais (palavras de outra classe): *durante, mediante, conforme, segundo, consoante, tirante, fora, salvo*.
+Locuções: *a fim de, apesar de, em vez de, a par de*.
+
+### Interjeição e onomatopeia
+
+*Olá, psiu, ufa, nossa.* Raras em QOS; se caírem, são classe à parte, não advérbio.
+
+### Locução × palavra
+
+*De repente* (locução adverbial) × *derrepente* (erro). *À toa* (locução) × *atoa*. A classe da locução é a do valor do conjunto.
+
 ## Pontos-chave
 
 - Classe se decide na frase, não na palavra isolada.

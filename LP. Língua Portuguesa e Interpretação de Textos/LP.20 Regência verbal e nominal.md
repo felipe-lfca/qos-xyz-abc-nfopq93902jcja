@@ -60,6 +60,35 @@ Relativos herdam a regência do verbo da adjetiva: *a lei **sobre a qual** lhe f
 
 Já vistos em ortografia: *visar a*, *chegar a*, *a cerca de* (distância) × *há cerca de* (tempo). *Assistir a* + feminino gera crase: *assistir **à** aula*.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Verbos que a banca de concurso cobra e a Farmácia ainda não isolou
+
+| Verbo | Culto | Pegadinha |
+| :---- | :---- | :---- |
+| *agradar* | *a* (satisfazer); TD (acarinhar) | *agradar o público* no 1º sentido |
+| *aspirar* | TD sorver; *a* desejar | *aspirar o cargo* |
+| *custar* | *custar a* + infinitivo; *custou-me entender* (sujeito = infinitivo) | *eu custei a entender* (marca-se erro) |
+| *implicar* | TD | *implicar em* (norma rígida recusa) |
+| *informar / avisar / certificar* | alguém **de** algo **ou** algo **a** alguém | cruzar: *informei-o que* sem *de* |
+| *namorar* | TD | *namorar com* |
+| *pagar / perdoar* | coisa = OD; pessoa = OI | *pagar o médico* × *pagar ao médico o honorário* |
+| *precisar* | *de* | *precisar o conceito* (TD = tornar preciso) |
+| *proceder* | *a* (realizar); *de* (originar-se); VI (ter fundamento) | *proceder o inquérito* |
+| *querer* | TD (desejar); *a* (estimar) | *quero aos filhos* |
+| *responder* | *a* | *responder a questão* (aceito em alguns; prova tradicional: *à questão*) |
+| *simpatizar* | *com*; não pronominal | *simpatizar-se* |
+| *sobrar / faltar* | o que falta é **sujeito** | *faltam dois dias* |
+| *chamar* | TD; *chamar-se*; *chamar de* / *a* (predicativo) | *chamou ele de* |
+
+### *Ir para* × *ir a*
+
+*Ir a* = destino pontual (*ir ao hospital*). *Ir para* = destino com permanência (*ir para casa, para o interior*). Distinção de prova; o uso real oscila.
+
+### Regência nominal extra
+
+*amor a/por, aversão a, bacharel em, capaz de, capaz para, paralelo a, preferência por, respeito a, situar-se em, visível a*. *Perto de* (não *perto a*). *Junto a* (junto de instituição) × *junto com* (companhia).
+
 ## Pontos-chave
 
 - #Q2013-09 (*bater à porta* = chamar)

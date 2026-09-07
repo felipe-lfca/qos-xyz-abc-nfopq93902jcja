@@ -40,6 +40,43 @@ Armadilhas de vocabulário que a PMMG gosta:
 
 Na produção, prefira verbo específico a verbo-curinga (*realizar*, *fazer*, *ter*) e corte redundância (*planejamento futuro*, *subir para cima* — este último também é vício; ver [LP.26](LP.26%20V%C3%ADcios%20de%20linguagem%20e%20qualidade%20da%20boa%20linguagem.md)).
 
+## Cobertura extra — casos ainda não cobrados
+
+### Níveis de linguagem (escolha vocabular = escolha de registro)
+
+- **Culto formal** — dissertação, ofício, artigo científico.
+- **Culto informal** — crônica, coluna (Clarice, Gleiser).
+- **Coloquial** — diálogo, manchete; na redação da PMMG, só se o gênero pedir.
+- **Técnico** — *simetria, elétron, telessaúde*: adequado no artigo; pedante na crônica se não houver efeito.
+
+### Parônimos e homônimos que a banca tradicional cobra (além de *mau/mal*)
+
+| Par | Distinção |
+| :---- | :---- |
+| *ratificar* / *retificar* | confirmar × corrigir |
+| *eminente* / *iminente* | notável × prestes a ocorrer |
+| *descrição* / *discrição* | retratar × reserva |
+| *cumprimento* / *comprimento* | saudação/execução × extensão |
+| *tráfico* / *tráfego* | ilícito × circulação |
+| *imergir* / *emergir* | mergulhar × vir à tona |
+| *infligir* / *infringir* | aplicar pena × transgredir |
+| *absolver* / *absorver* | inocentar × sorver |
+| *flagrante* / *fragrante* | evidente × aromático |
+| *precedente* / *procedente* | que vem antes × que procede |
+
+Homônimos: *acento/assento*, *concerto/conserto*, *sela/cela*, *tachar/taxar*, *estrato/extrato*.
+
+### *Por que* em quatro grafias (vale treinar à parte)
+
+- *Por que* — interrogativo ou relativo (*Por que faltou? / o motivo por que faltou*).
+- *Porque* — explicação/causa (*Faltou porque doente*).
+- *Porquê* — substantivo (*o porquê da ausência*).
+- *Por quê* — interrogativo em fim de frase (*Faltou por quê?*).
+
+### Propriedade e coligação
+
+Não é só sinônimo: *prestar atendimento* × *prestar um serviço*; *incidir sobre* × *incidir em*. Coligação quebrada (*desempenhar um papel importante* ok; *desempenhar uma função importante* ok; *desempenhar um cargo* soa calque). Na redação, verbo preciso > advérbio de intensidade (*muito, extremamente*).
+
 ## Pontos-chave
 
 - Sentido contextual > definição isolada. Leia a frase inteira e a anterior.

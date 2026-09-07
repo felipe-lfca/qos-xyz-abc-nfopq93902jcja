@@ -65,6 +65,44 @@ Palavras se formam por **derivação** (um radical + afixos ou mudança de class
 
 Pergunte: a palavra existe se eu tirar **só** o prefixo ou **só** o sufixo? Se nenhuma das duas formas existe no sentido correspondente, é parassíntese (*anoitecer, entardecer, envelhecer, esfaquear, descascar* em alguns manuais — confira caso a caso). *Infelizmente* não é parassintético porque *infeliz* existe.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Prefixos cultos (a banca pode pedir a origem, não só o nome do processo)
+
+| Prefixo | Sentido | Exemplo |
+| :---- | :---- | :---- |
+| *a-/an-* | privação | *assimetria, analfabeto* |
+| *anti-* | oposição | *antineoplásico* |
+| *bene-/bem-* | bem | *benfeitor, bem-vindo* |
+| *circum-/circun-* | em torno | *circunferência* |
+| *des-/dis-* | negação, separação | *desconhecer, discordar* |
+| *in-/im-/i-* | negação | *incapaz, impossível, ilegal* |
+| *inter-* | entre | *intertextual* |
+| *pre-/pré-* | antes | *prever, pré-escolar* |
+| *re-* | de novo / para trás | *releitura, reaver* |
+| *sub-/so-* | abaixo | *subsolo, soterrar* |
+| *super-/sobre-* | acima | *superfície, sobrecarga* |
+| *tele-* | longe | *telemedicina* |
+| *vice-* | em lugar de | *vice-diretor* |
+
+### Abreviação × abreviatura × sigla × acrônimo
+
+- **Abreviação** (redução lexical): *foto, moto, extra*.
+- **Abreviatura**: *Sr., dr., pág.* — ponto, minúscula da letra omitida.
+- **Sigla**: iniciais (*PMMG, SUS, ANVISA*).
+- **Acrônimo**: sigla pronunciada como palavra (*Aids, Nasa, Unesco*).
+
+### Outros processos raros na prova de Farmácia
+
+- **Amálgama / cruzamento** — *portunhol, showmício*.
+- **Reduplicação** — *reco-reco, tique-taque*.
+- **Conversão** já vista como derivação imprópria (*o jantar*).
+- Palavras primitivas (sem afixo aparente na sincronia): *sol, mar, paz* — se a alternativa disser “derivação” para estas, está errada.
+
+### *-mente* e o acento
+
+A formação de advérbios em *-mente* é **sufixal** (pode haver dois sufixos: *cultural* + *-mente*). Não é parassíntese. O acento da base em geral **cai**, porque a tônica passa a ser *-men-*: *fácil* → *facilmente*; *prática* → *praticamente*; *única* → *unicamente*.
+
 ## Pontos-chave
 
 - #Q2013-05 · #Q2017-09 · #Q2024-05

@@ -23,6 +23,8 @@ O programa lista “Colocação pronominal” duas vezes (1.18 e 1.23). A teoria
 
 **[LP.18 Colocação pronominal](LP.18%20Coloca%C3%A7%C3%A3o%20pronominal.md)**
 
+A seção **Cobertura extra** do LP.18 (*lo/la*, atratores, mesóclise com *não*) também vale para este número do edital.
+
 O item 1.30 ainda reúne colocação com regência e concordância: [LP.30](LP.30%20Sintaxe%20%28reg%C3%AAncia%2C%20concord%C3%A2ncia%20e%20coloca%C3%A7%C3%A3o%29.md).
 
 ## Pontos-chave

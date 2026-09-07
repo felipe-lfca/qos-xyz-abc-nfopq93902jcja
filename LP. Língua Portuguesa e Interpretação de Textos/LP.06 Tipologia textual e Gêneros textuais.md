@@ -47,6 +47,43 @@ Não confundir:
 - **Narração** × **crônica** — crônica pode narrar um episódio, mas o fim é o comentário.
 - **Injunção** × **exortação** — “Vamos ser gente” é apelo argumentativo, não receita de bolo.
 
+## Cobertura extra — casos ainda não cobrados
+
+A PMMG já cobrou crônica, artigo e tipo argumentativo. O edital pede **tipologia e gêneros** em bloco: feche os que ainda não saíram.
+
+### Gêneros que a banca de concurso usa e a Farmácia ainda não cobrou
+
+| Gênero | Tipo dominante | Marcas |
+| :---- | :---- | :---- |
+| **Notícia** | narrativo + expositivo | pirâmide invertida, 3ª pessoa, lead |
+| **Editorial** | argumentativo | tese institucional, sem assinatura pessoal |
+| **Charge / cartum** | argumentativo visual | humor, crítica, intertextualidade |
+| **Carta do leitor / aberta** | argumentativo | vocativo, 1ª pessoa, destinatário |
+| **Ofício / memorando** | injuntivo + expositivo | vocativo, padrão administrativo |
+| **Bula / protocolo** | injuntivo | imperativo, infinitivo, enumeração |
+| **Ensaio** | argumentativo | tese + subjetividade controlada |
+| **Conto / crônica** | narrativo / híbrido | já caíram (2013, 2023) |
+| **Poema** | poética | verso, imagens; pode haver questão de figura |
+| **Texto de divulgação científica** | expositivo + argumentativo | Gleiser 2024 |
+
+### Sequências textuais (Adam) — um gênero mistura várias
+
+Narração, descrição, argumentação, exposição, injunção. Classifique pelo **dominante**, não pelo trecho descritivo no meio do artigo.
+
+### Prescritivo × injuntivo × conativo
+
+- **Injuntivo/prescritivo** — *como fazer* (bula, edital, receita).
+- **Conativo** — *fazer o outro fazer* (publicidade, “vamos ser gente”).
+Não chame a crônica de injuntiva só porque tem imperativo de 1ª do plural.
+
+### Texto híbrido e suporte digital
+
+Artigo em jornal on-line continua artigo (#Q2024-02). Post, thread e “card” institucional (texto II de 2026) podem ser **informativo + injuntivo + publicitário**. A alternativa que reduz a um só rótulo sem olhar a finalidade costuma errar.
+
+### Progressão: ideia principal × secundárias
+
+Ainda não caiu com esse enunciado. Método: a principal é a que as outras sustentam (tese); secundárias são exemplo, dado, concessão, contra-argumento.
+
 ## Pontos-chave
 
 - #Q2017-05 · #Q2023-04 · #Q2024-02

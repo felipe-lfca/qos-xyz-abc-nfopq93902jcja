@@ -67,6 +67,48 @@ Afirmativo: tu/vós saem do presente do indicativo sem o *s* (*toma tu, tomai v�
 
 Ativa, passiva analítica (*foi presa*), passiva sintética (*rouba-se*). *Tornou-se médica* é voz reflexiva / verbo pronominal, não passiva sintética.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Correlação de tempos (ainda não cobrada)
+
+| Principal | Subordinada típica |
+| :---- | :---- |
+| Presente | presente do subjuntivo: *Quero que venha* |
+| Pretérito perfeito / futuro do pretérito | imperfeito do subjuntivo: *Quis / quereria que viesse* |
+| Futuro do presente | futuro do subjuntivo: *Farei se puder* |
+
+Mistura *quero que viesse* sem âncora temporal é erro.
+
+### Verbos defectivos
+
+Não se conjugam em todas as pessoas. *Reaver, precaver, colorir, banir, falir, demolir*: muitas formas em *-o* do presente faltam (*eu reavejo* não existe; use perífrase). *Computar* não é defectivo. A #Q2024-10 já tocou em *reaver*.
+
+### Verbos abundantes (dois particípios)
+
+| Verbo | Regular | Irregular | Uso |
+| :---- | :---- | :---- | :---- |
+| *aceitar* | *aceitado* | *aceito* | auxiliar *ter/haver* + regular; *ser/estar* + irregular |
+| *entregar* | *entregado* | *entregue* | idem |
+| *morrer* | *morrido* | *morto* | *tinha morrido* × *está morto* |
+| *imprimir* | *imprimido* | *impresso* | idem |
+| *pagar* | *pagado* | *pago* | *tenho pagado* / *está pago* |
+
+### Anômalos e derivados que ainda não caíram
+
+- *Ser* × *ir*: pretérito *fui* é dos dois; o contexto decide.
+- *Ter*: *eles têm*; *esteve* é de *estar*.
+- *Pôr* e derivados: *puser, pusesse, puserem, dispuser, contrapuser*.
+- *Ver*: *vir* (fut. subj.), *visse, vimos* (pretérito *nós vimos* × presente *nós vemos*).
+- *Vir*: *vier, viesse, viemos* (pretérito).
+- *Requerer* **não** segue *querer* no pretérito: *requereu* (não *requis*).
+- *Prover* (abastecer): presente como *ver* (*provejo, provê, provêem*); pretérito **não** como *ver*: *ele **proveu*** (nunca *proviu*). *Provir* (originar-se) segue *vir*: *provém, proveio, provier*.
+- Derivados de *ter*: *manter, deter, reter, conter* → *mantém/mantêm, deteve, retiver, contiver*.
+- Derivados de *vir*: *intervir, advir* → *interveio, intervier, intervém/intervêm* (nunca *interviu*).
+
+### Tempos compostos
+
+*Ter/haver* + particípio: *tinha classificado, haverá dito*. *Estar* + gerúndio: aspecto durativo. Não chame composto de “mais-que-perfeito simples” (*fizera*).
+
 ## Pontos-chave
 
 - #Q2023-08 · #Q2024-10

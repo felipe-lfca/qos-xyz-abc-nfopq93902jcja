@@ -56,6 +56,31 @@ Não chame de reduzida:
 - locução verbal (*estou brincando, vou tomar, tinha dito*);
 - predicativo em particípio sem oração à parte (*ela ficou surpreendida* — a não ser que se analise como predicativo, não como reduzida).
 
+## Cobertura extra — casos ainda não cobrados
+
+### Quadro de equivalência (estreia típica: “a reduzida corresponde a”)
+
+| Reduzida | Desenvolvida | Tipo |
+| :---- | :---- | :---- |
+| *Convém **partirmos** cedo* | *Convém **que partamos** cedo* | substantiva subjetiva |
+| *Afirmou **estar** pronto* | *Afirmou **que estava** pronto* | substantiva objetiva direta |
+| *Ao **sair**, trancou* | *Quando saiu, trancou* | adverbial temporal |
+| ***Sendo** difícil, desistiu* | *Como / porque era difícil…* | adverbial causal |
+| ***Mesmo sabendo**, insistiu* | *Embora soubesse…* | adverbial concessiva |
+| ***Para classificar** as pessoas* | *A fim de que se classifiquem…* | adverbial final |
+| ***Concluída** a prova, saímos* | *Quando/depois que a prova foi concluída…* | adverbial temporal |
+| *Vi o colega **saindo*** | *Vi o colega **que saía*** | adjetiva (discutível; muitos marcam como predicativo/OD) |
+
+### Infinitivo pessoal: quando flexionar
+
+Flexione se o sujeito da reduzida é **determinado e diferente** do da principal, ou para evitar ambiguidade: *Trouxeram os laudos para **analisarmos***. Não flexione se o infinitivo é impessoal genérico: *É preciso **reagir***.
+
+### Erros clássicos
+
+- Gerúndio de posterioridade: *Saiu de casa **indo** ao mercado* (depois foi) — prefira *e foi*.
+- Reduzida com sujeito distinto sem marca: ambiguidade (*Ao entrar o médico, o paciente…* — quem entrou?).
+- Particípio solto sem concordância: *Concluído as análises* (erro) → *Concluídas as análises*.
+
 ## Pontos-chave
 
 - Reduzida = forma nominal **sem** conectivo; desenvolvida = conectivo + verbo finito.

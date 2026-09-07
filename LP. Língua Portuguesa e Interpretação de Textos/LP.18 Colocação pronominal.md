@@ -60,6 +60,33 @@ Futuro do presente e futuro do pretérito **sem** atrator: *ver-me-á*, *contar-
 - Auxiliar + infinitivo/gerúndio: o pronome pode ir ao auxiliar (*se quer ir*) ou ao principal (*quer ir-se*), com restrições de eufonia (*lo, la* após *r, s, z*: *quer vê-lo*).
 - Particípio **não** recebe ênclise: *tinha-me dito*, não *tinha dito-me*.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Atratores que a lista curta esquece
+
+- Palavras expletivas de realce: *que, é que* (*Que se dane.*).
+- Conjunções subordinativas integrais: *embora se saiba, como se vê, se se tratar*.
+- Pronomes demonstrativos/indefinidos: *isso se resolve; nada me impede; tudo se perde*.
+- Advérbios intercalados: se o advérbio **não** for o atrator imediato e estiver depois, a ênclise pode voltar — mas com advérbio **antes** do verbo, próclise: *Aqui se vive bem.*
+
+### Combinações *o/a* + *r, s, z* e *nos/vos*
+
+- Infinitivo em *-r* + *o* = *-lo*: *vê-lo, fazê-lo, amá-lo* (acento no infinitivo oxítono).
+- *nos* + verbo em *-mos*: *chamamo-lo* (perde o *s* de *-mos* antes de *lo*). Forma rara; a banca gosta.
+- *vos* + *os* = *vo-los*.
+
+### Ênclise com infinitivo preposicionado
+
+*Por se tratar* (próclise após preposição + infinitivo, muito comum) × *por tratar-se* (ênclise também aceita). A prova tradicional aceita as duas; *em se tratando* é próclise clássica.
+
+### Interpolação
+
+Termo entre o atrator e o verbo **não** desfaz a próclise: *Não se, naquele dia, resolveu nada* é tosco; o padrão é manter próclise ou reescrever. Não use ênclise depois de *não* só porque houve inciso.
+
+### Mesóclise que a banca fabrica errada
+
+*Não a verá* (certo). *Não-la-verá* / *não vê-la-á* (errado). *Dir-se-ia* (certo). *Se diria* com atrator ausente no início de período: na norma escolar, *Dir-se-ia* ou *Diria-se* (ênclise do futuro é mesóclise, não ênclise: *diria-se* é aceito por alguns; o padrão de prova é mesóclise *dir-se-ia*).
+
 ## Pontos-chave
 
 - Atratores (não, que, se, quando, quem, ninguém, já, sempre…) → próclise.

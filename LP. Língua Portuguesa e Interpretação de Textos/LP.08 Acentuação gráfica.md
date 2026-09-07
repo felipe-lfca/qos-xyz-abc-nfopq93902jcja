@@ -41,7 +41,7 @@ Acentuam-se os terminados em *a(s), e(s), o(s)*: *pá, pé, pô, mês, nós, pô
 
 ### Ditongos, hiatos e o Acordo
 
-- Ditongos abertos **éí, éu, ói** em **oxítonas** (e monossílabos) continuam acentuados: *papéis, herói, céu*.
+- Ditongos abertos **éi, éu, ói** em **oxítonas** (e monossílabos) continuam acentuados: *papéis, herói, céu*.
 - Em **paroxítonas**, o acento desses ditongos **caiu**: *ideia, assembleia, heroico, jiboia, geleia*.
 - #Q2017-08: *A idéia do Grupo…* está **incorreta** — grafa-se *ideia*.
 - Hiato **i** ou **u** tônicos, sozinhos ou com *s*, não seguidos de *nh*: *saída, saúde, baú*. Não acentua se forma ditongo: *feiura, baiuca* (depois do Acordo). *Poo* de *voo* e *enjoo* perderam o acento circunflexo distintivo; *pôde* (pretérito) × *pode* (presente) permanece; *pôr* (verbo) × *por* (preposição) permanece.
@@ -49,6 +49,38 @@ Acentuam-se os terminados em *a(s), e(s), o(s)*: *pá, pé, pô, mês, nós, pô
 ### Trema e diferenciação
 
 Trema abolido (*linguiça, frequente*). Acentos diferenciais reduzidos: restam sobretudo *pôde/pode*, *pôr/por*. *Forma/fôrma* é facultativo.
+
+## Cobertura extra — casos ainda não cobrados
+
+### Terminações da paroxítona (a lista completa)
+
+Acentua-se a paroxítona terminada em: **i(s), us, um/uns, ã(s), ão(s), ps, l, n, r, x, om/ons, ditongo** — *júri, vírus, álbum, ímã, órgão, bíceps, útil, hífen, caráter, tórax, história, água*.
+
+Memorize o inverso: se termina em *a, e, o, em* (e plurais), paroxítona **não** tem acento.
+
+### *Ter* e *vir* (e derivados) na 3ª pessoa
+
+- Presente: *ele tem / eles **têm***; *ele vem / eles **vêm***
+- Derivados: *ele contém / eles **contêm***; *ele convém / eles **convêm***
+O circunflexo do plural **permanece**. Ainda não caiu em Farmácia.
+
+### Hiato: o que não se acentua
+
+- *i/u* seguido de *nh*: *rainha, bainha, tainha* (não *raínha*).
+- *i/u* formando ditongo crescente ou decrescente, não hiato: *feiura, baiuca* (Acordo); *saia* (substantivo, *sai-a*) **sem** acento × *saía* (verbo, *sa-í-a*) **com** acento.
+- *i/u* tônico precedido de ditongo decrescente em paroxítona: *feiura, baiuca* (não *feiúra*).
+
+### Oxítonas em *-em / -ens*
+
+Acentuam-se: *também, porém, alguém, parabéns, armazéns*. Sem acento se a tônica não for a última: *item, nuvem* (paroxítonas em *-em* — e paroxítona “normal” em *e/em* **não** se acentua).
+
+### Acentos diferenciais que **cairam**
+
+*pelo/pélo, polo/pólo, pera/pêra, para/pára* — hoje *pelo, polo, pera, para* sem acento. *Pára* do verbo *parar* **não** se acentua mais. Resta *pôde/pode, pôr/por*; *fôrma/forma* facultativo.
+
+### Prefixos e o acento
+
+O acento da base pode cair na derivação: *só* → *somenos*; *prática* → *praticamente*. Não “herde” o acento automaticamente.
 
 ## Pontos-chave
 

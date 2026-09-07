@@ -61,6 +61,34 @@ Sequência: F, F, V, F.
 - **Nomes de instituição / títulos**: *Os Lusíadas é* (obra) / *são* (se se destaca o plural do título — prefira o singular com artigo *Os Lusíadas **é***).
 - **Pronome de tratamento**: 3ª pessoa.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Concordância verbal — o resto do edital
+
+| Estrutura | Norma de prova |
+| :---- | :---- |
+| *A maioria dos alunos* | singular (ideia de conjunto) ou plural (ideia dos indivíduos) — as duas; plural é mais “seguro” se vier *dos alunos* |
+| *Cerca de / mais de / menos de + plural* | plural: *Cerca de vinte chegaram* |
+| *Mais de um* | singular: *Mais de um médico faltou* (recíproco: plural *mais de um se cumprimentaram*) |
+| *Um e outro / nem um nem outro* | singular ou plural; *nem um nem outro faltou* comum no singular |
+| *Quais de nós / quais de vós* | 3ª plural ou a pessoa do pronome: *Quais de nós faltamos / faltaram* |
+| *Quem* (sujeito) | 3ª singular: *Fui eu quem resolveu* (tradicional) |
+| *Que* relativo | concorda com o antecedente: *Fui eu que resolvi* |
+| Sujeito oracional | 3ª singular: *Ainda falta pagarem as contas* (discutido) / *É preciso que venham* |
+| Coletivo + *de* + plural | *A turma de alunos chegou* (núcleo *turma*) ou *chegaram* (atracão) |
+| *Haja vista* | locução: *haja vista os fatos* (invariável na forma clássica) ou *hajam vista os fatos* (alguns) — prefira *haja vista* invariável |
+| *Os Estados Unidos / as Nações Unidas* | plural com artigo: *Os EUA são* |
+| Silepse | *Vossa Excelência está cansado*; *A gente fomos* (esta última é coloquial — a prova pune) |
+
+### Concordância nominal extra
+
+- Adjetivo após dois substantivos: concorda com o mais próximo *ou* vai ao plural masculino se houver os dois gêneros (*estudo e prática **necessários***).
+- Adjetivo anteposto: em geral com o mais próximo (*boa prática e estudo*).
+- *É bom / é necessário / é proibido* sem determinante invariável; com *a/o* varia.
+- *Menos* nunca varia (*menos alunas*, não *menas*).
+- *Anexo, incluso, quite, obrigado, leso* variam. *Em anexo* é locução invariável.
+- *Possível* em *o mais… possível*: *as melhores notas **possível*** (clássico) ou *possíveis* (moderno). Prova tradicional: *possível* invariável com *o mais / o menos*.
+
 ## Pontos-chave
 
 - #Q2013-07 · #Q2023-09

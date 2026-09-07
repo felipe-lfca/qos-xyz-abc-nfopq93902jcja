@@ -35,10 +35,38 @@ Na redação, inadequação conceitual aparece como:
 - usar *democracia* onde o tema pedia *cidadania*;
 - concluir com proposta que nega a tese aberta na introdução.
 
+## Cobertura extra — casos ainda não cobrados
+
+Adequação, na tradição escolar, não é só “não fugir do tema”: é **adequar o dizer à situação**. A objetiva ainda não isolou o rótulo; a discursiva e a interpretação vivem disso.
+
+### Quatro adequações da situação comunicativa
+
+1. **Ao interlocutor** — ofício à corporação ≠ crônica ao leitor de jornal ≠ resposta a paciente.
+2. **Ao suporte e ao gênero** — *você* é adequado na crônica e no texto institucional de telessaúde; é inadequado num laudo.
+3. **Ao registro** — culto formal, culto informal, coloquial, vulgar. A prova pede **norma-padrão**, não o “mais difícil”.
+4. **À variedade** — dialeto, socioleto, registro técnico. Citar fala popular *como exemplo* pode ser adequado; *escrever a redação inteira nela*, não.
+
+### Adequação × correção
+
+Um texto pode estar **correto** (norma) e **inadequado** (gênero/tema), ou o inverso na fala cotidiana. Na PMMG, a objetiva privilegia a **norma culta escolar**; a interpretação privilegia a **adequação ao texto**. Não “corrija” o autor da crônica: leia o efeito.
+
+### Conceitos que a banca troca de propósito
+
+| Termo do texto | Troca inadequada |
+| :---- | :---- |
+| *segurança* (2017) | *tranquilidade absoluta* / *fim dos assaltos* |
+| *número* (2023) | *matemática como solução* |
+| *imperfeição / aproximação* (2024) | *fracasso da ciência* ou *verdade absoluta* |
+| *ironia* | leitura literal da frase sarcástica |
+
+### Variedades e preconceito linguístico
+
+Se cair texto sobre “português certo”, a tese adequada costuma ser: **há norma de prestígio para situações formais**, não “o povo fala errado”. Adequação conceitual aqui é não transformar o texto em cruzada ortográfica nem em “vale tudo”.
+
 ## Pontos-chave
 
 - Antes de marcar, sublinhe no texto o trecho que sustenta a alternativa. Se não houver trecho, a adequação é só sua, não do autor.
-- Sinônimo de dicionário ≠ sinônimo no texto. *Apatia* no conto da galinha (2013) é indiferenca/falta de interesse, não empatia.
+- Sinônimo de dicionário ≠ sinônimo no texto. *Apatia* no conto da galinha (2013) é indiferença/falta de interesse, não empatia.
 - Alternativas com absoluto (*sempre*, *nunca*, *totalmente*, *inexorablemente*) costumam destoar de textos que trabalham matiz.
 - Gênero pesa no conceito: crônica de Clarice com “você” não é recado a uma autoridade; é interlocução com o leitor (#Q2023-04).
 

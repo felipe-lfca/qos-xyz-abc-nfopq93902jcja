@@ -54,6 +54,29 @@ Elipse do verbo ou de um termo não desfaz a oração se o verbo está subentend
 2. Formas nominais com sujeito próprio podem ser orações reduzidas ([LP.22](LP.22%20Ora%C3%A7%C3%B5es%20reduzidas.md)).
 3. Predicado verbo-nominal não duplica oração: *A galinha passou a morar* é uma.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Frase por tipo (além da atitude)
+
+- **Nominal** — sem verbo: *Silêncio na enfermaria.*
+- **Verbal** — com verbo: *A galinha fugiu.*
+- **Unimembre** (não se divide em sujeito+predicado de modo nítido): *Houve um acidente.* (para alguns; outros analisam sujeito inexistente) / *Socorro!*
+- **Bimembre**: sujeito + predicado.
+
+A banca tradicional prefere **sujeito inexistente** com *haver* existencial a chamar a frase de unimembre. Alinhe-se a isso.
+
+### Período composto misto
+
+Coordenação **e** subordinação no mesmo período: *Não estou brincando: vou tomar aulas, **porque** preciso saber cálculo.* Ainda não caiu com esse nome; a #Q2023-06 (anulada) já misturava dois-pontos e mais de um verbo.
+
+### Oração absoluta
+
+Período simples visto como oração absoluta: *A galinha é um ser.* Útil só para contrastar com coordenada/subordinada.
+
+### Elipse e frase fragmentada
+
+*E agora?* é frase. *Que calor.* é frase nominal. Na redação, fragmento sem efeito estilístico vira período incompleto — a objetiva pode perguntar se há oração (precisa de verbo, ainda que elíptico).
+
 ## Pontos-chave
 
 - #Q2023-06 (anulada): período composto; locução verbal; pronome *o*

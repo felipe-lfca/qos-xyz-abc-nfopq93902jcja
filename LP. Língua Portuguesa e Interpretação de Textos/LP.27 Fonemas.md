@@ -57,6 +57,32 @@ Duas consoantes com sons próprios: *pr, bl, tr, ps* (*prato, bloco, psico*). Po
 - **Ortoépia** — pronúncia correta dos fonemas: *magnético* (não *magnetico* aberto à moda errada), *inédito*.
 - **Prosódia** — posição da tônica: *rúbrica* é erro (*ru**bri**ca*); *filantropo, recorde, pudico, mister, Nobel, ruim, sutil*. A #Q2026-04 usou exatamente esses paroxítonos para distrair quem acentua como proparoxítonos.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Classificação dos fonemas
+
+- **Vogais** — timbre (aberta/fechada: *sábia/sabia/sabiá*), oral/nasal (*lá/lã*).
+- **Semivogais** — *i, u* em ditongo (*pai, pau*).
+- **Consoantes** — ponto e modo de articulação só caem se a banca for explícita; o QOS costuma ficar em dígrafo × encontro.
+
+### Divisão silábica (prova de acentuação disfarçada)
+
+- Não se separam dígrafos *ch, lh, nh, gu, qu, rr, ss*.
+- Separam-se *sc, sç, xc*: *nas-cer, des-cer, ex-ce-ção*.
+- Ditongo fica junto (*ai-roso*); hiato separa (*sa-ú-de*).
+- Prefixos: *sub-li-nhar* ou *su-bli-nhar* (há oscilação pedagógica); *trans-at-lân-ti-co* / *tran-sa-tlân-ti-co*. Em dúvida, siga o VOLP.
+- Não deixe vogal sozinha no fim de linha de um hiato que já é sílaba (*a-ún-de* errado para *aonde*).
+
+### Encontros que a banca nomeia
+
+- Ditongo crescente (*série, história*) × decrescente (*pai, meu*).
+- Tritongo: *Uruguai, iguais, quais*.
+- Encontro consonantal perfeito (mesma sílaba: *pra-to*) × imperfeito (sílabas diferentes: *ad-vo-ga-do*).
+
+### Contagem letra × fonema (treino)
+
+*Exceção*: 7 letras, 6 fonemas (*xc* = /s/ em muitos falantes; análise escolar varia). *Hora*: 4 letras, 3 fonemas. *Guerra*: 6 letras, 4 fonemas. *Táxi*: 4 letras, 5 fonemas.
+
 ## Pontos-chave
 
 - Fonema ≠ letra. Conte sons, não caracteres.

@@ -39,6 +39,43 @@ Articulação entre argumentos usa operadores: *porque*, *portanto*, *entretanto
 
 Na prova de 2017, a questão 04 pediu quais trechos de um artigo da *Veja* se relacionam com o conto “Segurança”: pertinência aqui é **intertextual** — o argumento do segundo texto dialoga com a tese do primeiro (exagero de segurança / muros / exclusão), não com qualquer frase sobre crime.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Tipos de raciocínio (úteis para classificar o texto e para escrever)
+
+| Tipo | Como opera | Risco |
+| :---- | :---- | :---- |
+| **Dedução** | regra geral → caso | premissa falsa derruba tudo |
+| **Indução** | casos → generalização | generalizar com um exemplo |
+| **Analogia** | A está para B como C para D | analogia forçada |
+| **Causa e efeito** | X provoca Y | *post hoc*: depois ≠ por causa |
+| **Concessão** | admite X, sustenta Y mesmo assim | conceder demais e perder a tese |
+
+### Falácias que viram distratora ou redação fraca
+
+- **Ad hominem** — atacar quem disse, não o dito.
+- **Falso dilema** — *ou muro, ou caos*.
+- **Generalização apressada** — um caso vira regra nacional.
+- **Apelo à autoridade vazia** — “especialistas afirmam” sem ligar à tese.
+- **Espantalho** — refutar uma tese que o texto *não* defendeu.
+
+### Articulação: o mapa dos operadores
+
+- **Acréscimo:** *além disso, ainda, também, ademais*
+- **Contraste:** *mas, porém, contudo, entretanto, no entanto*
+- **Conclusão:** *logo, portanto, pois* (posposto), *assim*
+- **Causa:** *porque, pois, já que, visto que*
+- **Concessão:** *embora, ainda que, mesmo que, apesar de*
+- **Finalidade:** *para que, a fim de que*
+- **Explicação/reformulação:** *ou seja, isto é, em outras palavras*
+- **Exemplificação:** *por exemplo, a exemplo de, como*
+
+Trocar o operador **troca o argumento**: *embora a ciência avance* concede; *porque a ciência avança* explica. Na #Q2026-10 o mesmo *pois* muda de valor conforme a posição — ver [LP.14](LP.14%20Per%C3%ADodo%20composto%20por%20coordena%C3%A7%C3%A3o%20e%20subordina%C3%A7%C3%A3o.md).
+
+### Intertextualidade como articulação
+
+Além da #Q2017-04: citação, alusão, paródia, epígrafe, diálogo entre gêneros (artigo × serviço institucional em 2026). A relação pode ser de **confirmação**, **contraste** ou **complemento** — a alternativa que fala em “cópia” quase sempre erra.
+
 ## Pontos-chave
 
 - Tese no 1º parágrafo + exemplos depois é padrão de artigo (#Q2024-02). Dizer que o texto “não obedece a evolução progressiva” costuma ser a alternativa falsa.

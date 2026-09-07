@@ -54,6 +54,32 @@ Textos literários e crônicas operam na conotação; artigos de divulgação mi
 
 Retomada por sinônimo, hiperônimo, pronome, numeral (*um*, *outro*), elipse. #Q2026-02 cobra relação dialógica entre textos e o *você* de proximidade — mecanismos de sentido, não só de gramática.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Coesão × coerência
+
+- **Coesão** — amarras linguísticas (pronome, conectivo, elipse, repetição).
+- **Coerência** — compatibilidade de sentidos, conhecimento de mundo, não contradição.
+Texto coeso pode ser incoerente (*O sol nasceu, portanto apaguei a luz do dia com a chave*). A objetiva de Farmácia ainda não isolou o par.
+
+### Pressuposto × subentendido (semântica da enunciação)
+
+*Ainda fuma* pressupõe que fumava. *Você é um número* subentende crítica. Cancelar o subentendido é possível (*estou brincando*); o pressuposto resiste.
+
+### Campo, rede e relações extra
+
+Hiperonímia/hiponímia já no quadro. **Holonímia/meronímia** (todo/parte: *casa/telhado*). **Campo associativo** (*número, ficha, recenseamento, jazigo*).
+
+### Ambiguidade lexical × estrutural
+
+- Lexical: *banco* (assento/instituição).
+- Estrutural: *O pai viu o filho de binóculo* (quem tinha o binóculo?).
+Anfibologia é o nome do vício; semanticamente é falha de univocidade.
+
+### Ironia como operação de sentido
+
+Dizer *p* para comunicar *não-p*. A #Q2022-04 cobriu sarcasmo; a Farmácia ainda não isolou “ironia verbal × ironia de situação”.
+
 ## Pontos-chave
 
 - #Q2013-03 · #Q2024-07

@@ -69,6 +69,44 @@ Leia o enunciado com cuidado: “A crase é OBRIGATÓRIA em” aponta o **contex
 
 #Q2026-07: *observou tudo **a** distância* (locução com *a* + substantivo sem artigo, variação aceita) × *à distância* (também registrada). O gabarito daquela prova fechou a última lacuna em **a**. Não force crase em *a distância* se a alternativa culta da banca a omitir; *à distância* continua correta em muitos usos. Distinga de *acerca / a cerca / há cerca*.
 
+## Cobertura extra — casos ainda não cobrados
+
+### *Casa, terra, distância, hora*
+
+| Expressão | Crase? |
+| :---- | :---- |
+| *Fui a casa* (a própria) | não |
+| *Fui à casa de Maria* | sim (determinada) |
+| *Voltou a terra* (a sua) | não |
+| *Voltou à terra dos avós* | sim |
+| *à tarde, à noite, às 18h* | sim |
+| *a uma hora, a partir de* | não (*uma* indefinido; verbo depois de *partir*) |
+| *às escondidas, às claras, à toa, à vontade* | sim (locuções femininas) |
+| *a leste, a oeste, a nado, a pé* | não (masculino / locuções cristalizadas) |
+
+### *Até a* × *até à* e outras facultativas
+
+Facultativo: *Fui até a porta / até à porta.* Não marque como erro nenhuma das duas.
+
+Também **facultativa** (norma escolar):
+
+- antes de **pronome possessivo feminino**: *fui a / à minha casa*; *entreguei o laudo a / à sua equipe*;
+- antes de **nome próprio feminino**: *referiu-se a / à Clarice* (a prova costuma aceitar as duas; *à Bahia*, *à Paraíba* com artigo cristalizado é obrigatória).
+
+Sempre **sem** crase: *a ela, a você, a Vossa Senhoria, a todos, a quem, a qual* (este último: *a qual* só ganha crase se a regência pedir *a* + artigo — *à qual*).
+
+### Crase com pronomes relativos e demonstrativos
+
+*à qual, às quais, àquela, àquele, àquilo* — quase sempre (preposição *a* + artigo/demonstrativo). *cuja* **não** admite artigo: escreva *a cuja* (preposição solta + *cuja*), nunca *à cuja*.
+
+### Palavra *a* repetida
+
+*Dia a dia, cara a cara, gota a gota* — sem crase.
+
+### Masculino no *à moda de*
+
+*bife à milanesa, à Dior, à baiana* — crase pela locução *à moda*, mesmo com masculino.
+
 ## Pontos-chave
 
 - #Q2023-10 · também #Q2013-09 (*à porta*)

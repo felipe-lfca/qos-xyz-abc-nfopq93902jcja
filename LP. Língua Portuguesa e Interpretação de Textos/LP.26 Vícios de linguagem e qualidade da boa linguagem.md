@@ -55,6 +55,31 @@ Distinção escolar: barbarismo ataca a **palavra** (forma); solecismo ataca a *
 
 #Q2024-06 é, na prática, uma questão de **boa linguagem**: só uma alternativa sem solecismo/barbarismo/pontuação.
 
+## Cobertura extra — casos ainda não cobrados
+
+### Inventário que ainda não saiu com o nome do vício
+
+| Vício | Exemplo |
+| :---- | :---- |
+| **Cacófato** | *uma mão, por cada, boca dela* |
+| **Eco** | *o pagamento do faturamento do departamento* |
+| **Hiato (vício)** | *vou ouvir* (som aberto em sequência; diferente do hiato fonético) |
+| **Colisão** | *técnico que quer* |
+| **Arcaísmo** | *vosmecê, outrora* sem efeito |
+| **Neologismo opaco** | *solucionática, gerenciar o mindset* |
+| **Prolixidade** | três linhas onde cabia uma tese |
+| **Gerundismo** | *vamos estar encaminhando* |
+| **Queísmo / dequeísmo** | *lembro que* (ok se TD) × *lembro de que* (pronominal); *tenho certeza que* (falta *de*) |
+| **Ambiguidade de *seu*** | *João viu Pedro em sua casa* |
+
+### Qualidades da boa linguagem (Othon Garcia)
+
+Correção, clareza, concisão, propriedade, harmonia, originalidade (sem preciosismo). A objetiva traduz isso em “assinale a sem erro”. A discursiva, em nota de linguagem.
+
+### Solecismo fino
+
+Além de *haverão*: *fazem dois anos*; *existe muitas teorias*; *trata-se de casos* (certo, impessoal) × *tratam-se de casos* (errado); *há de haver soluções* (certo) × *hão de haver* (errado).
+
 ## Pontos-chave
 
 - Figura é de propósito; vício é falha. *Entrar para dentro* na #Q2026-05 foi cobrado como pleonasmo (vício).

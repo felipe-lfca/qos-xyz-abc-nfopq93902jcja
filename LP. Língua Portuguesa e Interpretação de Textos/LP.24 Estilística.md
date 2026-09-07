@@ -54,6 +54,28 @@ Crônica admite *você*, frase curta, oralidade controlada. Artigo de divulgaç�
 
 Seleção vocabular estilística: [LP.04](LP.04%20Sele%C3%A7%C3%A3o%20vocabular.md). Qualidade e vícios: [LP.26](LP.26%20V%C3%ADcios%20de%20linguagem%20e%20qualidade%20da%20boa%20linguagem.md).
 
+## Cobertura extra — casos ainda não cobrados
+
+### Funções da linguagem — como a questão costuma vir
+
+“Predomina a função X.” Marque o **foco**, não a presença isolada de um vocativo. Artigo de Gleiser: referencial (com poética nas imagens). Crônica de Clarice: emotiva + conativa. Texto II de 2026 (Saúde Online): conativa/fática. Poema de Drummond na #Q2024-08: poética.
+
+### Discurso e polifonia
+
+Direto, indireto, indireto livre. Citação de autoridade no artigo = argumento **e** polifonia. Ironia = duas vozes (o dito e o implicado).
+
+### Níveis e desvio estilístico
+
+Desvio **motivado** (figura, ironia, fragmento na crônica) ≠ desvio **vício**. *Tinha uma pedra* (Drummond) é escolha, não erro de *havia*. A banca pode perguntar o efeito da repetição, do *você*, da enumeração — sem pedir o nome da figura (isso fica no [LP.25](LP.25%20Figuras%20de%20linguagem.md)).
+
+### Modalização e atenuação
+
+*Talvez, em parte, parece, sem dúvida, é preciso*. Ainda não caiu como “recurso modal”. Serve para ler o grau de adesão do autor (ceticismo de Gleiser: *esse sonho é impossível*).
+
+### Recursos expressivos de construção
+
+Paralelismo, antítese, gradação, reticência, pergunta retórica (*Nós não somos ninguém?*). A #Q2023-05 cobriu o apelo; a pergunta retórica e a gradação ainda não saíram com esse nome.
+
 ## Pontos-chave
 
 - #Q2023-05 (exortar)

@@ -37,6 +37,38 @@ Três falhas que derrubam a redação (e também alternativas de interpretação
 
 Os tópicos [LP.02](LP.02%20Adequa%C3%A7%C3%A3o%20conceitual.md), [LP.03](LP.03%20Pertin%C3%AAncia%2C%20relev%C3%A2ncia%20e%20articula%C3%A7%C3%A3o%20dos%20argumentos.md) e [LP.04](LP.04%20Sele%C3%A7%C3%A3o%20vocabular.md) detalham os critérios com que esse domínio é avaliado.
 
+## Cobertura extra — casos ainda não cobrados
+
+A objetiva de Farmácia nunca pediu *produção* de texto. Se a banca estrear discursiva, ou se a objetiva cobrar “qualidade da escrita” no texto de apoio, feche estes pontos.
+
+### Projeto de texto e tipos de parágrafo
+
+- **Introdução por contextualização** — dado, fato ou pergunta que desemboca na tese (não narre a vida toda).
+- **Introdução por definição / delimitação** — recorta o sentido de um termo do tema (*segurança* ≠ *policiamento*).
+- **Desenvolvimento por causa → efeito**, **problema → solução**, **concessão → refutação** (*embora X, Y*).
+- **Conclusão-síntese** (retoma teses parciais) × **conclusão-proposta** (medida compatível com o que se argumentou). Proposta que contradiz a tese zera o projeto.
+
+### Coesão que a banca lê como “domínio da escrita”
+
+| Recurso | Função | Risco |
+| :---- | :---- | :---- |
+| Conectivos lógicos | *portanto, contudo, além disso, por exemplo, ou seja* | repetir o mesmo (*além disso* em todo parágrafo) |
+| Retomada | pronome, sinônimo, hiperônimo, elipse | *isso/isso/isso* sem referente claro |
+| Paralelismo | mesma estrutura em enumerações | quebrar o padrão no terceiro item |
+| Progressão temática | dado → novo | repetir a tese com outras palavras (parágrafo vazio) |
+
+### Modalização (o autor “aparece” sem autobiografia)
+
+*É preciso, convém, parece, sem dúvida, em tese, pode-se afirmar* regulam o grau de certeza. Absolutos (*sempre, nunca, todos*) enfraquecem texto que pede matiz — e são isca na objetiva.
+
+### Revisão de prova (5 minutos)
+
+1. Tese da introdução = tese da conclusão?
+2. Cada parágrafo de desenvolvimento tem **uma** ideia e um exemplo?
+3. Há solecismo de *haver*, crase fantasma, vírgula entre sujeito e verbo?
+4. Algum período passa de três linhas sem pontuação?
+5. A proposta (se houver) cabe no tema?
+
 ## Pontos-chave
 
 - Tese ≠ tema. O tema é o assunto; a tese é o **ponto de vista** sobre o assunto.
