@@ -4,7 +4,9 @@ Tópicos de estudo para o concurso de Farmacêutico do Quadro de Oficiais da Sa�
 
 ## Como o repositório está organizado
 
-Uma pasta por **eixo** do conteúdo programático (7 eixos) e, dentro de cada uma, um arquivo `.md` por **tópico do edital** (67 tópicos). Cada arquivo de tópico já vem com os números da planilha de análise estatística (em quais editais o tópico foi exigido, em quantos editais, quantas questões gerou e a classificação de incidência) e com seções vazias para você preencher.
+Uma pasta por **eixo** do conteúdo programático (7 eixos de farmácia) e, dentro de cada uma, um arquivo `.md` por **tópico do edital** (67 tópicos). Cada arquivo de tópico já vem com os números da planilha de análise estatística (em quais editais o tópico foi exigido, em quantos editais, quantas questões gerou e a classificação de incidência) e com seções vazias para você preencher.
+
+As **matérias extras** (conhecimentos gerais, fora da farmácia) ficam em pastas próprias, no mesmo esquema: um `.md` por tópico do edital. O corpo desses arquivos é a letra da lei — transcrição verbatim da fonte citada.
 
 ```
 <eixo>/
@@ -34,6 +36,12 @@ Para citar uma imagem dentro de um arquivo de tópico: `![Descrição](recursos/
 | 6. Farmacoterapia Clínica | 18 | 38 | [abrir](6.%20Farmacoterapia%20Cl%C3%ADnica/README.md) |
 | 7. Farmácia Clínica e Cuidado Farmacêutico | 8 | 7 | [abrir](7.%20Farm%C3%A1cia%20Cl%C3%ADnica%20e%20Cuidado%20Farmac%C3%AAutico/README.md) |
 | **Total** | **67** | **124** | |
+
+## Matérias extras
+
+| Matéria | Tópicos | Pasta |
+| :---- | :---- | :---- |
+| Direitos Humanos | 2 | [abrir](Direitos%20Humanos/README.md) |
 
 ## Índice completo dos tópicos
 
@@ -138,6 +146,15 @@ Para citar uma imagem dentro de um arquivo de tópico: `![Descrição](recursos/
 | 7.06 | [Farmacoterapia no idoso e desprescrição](7.%20Farm%C3%A1cia%20Cl%C3%ADnica%20e%20Cuidado%20Farmac%C3%AAutico/7.06%20Farmacoterapia%20no%20idoso%20e%20desprescri%C3%A7%C3%A3o.md) | — (fora do edital) | 0 de 4 | 1 | Baixa incidência |
 | 7.07 | [Gestão da prática clínica](7.%20Farm%C3%A1cia%20Cl%C3%ADnica%20e%20Cuidado%20Farmac%C3%AAutico/7.07%20Gest%C3%A3o%20da%20pr%C3%A1tica%20cl%C3%ADnica.md) | 2023, 2024 | 2 de 4 | 0 | Nunca caiu |
 | 7.08 | [Cuidados farmacêuticos na atenção primária à saúde](7.%20Farm%C3%A1cia%20Cl%C3%ADnica%20e%20Cuidado%20Farmac%C3%AAutico/7.08%20Cuidados%20farmac%C3%AAuticos%20na%20aten%C3%A7%C3%A3o%20prim%C3%A1ria%20%C3%A0%20sa%C3%BAde.md) | 2013, 2017 | 2 de 4 | 0 | Nunca caiu |
+
+### Direitos Humanos
+
+A numeração **2.1** e **2.2** é a do edital desta matéria — não se confunde com o eixo 2 (Farmacotécnica). O corpo de cada arquivo é a letra da lei da fonte citada.
+
+| # | Tópico do edital | Fonte citada |
+| :---- | :---- | :---- |
+| 2.1 | [Declaração Universal dos Direitos Humanos](Direitos%20Humanos/2.1%20Declara%C3%A7%C3%A3o%20Universal%20dos%20Direitos%20Humanos.md) | Adotada pela Assembleia Geral das Nações Unidas em 10 de dezembro de 1948 |
+| 2.2 | [Convenção Americana sobre Direitos Humanos](Direitos%20Humanos/2.2%20Conven%C3%A7%C3%A3o%20Americana%20sobre%20Direitos%20Humanos.md) | Assinada na Conferência Especializada Interamericana sobre Direitos Humanos (San José da Costa Rica), em 22 de novembro de 1969 |
 
 ## Outros arquivos
 
