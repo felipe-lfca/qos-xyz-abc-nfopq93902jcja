@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "01e72ca138d52e3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7343fb8d9d99da94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb4ff8a572ea965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Farmacoterapia Clínica/testes/6.01 Farmacoterapia das doenças infecciosas - quimioterapia das doenças microbianas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.01 Farmacoterapia das doenças infecciosas - quimioterapia das doenças microbianas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ebb1524af4846de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "460b0d4f9b62b9dd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "263b004a49c94786",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "149aacca723aea0e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4642dc7edfa264b6",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "5285affb00d01950",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0f427fa5bbae4bd1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d3872d26fa148834",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "4. Segurança do Paciente e Controle de Infecção/4.01 Segurança do paciente, erros de medicação e protocolos básicos.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a73848ced5eacce0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "4. Segurança do Paciente e Controle de Infecção/4.01 Segurança do paciente, erros de medicação e protocolos básicos.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7505489ee143df92",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "4. Segurança do Paciente e Controle de Infecção/4.01 Segurança do paciente, erros de medicação e protocolos básicos.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fcb4ff8a572ea965",
+  "lastOpenFiles": [
+    "4. Segurança do Paciente e Controle de Infecção/4.01 Segurança do paciente, erros de medicação e protocolos básicos.md",
+    "6. Farmacoterapia Clínica/testes/6.04 Quimioterapia das doenças neoplásicas - distúrbios oncológicos.md",
+    "6. Farmacoterapia Clínica/6.04 Quimioterapia das doenças neoplásicas - distúrbios oncológicos.md",
+    "6. Farmacoterapia Clínica/6.06 Terapia farmacológica da inflamação e da dor.md",
+    "6. Farmacoterapia Clínica/6.02 Farmacoterapia cardiovascular (funções renal e cardiovascular).md"
+  ]
+}
