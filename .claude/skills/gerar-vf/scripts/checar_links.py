@@ -27,8 +27,13 @@ def gh_slug(titulo: str) -> str:
 
 
 def ancoras(caminho: str) -> set:
-    """Âncoras geradas pelos cabeçalhos de um arquivo (ignora blocos de código)."""
-    achadas, cerca = set(), False
+    """Âncoras geradas pelos cabeçalhos de um arquivo (ignora blocos de código).
+
+    Cabeçalhos repetidos recebem sufixo -1, -2, … como no github-slugger: o primeiro
+    fica sem número, o segundo vira `#título-1`. Sem isso, um sumário que aponta para
+    a segunda “Absorção, destino e excreção” parece certo e cai na seção errada.
+    """
+    achadas, cerca, vistas = set(), False, {}
     with open(caminho, encoding="utf-8") as fh:
         for linha in fh:
             if linha.lstrip().startswith("```"):
@@ -41,7 +46,14 @@ def ancoras(caminho: str) -> set:
                 continue
             texto = re.sub(r"[*_`]", "", m.group(1))
             texto = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", texto)
-            achadas.add(gh_slug(texto))
+            base = gh_slug(texto)
+            if base in vistas:
+                vistas[base] += 1
+                slug = f"{base}-{vistas[base]}"
+            else:
+                vistas[base] = 0
+                slug = base
+            achadas.add(slug)
     return achadas
 
 
