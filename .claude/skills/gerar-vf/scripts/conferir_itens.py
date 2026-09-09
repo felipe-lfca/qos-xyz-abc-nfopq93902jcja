@@ -43,6 +43,8 @@ def carregar(caminho):
             enun[int(n)] = re.sub(r"\s*`\[fonte \d+\]`", "", t).strip()
         for n, v in re.findall(r"^(\d+)\. \*\*\((V|F)\)\*\*", resto, flags=re.M):
             gab[int(n)] = v
+        for n, v in re.findall(r"<p><strong>(\d+)\. \((V|F)\)</strong>", resto):
+            gab[int(n)] = v
     return txt, enun, gab
 
 
@@ -82,6 +84,7 @@ def main(caminho):
         problemas.append(f"blocos com todos os itens do mesmo valor: {homog}")
 
     seq = re.findall(r"^(\d+)\. \*\*\(F\)\*\* — padrão (\d+)", txt, flags=re.M)
+    seq += re.findall(r"<p><strong>(\d+)\. \(F\)</strong> — padrão (\d+)", txt)
     rep = [seq[i][0] for i in range(1, len(seq))
            if seq[i][1] == seq[i-1][1]
            and int(seq[i][0]) == int(seq[i-1][0]) + 1

@@ -11,8 +11,11 @@ O objetivo não é produzir questões bonitas: é forçar **recuperação ativa*
 corrido dá sensação de domínio sem produzir retenção; tentar responder antes de ver a
 resposta produz. Por isso três coisas não são negociáveis no formato:
 
-1. **O gabarito fica escondido** (`<details>`), depois do bloco inteiro. Se a resposta
-   estiver visível, virou leitura.
+1. **O gabarito fica escondido** (`<details>`), depois do bloco inteiro, em HTML
+   numerado **sem linha em branco dentro da tag**. Se a resposta estiver visível, virou
+   leitura. Markdown com linha em branco dentro do `<details>` vaza do dropdown no
+   Obsidian (e em outros visualizadores CommonMark): o parser fecha o HTML na primeira
+   linha vazia, o gabarito aparece sempre aberto e clicar no resumo não faz nada.
 2. **Todo item falso é corrigido no gabarito.** Este é o ponto mais importante. Ler uma
    afirmação falsa cria familiaridade com a versão errada — se o gabarito disser apenas
    "(F)", você acaba de ensinar o erro. O gabarito precisa dizer *o que estava lá* e *o que
@@ -90,12 +93,12 @@ também *qual é o certo* — é isso que transforma reconhecimento em recupera�
 1. <afirmativa>
 2. ...
 
+<!-- -->
+
 <details>
 <summary><strong>GABARITO — bloco N</strong> — clique para revelar</summary>
-
-1. **(V)** — apoio: "<citação curta e literal>" · [seção](../<arquivo>.md#<âncora>)
-2. **(F)** — padrão N (<nome>) · consta: "<termo errado>" → correto: "<termo original>" · apoio: "<citação>" · [seção](../<arquivo>.md#<âncora>)
-
+<p><strong>1. (V)</strong> — apoio: "<citação curta e literal>" · <a href="../<arquivo>.md#<âncora>">seção</a></p>
+<p><strong>2. (F)</strong> — padrão N (<nome>) · consta: "<termo errado>" → correto: "<termo original>" · apoio: "<citação>" · <a href="../<arquivo>.md#<âncora>">seção</a></p>
 </details>
 
 ## Cobertura
@@ -115,9 +118,16 @@ todo é de metformina, metade do trabalho de recuperação já está feito. Disc
 parecidos é exatamente o que a prova cobra. A tabela de cobertura, ao final, é que organiza o
 material por seção.
 
-**Use links de referência** para não repetir o caminho longo do arquivo de teoria em cada item:
-defina `[rótulo]: ../<arquivo>.md#<âncora>` no fim do arquivo e escreva `[seção][rótulo]` no
-gabarito. O validador confere as duas formas.
+O `<!-- -->` antes do `<details>` encerra a lista numerada dos enunciados, para o
+dropdown não ser engolido como continuação do item 5. **Não deixe linha em branco**
+entre `<summary>` e o primeiro `<p>`, nem entre os `<p>`, nem antes de `</details>`:
+esse bloco precisa ser um único bloco HTML. Escape `<` `>` `&` no texto (`&lt;` `&gt;`
+`&amp;`). Cada item leva o número explícito (`1. (V)`, `6. (F)`, `11. (V)`…) para a
+leitura no dropdown aberto.
+
+**Use links de referência** na tabela de cobertura: defina `[rótulo]: ../<arquivo>.md#<âncora>`
+no fim do arquivo. **No gabarito**, o link vai em HTML (`<a href="../<arquivo>.md#<âncora>">seção</a>`),
+porque o conteúdo do `<details>` não passa pelo Markdown. O validador confere as duas formas.
 
 ## Como escrever os itens
 
