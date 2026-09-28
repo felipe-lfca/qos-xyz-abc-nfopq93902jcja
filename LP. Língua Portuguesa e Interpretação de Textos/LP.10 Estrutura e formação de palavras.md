@@ -50,9 +50,11 @@ Palavras se formam por **derivação** (um radical + afixos ou mudança de class
 | **Justaposição** | elementos conservam acento e autonomia; hífen ou não | *guarda-costas*, *passatempo*, *segunda-feira* |
 | **Aglutinação** | perde-se elemento fônico; um só acento | *planalto* (plano+alto), *hidrelétrico* (hidro+elétrico), *embora* |
 
+**Regra prática:** confira se as duas palavras originais continuam **inteiras** dentro da nova. Se continuam, é justaposição (*passa* + *tempo* → *passatempo*, hífen ou não é irrelevante). Se alguma perdeu som/letra ao se fundir, é aglutinação (*plano* + *alto* → *planalto*, perdeu o *-o* de *plano*; *água* + *ardente* → *aguardente*; *filho* + *de* + *algo* → *fidalgo*; *em* + *boa* + *hora* → *embora*).
+
 #Q2017-09: *coaxar* = onomatopeia; *hidrelétrico* = aglutinação; *televisão* = hibridismo (grego *tele* + latino *visão*); *guarda-costas* = justaposição; *banditismo* = sufixação; *desconhecer* = prefixação. Gabarito: 3, 6, 4, 5, 1, 2.
 
-#Q2022-06: *passatempo* justaposição, *planalto* aglutinação, *intolerante* prefixação.
+#Q2022-06: *passatempo* (passa+tempo, as duas palavras continuam inteiras) = justaposição; *planalto* (plano+alto, perdeu o "o" de *plano*) = aglutinação; *intolerante* (prefixo *in-* + a palavra já existente *tolerante*, não são duas palavras autônomas) = prefixação — não confundir com composição, pois só há **um** radical com significado próprio. Distratores: trocam a ordem justaposição/aglutinação entre si, ou atribuem prefixação a *planalto* e aglutinação a *intolerante*.
 
 ### Outros processos
 
@@ -109,6 +111,8 @@ A formação de advérbios em *-mente* é **sufixal** (pode haver dois sufixos: 
 - Parassíntese = dois afixos inseparáveis na formação. É a pegadinha número 1.
 - Regressiva: nomes de ação curtos tirados de verbos (*dança, corte, ataque, rapa, busca, avanço*).
 - Justaposição conserva; aglutinação funde (*planalto, aguardente, hidrelétrico*).
+- Mnemônico: aglutin**ação** é como cola — as palavras grudam e **perdem pedaços**; justaposição é "justo lado a lado", tudo inteiro.
+- Prefixação ≠ composição: se o pedaço antes da palavra não circula sozinho na língua (*in-, des-, re-, anti-*), é prefixo, não uma segunda palavra.
 - Hibridismo exige **línguas diferentes**, não dois gregos.
 
 ## Legislação e referências
