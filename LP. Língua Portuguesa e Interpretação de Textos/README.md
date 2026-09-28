@@ -78,6 +78,10 @@ O **Resumo** e os **Pontos-chave** de cada arquivo fecham o que a banca **já co
 
 Use o extra quando for **zerar um tópico** (lacuna do edital, incidência zero, ou revisão final). LP.17 e LP.23 só remetem ao extra de LP.15 e LP.18. O LP.30 é checklist de síntese: os detalhes ficam em LP.18, LP.20, LP.21 e LP.29.
 
+## Banco extra da banca CRS
+
+[`CRS_Banco_de_Questoes_LP.md`](CRS_Banco_de_Questoes_LP.md) reúne **230 questões** de Português de outras provas do CRS — QOS/2019, CFO (2013–2026), CFSd (2014–2025) e CFSd QPE (2014–2024) —, cada uma com o gabarito oficial e o tópico LP.xx. O arquivo tem sumário por tópico, então dá para treinar um item do edital de cada vez. Como no aproveitamento de 2022/2026, essas questões **não** entram na coluna “Questões” da tabela acima.
+
 ## Aproveitamento (2022 e 2026)
 
 O banco também traz Português das provas de QOS/2022 (Psiquiatria) e CCOS/2026 (Psicologia). Essas 19 questões **não** entram na coluna “Questões” acima; estão em «Questões relacionadas» de cada tópico, como treino extra da mesma banca.

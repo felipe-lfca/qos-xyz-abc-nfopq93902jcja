@@ -10,3 +10,5 @@ O corpo de cada arquivo é a **letra da lei**: transcrição verbatim da fonte c
 | 2.2 | [Convenção Americana sobre Direitos Humanos](2.2%20Conven%C3%A7%C3%A3o%20Americana%20sobre%20Direitos%20Humanos.md) | Assinada na Conferência Especializada Interamericana sobre Direitos Humanos (San José da Costa Rica), em 22 de novembro de 1969 | [180 itens](testes/2.2%20Conven%C3%A7%C3%A3o%20Americana%20sobre%20Direitos%20Humanos.md) |
 
 Questões das provas (2013, 2017, 2022, 2023, 2024 e 2026) estão em `QOS_PMMG_Banco_de_Questoes.md`, filtráveis por `#DH`.
+
+Treino extra da mesma banca: [`CRS_Banco_de_Questoes_DH.md`](CRS_Banco_de_Questoes_DH.md) traz **28 questões** sobre DUDH e Convenção Americana de outras provas do CRS (QOS/2019, CFO, CFSd e CFSd QPE), com gabarito oficial.
