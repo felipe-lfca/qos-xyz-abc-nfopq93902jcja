@@ -30,18 +30,37 @@ Palavras se formam por **derivação** (um radical + afixos ou mudança de class
 
 ### Derivação
 
-| Tipo | Mecanismo | Exemplos cobrados |
-| :---- | :---- | :---- |
-| **Prefixal** | prefixo + radical | *desconhecer*, *intolerante*, *assimetrias* |
-| **Sufixal** | radical + sufixo | *banditismo*, *culturalmente* (aqui há dois sufixos: *-al* + *-mente*) |
-| **Prefixal e sufixal** | os dois, em **etapas** (a palavra existe com só um dos afixos) | *infelizmente* (*infeliz* existe; *felizmente* existe) |
-| **Parassintética** | prefixo **e** sufixo **ao mesmo tempo** (não existe a forma só com um) | *emudecer* (*mudecer* e *emudo* não circulam nesse sentido) — **#Q2013-05** |
-| **Regressiva** | redução, em geral verbo → nome | *avanço* ← *avançar*; *busca* ← *buscar* — **#Q2024-05** |
-| **Imprópria** (conversão) | muda a classe sem afixo | *o jantar* (verbo → substantivo); *o não* |
+| Tipo | Mecanismo | Exemplos cobrados | Mais exemplos |
+| :---- | :---- | :---- | :---- |
+| **Prefixal** | prefixo + radical | *desconhecer*, *intolerante*, *assimetrias* | *infeliz* (*in-* + *feliz*), *desfazer* (*des-* + *fazer*), *reler* (*re-* + *ler*) |
+| **Sufixal** | radical + sufixo | *banditismo*, *culturalmente* (aqui há dois sufixos: *-al* + *-mente*) | *felizmente* (*feliz* + *-mente*), *pedreiro* (*pedra* + *-eiro*) |
+| **Prefixal e sufixal** | os dois, em **etapas** (a palavra existe com só um dos afixos) | *infelizmente* (*infeliz* existe; *felizmente* existe) | *deslealdade* (*desleal* existe; *lealdade* existe) |
+| **Parassintética** | prefixo **e** sufixo **ao mesmo tempo** (não existe a forma só com um) | *emudecer* (*mudecer* e *emudo* não circulam nesse sentido) — **#Q2013-05** | *entristecer* (*en-* + *triste* + *-ecer*), *amanhecer* (*a-* + *manhã* + *-ecer*), *aproximar* (*a-* + *próximo* + *-ar*; base de *aproximações*, #Q2024-05) |
+| **Regressiva** | redução, em geral verbo → nome | *avanço* ← *avançar*; *busca* ← *buscar* — **#Q2024-05** | *ajuda* ← *ajudar*; *choro* ← *chorar*; *compra* ← *comprar* |
+| **Imprópria** (conversão) | muda a classe sem afixo | *o jantar* (verbo → substantivo); *o não* | *um não*; *o porquê*; *o olhar* |
 
 #Q2013-05: *absolutamente* é sufixal; *incapaz* é prefixal; *combater* é prefixal (com- + bater) ou lexicalizado; **emudecer** é parassintético (e- + mud- + -ecer).
 
-#Q2024-05: *culturalmente* e *aproximações* **não** são o mesmo tipo (sufixal adverbial × sufixal nominal). *Monoteístas* não é hibridismo (grego+grego). *Assimetrias* é prefixal (*a-* + *simetria*), não imprópria. **Avanço** e **busca** são regressivos.
+#Q2024-05 — gabarito **C**: *avanço* e *busca* são formadas por **derivação regressiva**. Alternativa por alternativa:
+
+- **C) Correta.** *avançar* → **avanço**; *buscar* → **busca**. São substantivos abstratos de **ação** tirados de verbos: cai a terminação verbal (*-ar*) e entra *-o* ou *-a*. Teste prático: a palavra derivada é **mais curta** que a de origem, e o verbo veio antes — o substantivo nasceu do verbo, não o contrário.
+- **A) Errada** (*culturalmente* e *aproximações* seriam do mesmo tipo de derivação). *Culturalmente* = *cultura* → *cultural* (*-al*) → *culturalmente* (*-mente*): só **sufixação**, com dois sufixos em sequência. *Aproximações* parte de *aproximar*, que já é **parassintético** (*a-* + *próximo* + *-ar*), e depois recebe o sufixo *-ção* (o *-s* final é plural, flexão). Os processos não são os mesmos. Há discussão na gramática, porque a última etapa de *aproximação* também é sufixal, mas o gabarito e a lógica do enunciado ("mesmo tipo") derrubam o item. Rotular a diferença só como "sufixal adverbial × sufixal nominal" não basta: nos dois casos continuaria sendo derivação sufixal — o que separa as palavras é a parassíntese na base de *aproximações*.
+- **B) Errada** (*monoteístas* seria hibridismo). **Hibridismo** junta elementos de **línguas diferentes**: *automóvel* (grego *auto* + latim *móvel*), *sociologia* (latim *socio* + grego *logia*), *burocracia* (francês *bureau* + grego *-cracia*). *Monoteísta* = *mono* + *teísta*, os dois de origem **grega** — não é híbrida.
+- **D) Errada** (*assimetrias* seria derivação imprópria). *Assimetrias* = *a-* (prefixo de negação) + *simetria* + *-s*: **derivação prefixal**. O *-s* é só a marca de plural, que é **flexão**, não formação de palavra. A imprópria exigiria mudar a classe da palavra sem mudar a forma, o que não ocorre aqui.
+
+**Esquema para fixar** — pergunte nesta ordem:
+
+| Pergunta | Se sim, é… |
+| :---- | :---- |
+| Só mudou a classe, sem mudar a forma? | Imprópria (*o jantar*) |
+| É substantivo de ação **mais curto** que o verbo de origem? | Regressiva (*avanço*, *busca*) |
+| Prefixo e sufixo entram **juntos**, e não existe a palavra só com um deles? | Parassintética (*entristecer*) |
+| Prefixo e sufixo, mas a palavra existe com só um deles? | Prefixal e sufixal (*infelizmente*) |
+| Só prefixo antes? | Prefixal (*assimetria*) |
+| Só sufixo depois? | Sufixal (*culturalmente*) |
+| Elementos de **línguas diferentes**? | Hibridismo — processo à parte, não é tipo de derivação (*automóvel*) |
+
+**Pegadinha da regressiva:** ela costuma aparecer com substantivos como *ajuda, fala, luta, pesca, perda, corte, abuso, atraso, debate*. Se o substantivo indica ação e existe um verbo parecido, pergunte sempre "quem veio primeiro?". O critério clássico, do filólogo Mário Barreto e repetido nas gramáticas: substantivo que denota **ação** é o derivado, e o verbo é o primitivo (*dança* ← *dançar*, *ataque* ← *atacar*); substantivo que nomeia **objeto ou substância** é o primitivo, e o verbo é que vem dele (*âncora* → *ancorar*, *azeite* → *azeitar*, *escudo* → *escudar*) — nesse caso não há regressão.
 
 ### Composição
 
@@ -58,7 +77,7 @@ Palavras se formam por **derivação** (um radical + afixos ou mudança de class
 
 ### Outros processos
 
-- **Hibridismo** — radicais de línguas diferentes: *televisão*, *automóvel*, *sociologia* (às vezes discutido). *Monoteísta* é grego+grego — **não** é o exemplo da banca para hibridismo (#Q2024-05 B errada).
+- **Hibridismo** — radicais de línguas diferentes: *televisão* (grego *tele* + latim *visão*), *automóvel* (grego *auto* + latim *móvel*), *sociologia* (latim *socio* + grego *logia*; às vezes discutido), *burocracia* (francês *bureau* + grego *-cracia*). *Monoteísta* é grego+grego — **não** é o exemplo da banca para hibridismo (#Q2024-05 B errada).
 - **Onomatopeia** — *coaxar, tique-taque, zum-zum*.
 - **Sigla / acrônimo / abreviação** — *SUS, Aids, foto* (de fotografia).
 - **Neologismo e estrangeirismo** — *deletar, delivery*.
@@ -109,7 +128,8 @@ A formação de advérbios em *-mente* é **sufixal** (pode haver dois sufixos: 
 
 - #Q2013-05 · #Q2017-09 · #Q2024-05
 - Parassíntese = dois afixos inseparáveis na formação. É a pegadinha número 1.
-- Regressiva: nomes de ação curtos tirados de verbos (*dança, corte, ataque, rapa, busca, avanço*).
+- Regressiva: nomes de ação curtos tirados de verbos (*dança, corte, ataque, rapa, busca, avanço, ajuda, choro, compra, luta, perda, atraso*). Na dúvida, "quem veio primeiro?": nome de **ação** vem do verbo; nome de **objeto** (*âncora* → *ancorar*) é o primitivo.
+- Flexão ≠ formação: o *-s* de *assimetrias* é só plural — a palavra é prefixal (*a-* + *simetria*), não imprópria (#Q2024-05 D).
 - Justaposição conserva; aglutinação funde (*planalto, aguardente, hidrelétrico*).
 - Mnemônico: aglutin**ação** é como cola — as palavras grudam e **perdem pedaços**; justaposição é "justo lado a lado", tudo inteiro.
 - Prefixação ≠ composição: se o pedaço antes da palavra não circula sozinho na língua (*in-, des-, re-, anti-*), é prefixo, não uma segunda palavra.

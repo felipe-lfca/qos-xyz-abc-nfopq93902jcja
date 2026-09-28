@@ -150,6 +150,48 @@ repetir o mesmo padrão de corrupção em sequência.
 aplicar um critério ("paciente de 58 anos, homem, hipertenso, sem DCV estabelecida — cumpre o
 critério etário?") vale mais que três de repetição de número, e é assim que a banca cobra.
 
+## O que não fazer — exemplos reais
+
+Itens que o usuário já devolveu por não servirem como pergunta. Antes de fechar um bloco,
+confira se nenhum item cai num destes defeitos.
+
+**1. A nota da teoria colada como item.** O item 1 dos testes de 6.04 dizia:
+
+> A RDC nº 220, de 21/09/2004, não foi revogada: a Portaria ANVISA nº 1.644, de 30/12/2024, a
+> lista entre as RDCs em vigor até 30/11/2024 (item 63 do anexo).
+
+Não há o que julgar nisso:
+
+- É a frase da teoria quase copiada, com a justificativa grudada depois dos dois-pontos: o
+  enunciado traz a própria resposta.
+- A sintaxe engana. "A Portaria…, **a lista** entre as RDCs" se lê como artigo + substantivo
+  ("a lista"), e a frase parece ficar sem verbo; "em vigor **até** 30/11/2024" sugere que a RDC
+  perdeu a vigência nessa data — o contrário do que o item quer dizer (a data é só o corte do
+  levantamento).
+- Testa o aparato da citação (número da portaria, duas datas, "item 63 do anexo"), que a prova
+  não cobra, em vez do conhecimento: a RDC 220 vale, e é ela que rege o serviço.
+- É o espelho do item 2 do mesmo bloco ("deve ser tratada como revogada"): quem responde um já
+  respondeu o outro.
+
+Uma afirmativa boa tem **uma** proposição, decidida por conhecimento, sem apoio no próprio
+enunciado. O item virou: "Pela RDC nº 220/2004, a manipulação de antineoplásicos só precisa ser
+paralisada quando a interrupção no funcionamento da CSB durar mais de 30 minutos." (F — qualquer
+interrupção paralisa na hora).
+
+**2. Remissão a questão que o usuário não vê.** O item 4 do mesmo arquivo dizia: "Pelo texto
+cobrado em #Q2024-21, o kit de derramamento é obrigatório em todos os setores do serviço de
+terapia antineoplásica."
+
+- O usuário responde os blocos sem o banco de questões aberto; "o texto cobrado em #Q2024-21"
+  não lhe diz nada. Se o item remete a uma questão real, **traga o texto dela para o
+  enunciado** (ou o caso, no item de aplicação), nunca só o código. Isso não muda a regra de
+  ouro: o trecho da questão é contexto; o fato que decide o item continua saindo da teoria.
+- A paráfrase mudou o que a banca escreveu ("todos os setores **do hospital**" virou "do serviço
+  de terapia antineoplásica") — e, com isso, a resposta possível.
+- O gabarito só negava ("não é em todos os setores"), sem dizer onde o kit **é** exigido, e
+  citava um resumo em vez da norma. Todo F traz a regra certa, e a citação aponta para o texto
+  da norma — se ela estiver transcrita em outro tópico (a RDC 220 está em 2.04), linke lá.
+
 ## Padrões de corrupção
 
 Varie entre eles e não repita o mesmo tipo em sequência. Os sete primeiros vêm do uso já
