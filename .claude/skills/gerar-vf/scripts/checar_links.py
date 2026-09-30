@@ -44,7 +44,9 @@ def ancoras(caminho: str) -> set:
             m = re.match(r"^#{1,6}\s+(.*?)\s*$", linha)
             if not m:
                 continue
-            texto = re.sub(r"[*_`]", "", m.group(1))
+            # tags HTML inline (ex.: <sup>a</sup>) somem: o GitHub usa só o texto renderizado
+            texto = re.sub(r"</?[A-Za-z][A-Za-z0-9-]*(?:\s[^<>]*)?/?>", "", m.group(1))
+            texto = re.sub(r"[*_`]", "", texto)
             texto = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", texto)
             base = gh_slug(texto)
             if base in vistas:

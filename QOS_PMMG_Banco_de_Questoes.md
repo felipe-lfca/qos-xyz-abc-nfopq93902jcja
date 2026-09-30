@@ -9194,53 +9194,41 @@ ATENÇÃO — o gabarito abaixo é o PRELIMINAR, divulgado em 08/02/2026. Nas pr
 
 ### **Textos de apoio — 2026 · Língua Portuguesa**
 
-Leia atentamente os textos abaixo e, em seguida, responda às questões propostas.  
-Texto I  
-Inovações na Saúde Digital: Telemedicina e Suas Aplicações Futuras  
-A telemedicina está revolucionando a maneira como os cuidados de saúde são prestados em todo o mundo.  
-Com a rápida adoção de tecnologias digitais, a medicina a distância tornou-se uma solução viável e eficiente,  
-especialmente durante a pandemia de COVID-19, quando o distanciamento social e a sobrecarga dos  
-sistemas de saúde exigiram alternativas mais acessíveis e seguras.  
-Embora a telemedicina já existisse em uma forma rudimentar há algumas décadas, as inovações tecnológicas  
-recentes impulsionaram seu desenvolvimento, tornando-a um dos pilares da saúde digital.  
-O principal benefício da telemedicina é a ampliação do acesso a serviços de saúde, especialmente em áreas  
-remotas ou subatendidas. Pacientes que antes enfrentavam barreiras geográficas ou econômicas agora  
-podem acessar consultas médicas, diagnósticos e tratamentos sem sair de casa. Além disso, a telemedicina  
-permite um acompanhamento mais contínuo de condições crônicas, oferecendo maior conveniência e  
-controle sobre os cuidados com a saúde.  
-No entanto, as inovações tecnológicas estão elevando o potencial da telemedicina para um novo patamar.  
-Ferramentas de inteligência artificial (IA) estão sendo integradas para auxiliar médicos no diagnóstico de  
-doenças, oferecendo análises rápidas e precisas com base em grandes volumes de dados clínicos.  
-Além disso, os dispositivos de monitoramento remoto, como sensores de saúde vestíveis e aplicativos de  
-smartphone, permitem o acompanhamento em tempo real dos sinais vitais e condições de saúde dos  
-pacientes, criando um ambiente de cuidados mais proativo e personalizado.  
-A realidade virtual (VR) e a realidade aumentada (AR) também estão começando a desempenhar um papel  
-significativo no treinamento médico e na simulação de cirurgias a distância.  
-Com essas ferramentas, estudantes de medicina podem aprender técnicas complexas de forma interativa e  
-prática, enquanto cirurgiões experientes podem orientar procedimentos remotamente, auxiliando médicos em  
-tempo real, independentemente da localização geográfica.  
-O futuro da telemedicina promete um cuidado ainda mais integrado e eficiente. A interoperabilidade entre  
-diferentes plataformas de saúde, a segurança dos dados e a evolução da regulamentação são desafios  
-importantes, mas as inovações continuam a abrir caminhos para um sistema de saúde mais inclusivo e  
-centrado no paciente.  
-Para os jovens acadêmicos, essa é uma área de crescente relevância, oferecendo novas oportunidades de  
-aprendizado e desenvolvimento profissional, além de um impacto positivo direto na sociedade.  
-\[...\]  
-CENTRO UNIVERSITÁRIO CENTRAL PAULISTA. Inovações na Saúde Digital: Telemedicina e Suas Aplicações  
-Futuras. (Texto adaptado) 14 de fev. 2025\. Disponível em: https://www.unicep.edu.br. Acesso em: 5 de nov. de 2025\.  
-Texto II  
-O Saúde Online IPSM é um Serviço de Telessaúde pensado para facilitar o acesso dos nossos beneficiários  
-à saúde. O objetivo é acompanhar você em qualquer lugar, ofertando um serviço de atendimento de urgência  
-ou com especialista, a qualquer hora, em todo o território nacional, de maneira simples e segura.  
-Tenha uma equipe médica à sua disposição diretamente no seu celular. Com o Saúde Online IPSM, falar com  
-um médico nunca foi tão fácil\! E o melhor: o atendimento imediato é 24 horas por dia.  
-Ao sinal da sua primeira queixa ou dúvida de saúde, seja no horário e dia que for, você pode contar com o  
-acolhimento de forma imediata e segura.  
-Com a solução, você vai poder conversar virtualmente com médicos ou outros profissionais de saúde e  
-aproveitar benefícios importantes, como: evitar filas e aglomerações em pronto atendimento, realizar  
-teleconsultas de qualquer lugar do país e ter acesso a especialidades médicas de maneira mais rápida.  
-INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES MILITARES DO ESTADO DE MINAS GERAIS. Saúde 24 horas  
-(Texto adaptado). Disponível em: https://www.ipsm.saude24h.com.br/. Acesso em: 5 de nov. de 2025\.
+Leia atentamente os textos abaixo e, em seguida, responda às questões propostas.
+
+**Texto I**
+
+**Inovações na Saúde Digital: Telemedicina e Suas Aplicações Futuras**
+
+A telemedicina está revolucionando a maneira como os cuidados de saúde são prestados em todo o mundo. Com a rápida adoção de tecnologias digitais, a medicina a distância tornou-se uma solução viável e eficiente, especialmente durante a pandemia de COVID-19, quando o distanciamento social e a sobrecarga dos sistemas de saúde exigiram alternativas mais acessíveis e seguras. Embora a telemedicina já existisse em uma forma rudimentar há algumas décadas, as inovações tecnológicas recentes impulsionaram seu desenvolvimento, tornando-a um dos pilares da saúde digital.
+
+O principal benefício da telemedicina é a ampliação do acesso a serviços de saúde, especialmente em áreas remotas ou subatendidas. Pacientes que antes enfrentavam barreiras geográficas ou econômicas agora podem acessar consultas médicas, diagnósticos e tratamentos sem sair de casa. Além disso, a telemedicina permite um acompanhamento mais contínuo de condições crônicas, oferecendo maior conveniência e controle sobre os cuidados com a saúde.
+
+No entanto, as inovações tecnológicas estão elevando o potencial da telemedicina para um novo patamar. Ferramentas de inteligência artificial (IA) estão sendo integradas para auxiliar médicos no diagnóstico de doenças, oferecendo análises rápidas e precisas com base em grandes volumes de dados clínicos.
+
+Além disso, os dispositivos de monitoramento remoto, como sensores de saúde vestíveis e aplicativos de smartphone, permitem o acompanhamento em tempo real dos sinais vitais e condições de saúde dos pacientes, criando um ambiente de cuidados mais proativo e personalizado.
+
+A realidade virtual (VR) e a realidade aumentada (AR) também estão começando a desempenhar um papel significativo no treinamento médico e na simulação de cirurgias a distância. Com essas ferramentas, estudantes de medicina podem aprender técnicas complexas de forma interativa e prática, enquanto cirurgiões experientes podem orientar procedimentos remotamente, auxiliando médicos em tempo real, independentemente da localização geográfica.
+
+O futuro da telemedicina promete um cuidado ainda mais integrado e eficiente. A interoperabilidade entre diferentes plataformas de saúde, a segurança dos dados e a evolução da regulamentação são desafios importantes, mas as inovações continuam a abrir caminhos para um sistema de saúde mais inclusivo e centrado no paciente.
+
+Para os jovens acadêmicos, essa é uma área de crescente relevância, oferecendo novas oportunidades de aprendizado e desenvolvimento profissional, além de um impacto positivo direto na sociedade.
+
+\[...\]
+
+CENTRO UNIVERSITÁRIO CENTRAL PAULISTA. Inovações na Saúde Digital: Telemedicina e Suas Aplicações Futuras. (Texto adaptado) 14 de fev. 2025\. Disponível em: https://www.unicep.edu.br. Acesso em: 5 de nov. de 2025\.
+
+**Texto II**
+
+O Saúde Online IPSM é um Serviço de Telessaúde pensado para facilitar o acesso dos nossos beneficiários à saúde. O objetivo é acompanhar você em qualquer lugar, ofertando um serviço de atendimento de urgência ou com especialista, a qualquer hora, em todo o território nacional, de maneira simples e segura.
+
+Tenha uma equipe médica à sua disposição diretamente no seu celular. Com o Saúde Online IPSM, falar com um médico nunca foi tão fácil\! E o melhor: o atendimento imediato é 24 horas por dia.
+
+Ao sinal da sua primeira queixa ou dúvida de saúde, seja no horário e dia que for, você pode contar com o acolhimento de forma imediata e segura.
+
+Com a solução, você vai poder conversar virtualmente com médicos ou outros profissionais de saúde e aproveitar benefícios importantes, como: evitar filas e aglomerações em pronto atendimento, realizar teleconsultas de qualquer lugar do país e ter acesso a especialidades médicas de maneira mais rápida.
+
+INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES MILITARES DO ESTADO DE MINAS GERAIS. Saúde 24 horas (Texto adaptado). Disponível em: https://www.ipsm.saude24h.com.br/. Acesso em: 5 de nov. de 2025\.
 
 ### **2026 · Q01 — Língua Portuguesa**
 

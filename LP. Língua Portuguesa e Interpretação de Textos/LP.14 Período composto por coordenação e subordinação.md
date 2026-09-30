@@ -59,7 +59,9 @@ Vale por um **adjetivo**; introduzida por pronome relativo. Função: **adjunto 
 - **Restritiva** — sem vírgulas: *A resposta que você me deu foi satisfatória* (#Q2022-08).
 - **Explicativa** — com vírgulas: *Nossos instrumentos de pesquisa, que tanto ampliam nossa visão de mundo, têm limites* (#Q2024-04).
 
-Funções do relativo *dentro* da oração adjetiva: [LP.15](LP.15%20Fun%C3%A7%C3%B5es%20sint%C3%A1ticas%20dos%20pronomes%20relativos.md).
+**Teste para não confundir com substantiva:** se dá para trocar o *que* por **"o qual/a qual"**, é pronome relativo (adjetiva) — *a resposta [**a qual** você me deu]* ✓. Se não dá, é conjunção integrante (substantiva) — *é provável [**a qual** ele não venha]* ✗, então a oração é sujeito de *é provável* (#Q2022-07/#Q2022-08: mesma prova cobrou as duas, uma em cada questão).
+
+Funções do relativo *dentro* da oração adjetiva: [LP.15](LP.15%20Fun%C3%A7%C3%B5es%20sint%C3%A1ticas%20dos%20pronomes%20relativos.md) (inclui #Q2022-09 — *que* como objeto direto em *Há coisas que aprendemos tarde*).
 
 ### Subordinação adverbial
 
@@ -104,6 +106,7 @@ Relativo, integrante, consecutivo (*tão… que*), explicativo (*Abra a porta, q
 - *Consta que*, *parece que*, *é preciso que*, *sabe-se que* → subjetiva.
 - Adjetiva = tem antecedente substantivo; substantiva = o *que* integrante **não** retoma substantivo.
 - Explicativa tem vírgulas e informação acessória; restritiva seleciona o referente.
+- Mnemônico rápido: substantiva → teste com **"isso"**; adjetiva → teste com **"o qual"**.
 
 ## Legislação e referências
 

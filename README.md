@@ -202,6 +202,8 @@ A numeração **2.1** e **2.2** é a do edital desta matéria — não se confun
 ## Outros arquivos
 
 - `QOS_PMMG_Banco_de_Questoes.md` — banco de questões comentado das provas de 2013, 2017, 2022, 2023, 2024 e 2026. Os gabaritos e comentários ficam em blocos recolhíveis (`Gabarito oficial — clique para revelar`), para dar para responder antes de ver a resposta.
+- `LP. Língua Portuguesa e Interpretação de Textos/CRS_Banco_de_Questoes_LP.md` — 230 questões de Português de outras provas da banca CRS (QOS/2019, CFO, CFSd e CFSd QPE, 2013–2026), com gabarito oficial e tópico LP.xx de cada uma. Treino extra; não entra na contagem de incidência.
+- `Direitos Humanos/CRS_Banco_de_Questoes_DH.md` — 28 questões de DUDH e Convenção Americana das mesmas provas, com gabarito oficial.
 - `livros/` — material de apoio em markdown.
 
 *Os números de editais, questões e incidência dos eixos de Farmácia vêm da planilha `QOS_PMMG_Analise_Estatistica`, abas «6. Cobertura do edital» e «7. Lacunas» (editais e provas de 2013, 2017, 2023 e 2024). Em Língua Portuguesa, a incidência foi mapeada no banco `QOS_PMMG_Banco_de_Questoes.md` sobre as mesmas quatro provas.*
